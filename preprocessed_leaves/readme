@@ -1,1 +1,3 @@
 Preprocessed leaves as an array
+Leaves are jpg files that have been processed using opencv and landmarked using our leaf shape analysis. 
+The array files are named to match their respective datasets
