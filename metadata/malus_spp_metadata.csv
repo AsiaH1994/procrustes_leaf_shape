@@ -1,0 +1,1561 @@
+﻿file,dataset,px_cm,genotype,node,base_x,base_y,tip_x,tip_y,rosette_id
+1001-27.jpg,apple,14.717,Malus domestica,0,7580,5841,7289.17,2433.5,zz
+1001-29.jpg,apple,13.672,Malus domestica,0,1232,5824,639.5,2543.5,zz
+1001-30.jpg,apple,15.943,Malus domestica,0,5648,5968,4959.5,2879.5,zz
+1001-31.jpg,apple,17.978,Malus domestica,0,2272,4800,2895.5,8703.5,zz
+1001-32.jpg,apple,15.613,Malus domestica,0,6928,4976,6975.5,8319.5,zz
+1001-33.jpg,apple,15.08,Malus domestica,0,4417,5252,4800.5,8485.5,zz
+1001-34.jpg,apple,12.194,Malus domestica,0,768,5522,803.5,8761.5,zz
+1010-682.jpg,apple,13.813,Malus domestica,0,5141,348,7948.5,1361.5,zz
+1010-683.jpg,apple,11.039,Malus domestica,0,5744,1620,2515.5,1619.5,zz
+1010-685.jpg,apple,16.142,Malus domestica,0,972,5532,755.5,2045.5,zz
+1010-688.jpg,apple,18.152,Malus domestica,0,4579,5064,5602.5,8775.5,zz
+1010-689.jpg,apple,17.927,Malus domestica,0,1758,5140,1043.5,8883.5,zz
+1010-691.jpg,apple,16.274,Malus domestica,0,3352,5810,3291.5,8857.5,zz
+1014-2-693.jpg,apple,35.442,Malus domestica,0,5443,5400,5346.5,631.5,zz
+1014-2-694.jpg,apple,30.783,Malus domestica,0,2624,5304,2695.5,711.5,zz
+1014-2-695.jpg,apple,40.303,Malus domestica,0,6595,3288,6594.5,8407.5,zz
+1014-2-696.jpg,apple,38.054,Malus domestica,0,1360,3840,823.5,8567.5,zz
+1014-2-697.jpg,apple,31.55,Malus domestica,0,4196,4020,3979.5,8595.5,zz
+1014-699.jpg,apple,40.248,Malus domestica,0,2440,5384,2855.5,367.5,zz
+1014-701.jpg,apple,40.228,Malus domestica,0,3839,3788,4182.5,8563.5,zz
+1014-702.jpg,apple,31.277,Malus domestica,0,1224,4084,975.5,8715.5,zz
+1014-703.jpg,apple,30.632,Malus domestica,0,6851,4328,6818.5,8735.5,zz
+1023-706.jpg,apple,25.743,Malus domestica,0,6348,2560,2131.5,687.5,zz
+1023-707.jpg,apple,20.84,Malus domestica,0,376,6176,1543.5,1583.5,zz
+1023-708.jpg,apple,14.078,Malus domestica,0,5939,5514,7498.5,2267.5,zz
+1023-709.jpg,apple,15.542,Malus domestica,0,2124,5844,3467.5,2627.5,zz
+1023-710.jpg,apple,17.19,Malus domestica,0,4191,6372,4826.5,2675.5,zz
+1023-711.jpg,apple,23.022,Malus domestica,0,3764,4408,2499.5,9047.5,zz
+1023-712.jpg,apple,17.682,Malus domestica,0,7043,4598,6616.5,8725.5,zz
+1029-2-727.jpg,apple,26.936,Malus domestica,0,1088,5908,1183.5,1203.5,zz
+1029-2-728.jpg,apple,19.323,Malus domestica,0,3965,5304,3988.5,1223.5,zz
+1029-2-729.jpg,apple,21.551,Malus domestica,0,5909,5342,6130.5,1417.5,zz
+1029-2-730.jpg,apple,25.304,Malus domestica,0,6665,4228,6466.5,8487.5,zz
+1029-2-731.jpg,apple,26.468,Malus domestica,0,2380,4294,2007.5,8705.5,zz
+1029-2-732.jpg,apple,22.95,Malus domestica,0,4913,4544,4528.5,8851.5,zz
+1029-734.jpg,apple,20.439,Malus domestica,0,3084,5166,3419.5,1187.5,zz
+1029-735.jpg,apple,25.931,Malus domestica,0,6233,5742,6052.5,1277.5,zz
+1029-736.jpg,apple,26.248,Malus domestica,0,1408,4062,1607.5,8461.5,zz
+1029-737.jpg,apple,24.166,Malus domestica,0,4385,4096,4822.5,8233.5,zz
+1031-2-474.jpg,apple,21.687,Malus domestica,0,3284,1248,6867.5,1191.5,zz
+1031-2-475.jpg,apple,27.532,Malus domestica,0,1840,5650,1655.5,1897.5,zz
+1031-2-476.jpg,apple,25.171,Malus domestica,0,3973,5982,3810.5,2069.5,zz
+1031-2-477.jpg,apple,25.192,Malus domestica,0,6426,5644,6557.5,2139.5,zz
+1031-2-478.jpg,apple,20.187,Malus domestica,0,1122,5080,905.5,8871.5,zz
+1031-2-479.jpg,apple,19.421,Malus domestica,0,3083,5120,2800.5,8629.5,zz
+1031-483.jpg,apple,20.867,Malus domestica,0,6288,6658,5291.5,3183.5,zz
+1031-484.jpg,apple,17.626,Malus domestica,0,2045,7936,3040.5,4593.5,zz
+1035-740.jpg,apple,15.466,Malus domestica,0,5917,1848,1739.5,2183.5,zz
+1035-741.jpg,apple,16.136,Malus domestica,0,588,5448,1331.5,2421.5,zz
+1035-742.jpg,apple,13.187,Malus domestica,0,3985,6220,5064.5,2703.5,zz
+1035-744.jpg,apple,16.411,Malus domestica,0,1800,6320,3279.5,2943.5,zz
+1035-748.jpg,apple,14.983,Malus domestica,0,2848,5558,3393.5,9145.5,zz
+1037-2-531.jpg,apple,22.804,Malus domestica,0,5769,5760,5204.5,1313.5,zz
+1037-2-533.jpg,apple,24.416,Malus domestica,0,6558,4142,6893.5,8245.5,zz
+1037-2-534.jpg,apple,23.973,Malus domestica,0,4161,4406,3590.5,8509.5,zz
+1037-537.jpg,apple,21.617,Malus domestica,0,4329,5490,4466.5,1095.5,zz
+1037-538.jpg,apple,27.971,Malus domestica,0,1722,3668,1025.5,8611.5,zz
+1037-539.jpg,apple,29.931,Malus domestica,0,5895,4022,5024.5,8947.5,zz
+1037-540.jpg,apple,30.276,Malus domestica,0,3615,4050,3146.5,8943.5,zz
+1037-541.jpg,apple,22.862,Malus domestica,0,7416,4222,7091.5,8671.5,zz
+1042-287.jpg,apple,20.923,Malus domestica,0,3273,8117,4136.5,3542.5,zz
+1042-289.jpg,apple,14.113,Malus domestica,0,4286,7874,3799.5,3811.5,zz
+1042-291.jpg,apple,14.097,Malus domestica,0,4404,7576,3855.5,3881.5,zz
+1042-293.jpg,apple,11.604,Malus domestica,0,3966,7460,4133.5,4381.5,zz
+1042-295.jpg,apple,12.347,Malus domestica,0,4048,7708,4023.5,4223.5,zz
+1042-297.jpg,apple,10.047,Malus domestica,0,4296,4238,4523.5,7463.5,zz
+1042-299.jpg,apple,14.55,Malus domestica,0,5310,4108,3179.5,7499.5,zz
+1042-303.jpg,apple,16.834,Malus domestica,0,3960,3736,4697.5,7861.5,zz
+1042-305.jpg,apple,10.922,Malus domestica,0,4456,4342,3839.5,7401.5,zz
+1042-307.jpg,apple,12.749,Malus domestica,0,3958,3993,3549.5,7430.5,zz
+1044-11.jpg,apple,17.22,Malus domestica,0,4004,3728,4031.5,7949.5,zz
+1044-13.jpg,apple,16.695,Malus domestica,0,4478,3830,3677.5,7878.5,zz
+1044-15.jpg,apple,21.194,Malus domestica,0,4390,3632,3555.5,8075.5,zz
+1044-17.jpg,apple,21.142,Malus domestica,0,4394,3630,3547.5,8067.5,zz
+1044-2-750.jpg,apple,16.091,Malus domestica,0,5912,1838,6095.5,5907.5,zz
+1044-2-751.jpg,apple,19.015,Malus domestica,0,4078,7672,4149.5,3375.5,zz
+1044-2-752.jpg,apple,18.175,Malus domestica,0,1820,4086,1811.5,8084.5,zz
+1044-5.jpg,apple,18.883,Malus domestica,0,4044,7936,4031.5,3767.5,zz
+1044-7.jpg,apple,18.324,Malus domestica,0,3762,8181,4385.5,3530.5,zz
+1044-9.jpg,apple,19.973,Malus domestica,0,4160,8000,4623.5,3675.5,zz
+1046-547.jpg,apple,16.522,Malus domestica,0,4350,1380,7331.5,1049.5,zz
+1046-548.jpg,apple,11.127,Malus domestica,0,5501,2298,2452.5,1967.5,zz
+1046-549.jpg,apple,15.114,Malus domestica,0,1330,6078,1537.5,2795.5,zz
+1046-550.jpg,apple,13.234,Malus domestica,0,4607,5204,2666.5,3007.5,zz
+1046-551.jpg,apple,14.313,Malus domestica,0,5425,6014,5720.5,3027.5,zz
+1046-552.jpg,apple,11.476,Malus domestica,0,6918,6048,7217.5,3227.5,zz
+1046-553.jpg,apple,17.831,Malus domestica,0,412,5346,2003.5,8877.5,zz
+1052-2-20.jpg,apple,26.906,Malus domestica,0,5364,7876,3809.5,3727.5,zz
+1052-2-22.jpg,apple,31.51,Malus domestica,0,4538,8050,4189.5,3633.5,zz
+1052-2-24.jpg,apple,24.235,Malus domestica,0,3272,3412,4285.5,8273.5,zz
+1052-2-26.jpg,apple,31.115,Malus domestica,0,3962,3620,3409.5,8109.5,zz
+1052-29.jpg,apple,26.147,Malus domestica,0,4122,8374,4787.5,3337.5,zz
+1052-31.jpg,apple,26.071,Malus domestica,0,4534,8004,4437.5,3663.5,zz
+1052-33.jpg,apple,22.528,Malus domestica,0,4218,8048,4019.5,3637.5,zz
+1052-35.jpg,apple,26.111,Malus domestica,0,4189,3342,3948.5,8387.5,zz
+1052-37.jpg,apple,30.171,Malus domestica,0,3774,3292,3893.5,8399.5,zz
+1052-39.jpg,apple,28.498,Malus domestica,0,3432,3356,3895.5,8339.5,zz
+1055-2-567.jpg,apple,17.824,Malus domestica,0,6552,5422,6101.5,1591.5,zz
+1055-2-568.jpg,apple,17.838,Malus domestica,0,3243,5872,3146.5,1955.5,zz
+1055-2-569.jpg,apple,21.485,Malus domestica,0,4773,4188,5150.5,7899.5,zz
+1055-2-570.jpg,apple,18.448,Malus domestica,0,2064,4536,1991.5,8255.5,zz
+1055-572.jpg,apple,19.608,Malus domestica,0,4779,4598,4286.5,653.5,zz
+1055-573.jpg,apple,18.062,Malus domestica,0,6627,4472,6410.5,971.5,zz
+1055-574.jpg,apple,17.736,Malus domestica,0,1866,5300,2033.5,1729.5,zz
+1055-575.jpg,apple,23.321,Malus domestica,0,7062,4478,6725.5,8421.5,zz
+1055-576.jpg,apple,22.37,Malus domestica,0,4167,4654,4196.5,8343.5,zz
+1064-591.jpg,apple,13.72,Malus domestica,0,4089,1146,7634.5,1151.5,zz
+1064-592.jpg,apple,13.945,Malus domestica,0,6281,2430,2758.5,2015.5,zz
+1064-593.jpg,apple,12.876,Malus domestica,0,7164,6204,7085.5,2747.5,zz
+1064-594.jpg,apple,14.028,Malus domestica,0,1504,5768,1267.5,2979.5,zz
+1064-595.jpg,apple,14.683,Malus domestica,0,5283,6604,5420.5,3159.5,zz
+1064-596.jpg,apple,18.619,Malus domestica,0,3731,6690,3388.5,3269.5,zz
+1064-597.jpg,apple,13.464,Malus domestica,0,4781,5426,4652.5,8875.5,zz
+1064-598.jpg,apple,13.023,Malus domestica,0,2586,5460,2593.5,8959.5,zz
+1064-599.jpg,apple,15.295,Malus domestica,0,6865,5576,6424.5,9037.5,zz
+1067-2-602.jpg,apple,23.577,Malus domestica,0,6192,5742,6431.5,1289.5,zz
+1067-2-603.jpg,apple,26.848,Malus domestica,0,4007,6162,4204.5,1393.5,zz
+1067-2-604.jpg,apple,28.695,Malus domestica,0,2046,5434,1331.5,1483.5,zz
+1067-2-605.jpg,apple,22.768,Malus domestica,0,3466,4552,3117.5,8873.5,zz
+1067-2-606.jpg,apple,22.124,Malus domestica,0,7110,4628,7379.5,8771.5,zz
+1067-2-607.jpg,apple,24.916,Malus domestica,0,1132,4666,963.5,8657.5,zz
+1067-2-608.jpg,apple,24.193,Malus domestica,0,5117.5,4911.5,4865.5,8701.5,zz
+1067-610.jpg,apple,29.067,Malus domestica,0,6396,3088,5975.5,7777.5,zz
+1067-611.jpg,apple,21.502,Malus domestica,0,4133,3704,4208.5,7681.5,zz
+1067-612.jpg,apple,26.726,Malus domestica,0,1829,3762,1822.5,8257.5,zz
+1069-614.jpg,apple,17.56,Malus domestica,0,4074.5,1043.5,7680.5,1163.5,zz
+1069-615.jpg,apple,15.123,Malus domestica,0,6023,2310,2776.5,1589.5,zz
+1069-616.jpg,apple,18.756,Malus domestica,0,690,5632,1127.5,2127.5,zz
+1069-617.jpg,apple,17.81,Malus domestica,0,3715,5562,5358.5,2429.5,zz
+1069-618.jpg,apple,15.324,Malus domestica,0,2581,6116,2712.5,2557.5,zz
+1069-619.jpg,apple,13.582,Malus domestica,0,5550,5740,7349.5,3099.5,zz
+1069-620.jpg,apple,21.803,Malus domestica,0,1470,4718,1253.5,8897.5,zz
+1071-44.jpg,apple,12.812,Malus domestica,0,4204,7114,4379.5,4493.5,zz
+1071-46.jpg,apple,12.135,Malus domestica,0,3840,7400,4541.5,4273.5,zz
+1071-48.jpg,apple,16.291,Malus domestica,0,4326,7324,4061.5,4371.5,zz
+1071-50.jpg,apple,18.203,Malus domestica,0,4006,7464,4299.5,4337.5,zz
+1071-52.jpg,apple,17.998,Malus domestica,0,3692,7864,4093.5,3819.5,zz
+1071-58.jpg,apple,14.414,Malus domestica,0,4054,4116,3951.5,7431.5,zz
+1071-60.jpg,apple,14.089,Malus domestica,0,4186,4248,4221.5,7447.5,zz
+1076-2-761.jpg,apple,22.79,Malus domestica,0,4958,5054,5329.5,965.5,zz
+1076-2-763.jpg,apple,26.429,Malus domestica,0,1244,3362,817.5,8233.5,zz
+1076-2-765.jpg,apple,24.351,Malus domestica,0,6571,4472,6082.5,8767.5,zz
+1076-767.jpg,apple,21.205,Malus domestica,0,2558,5144,2695.5,751.5,zz
+1076-768.jpg,apple,20.598,Malus domestica,0,4808,5416,5539.5,1319.5,zz
+1076-769.jpg,apple,23.553,Malus domestica,0,6719,3760,5608.5,8181.5,zz
+1076-770.jpg,apple,24.744,Malus domestica,0,3976,3972,3675.5,8165.5,zz
+1076-771.jpg,apple,24.671,Malus domestica,0,1612,4164,1679.5,8469.5,zz
+1079-2-645.jpg,apple,33.74,Malus domestica,0,5833,5338,5988.5,619.5,zz
+1079-2-646.jpg,apple,22.874,Malus domestica,0,1945,4754,3594.5,805.5,zz
+1079-2-647.jpg,apple,34.875,Malus domestica,0,7069,3372,7044.5,8523.5,zz
+1079-2-648.jpg,apple,29.758,Malus domestica,0,3574.5,3514.5,2764.5,8789.5,zz
+1079-2-649.jpg,apple,22.372,Malus domestica,0,1231.5,4153.5,1123.5,8353.5,zz
+1079-2-650.jpg,apple,22.64,Malus domestica,0,5026,4448,4969.5,8475.5,zz
+1079-652.jpg,apple,28.123,Malus domestica,0,3434,5446,2945.5,1057.5,zz
+1079-653.jpg,apple,26.669,Malus domestica,0,6543,5300,6416.5,1253.5,zz
+1079-654.jpg,apple,29.181,Malus domestica,0,4676.5,3317.5,4584.5,8017.5,zz
+1079-655.jpg,apple,25.521,Malus domestica,0,1652,3400,1611.5,8229.5,zz
+1083-657.jpg,apple,13.343,Malus domestica,0,4083,210,7292.5,2003.5,zz
+1083-658.jpg,apple,11.532,Malus domestica,0,5462,1442,2557.5,1825.5,zz
+1083-659.jpg,apple,16.625,Malus domestica,0,878,5374,1257.5,2031.5,zz
+1083-662.jpg,apple,15.183,Malus domestica,0,2363,5882,3196.5,2545.5,zz
+1083-664.jpg,apple,16.401,Malus domestica,0,5713,4970,4292.5,8719.5,zz
+1083-665.jpg,apple,20.396,Malus domestica,0,3235,5028,3108.5,8869.5,zz
+1083-666.jpg,apple,13.428,Malus domestica,0,7040,5306,6303.5,8569.5,zz
+1085-2-67.jpg,apple,23.513,Malus domestica,0,4220,8066,4075.5,3585.5,zz
+1085-2-69.jpg,apple,24.357,Malus domestica,0,3242,8104,4297.5,3563.5,zz
+1085-2-71.jpg,apple,23.133,Malus domestica,0,4074,7962,4553.5,3717.5,zz
+1085-2-73.jpg,apple,27.194,Malus domestica,0,4228,3560,4279.5,8129.5,zz
+1085-2-75.jpg,apple,21.337,Malus domestica,0,4747,3741,4125.5,7948.5,zz
+1085-2-77.jpg,apple,19.198,Malus domestica,0,4038,3494,4005.5,8201.5,zz
+1085-80.jpg,apple,18.939,Malus domestica,0,4442,3698,3733.5,8005.5,zz
+1085-82.jpg,apple,19.448,Malus domestica,0,4428.5,3851.5,3996.5,7843.5,zz
+1085-84.jpg,apple,17.473,Malus domestica,0,4001.5,3537.5,4469.5,8159.5,zz
+1085-86.jpg,apple,19.04,Malus domestica,0,2016,5153,6293.5,5926.5,zz
+1089-783.jpg,apple,10.415,Malus domestica,0,4769,1992,7378.5,767.5,zz
+1089-784.jpg,apple,12.121,Malus domestica,0,5702,786,2659.5,1457.5,zz
+1089-785.jpg,apple,11.23,Malus domestica,0,7159,5308,7222.5,2321.5,zz
+1089-786.jpg,apple,13.664,Malus domestica,0,484,5764,803.5,2427.5,zz
+1089-787.jpg,apple,15.474,Malus domestica,0,4776,5830,5411.5,2425.5,zz
+1089-790.jpg,apple,11.112,Malus domestica,0,5438,5450,5393.5,8371.5,zz
+1089-791.jpg,apple,10.789,Malus domestica,0,6763,5630,6902.5,8585.5,zz
+1089-792.jpg,apple,13.869,Malus domestica,0,1458,5820,1157.5,8687.5,zz
+1091-794.jpg,apple,14.73,Malus domestica,0,4666.5,629.5,7654.5,1205.5,zz
+1091-795.jpg,apple,15.028,Malus domestica,0,5616,2010,2487.5,1159.5,zz
+1091-796.jpg,apple,15.628,Malus domestica,0,6995,5708,6892.5,2101.5,zz
+1091-797.jpg,apple,16.943,Malus domestica,0,3550,6062,3231.5,2177.5,zz
+1091-798.jpg,apple,16.764,Malus domestica,0,1374,5828,1553.5,2541.5,zz
+1091-800.jpg,apple,21.781,Malus domestica,0,4526,4492,4735.5,8793.5,zz
+1091-801.jpg,apple,18.89,Malus domestica,0,2944,5162,2799.5,8744.5,zz
+1091-802.jpg,apple,13.344,Malus domestica,0,6767,5270,6598.5,8497.5,zz
+1097-101.jpg,apple,14.575,Malus domestica,0,4476,4090,3723.5,7613.5,zz
+1097-103.jpg,apple,21.107,Malus domestica,0,4856,3786,3811.5,7897.5,zz
+1097-105.jpg,apple,22.482,Malus domestica,0,4040,3916,4763.5,7763.5,zz
+1097-107.jpg,apple,18.474,Malus domestica,0,3204,4184,5043.5,7517.5,zz
+1097-91.jpg,apple,16.785,Malus domestica,0,5847.5,7211.5,2368.5,4729.5,zz
+1097-95.jpg,apple,13.759,Malus domestica,0,3988,7506,4377.5,4189.5,zz
+1097-97.jpg,apple,18.149,Malus domestica,0,5090,7340,3175.5,4345.5,zz
+1097-99.jpg,apple,18.041,Malus domestica,0,4862,7688,3597.5,3997.5,zz
+1100-677.jpg,apple,13.713,Malus domestica,0,6074,832,2387.5,1034.5,zz
+1100-678.jpg,apple,15.455,Malus domestica,0,4070,1834,8015.5,1662.5,zz
+1100-679.jpg,apple,11.327,Malus domestica,0,965,4935,918.5,1659.5,zz
+1100-680.jpg,apple,16.189,Malus domestica,0,3171,5439,2380.5,2055.5,zz
+1100-681.jpg,apple,16.155,Malus domestica,0,4912.5,5998.5,4648.5,2142.5,zz
+1100-682.jpg,apple,14.229,Malus domestica,0,6230,6355,6568.5,2715.5,zz
+1100-683.jpg,apple,19.375,Malus domestica,0,1715,4415,1399.5,8859.5,zz
+1100-684.jpg,apple,14.857,Malus domestica,0,4058,4974,3569.5,8749.5,zz
+1100-685.jpg,apple,13.997,Malus domestica,0,5739,5168,5348.5,8485.5,zz
+1100-686.jpg,apple,13.094,Malus domestica,0,7124.5,5401.5,7013.5,8840.5,zz
+1104-805.jpg,apple,17.489,Malus domestica,0,3837,357,7630.5,1502.5,zz
+1104-806.jpg,apple,16.403,Malus domestica,0,5732,1676,1956.5,1330.5,zz
+1104-807.jpg,apple,20.877,Malus domestica,0,807,5518,1629.5,1859.5,zz
+1104-810.jpg,apple,17.713,Malus domestica,0,5804,5517,7141.5,2605.5,zz
+1104-811.jpg,apple,23.049,Malus domestica,0,7150,4887,6786.5,8905.5,zz
+1104-812.jpg,apple,23.169,Malus domestica,0,3336.5,5139.5,2860.5,9021.5,zz
+1104-813.jpg,apple,20.301,Malus domestica,0,1177,5320,1044.5,8986.5,zz
+1104-814.jpg,apple,17.042,Malus domestica,0,5064,5756,4886.5,8850.5,zz
+1106-181.jpg,apple,14.68,Malus domestica,0,3899.5,7777.5,4154.5,3900.5,zz
+1106-183.jpg,apple,17.131,Malus domestica,0,4480,7982,3799.5,3715.5,zz
+1106-185.jpg,apple,19.288,Malus domestica,0,4163.5,8097.5,3695.5,3581.5,zz
+1106-189.jpg,apple,14.783,Malus domestica,0,4411.5,4055.5,3859.5,7633.5,zz
+1106-191.jpg,apple,15.561,Malus domestica,0,4119.5,3547.5,3561.5,8141.5,zz
+1106-193.jpg,apple,17.865,Malus domestica,0,4042,3826,3879.5,7866.5,zz
+1106-2-174.jpg,apple,15.369,Malus domestica,0,3656,3782,4399.5,7907.5,zz
+1106-2-178.jpg,apple,17.943,Malus domestica,0,4199.5,3883.5,3807.5,7809.5,zz
+1112-2-945.jpg,apple,26.912,Malus domestica,0,4155.5,1181.5,7685.5,1111.5,zz
+1112-2-946.jpg,apple,29.233,Malus domestica,0,2330,6068,1713.5,2169.5,zz
+1112-2-947.jpg,apple,30.263,Malus domestica,0,5141.5,6323.5,4226.5,2227.5,zz
+1112-2-948.jpg,apple,24.137,Malus domestica,0,7128.5,6145.5,6930.5,2489.5,zz
+1112-2-949.jpg,apple,28.437,Malus domestica,0,6119.5,4723.5,5763.5,8809.5,zz
+1112-2-950.jpg,apple,25.117,Malus domestica,0,3520.5,4957.5,3472.5,8434.5,zz
+1112-2-951.jpg,apple,28.46,Malus domestica,0,1346.5,5253.5,1385.5,9078.5,zz
+1112-954.jpg,apple,34.224,Malus domestica,0,3872,3725,3923.5,7872.5,zz
+1112-955.jpg,apple,27.432,Malus domestica,0,1841,4288,1378.5,7937.5,zz
+1116-2-816.jpg,apple,27.822,Malus domestica,0,3780,4596,4091.5,597.5,zz
+1116-2-817.jpg,apple,21.905,Malus domestica,0,5813,4860,6140.5,955.5,zz
+1116-2-819.jpg,apple,19.734,Malus domestica,0,595.5,4396.5,1049.5,8116.5,zz
+1116-2-820.jpg,apple,22.492,Malus domestica,0,4620.5,4523.5,4773.5,8331.5,zz
+1116-2-821.jpg,apple,18.629,Malus domestica,0,2460,4540,2613.5,8231.5,zz
+1116-823.jpg,apple,17.816,Malus domestica,0,2587.5,1311.5,738.5,4902.5,zz
+1116-824.jpg,apple,18.636,Malus domestica,0,7051.5,4427.5,4696.5,1750.5,zz
+1116-826.jpg,apple,19.086,Malus domestica,0,4379,4300,5719.5,8160.5,zz
+1118-364.jpg,apple,20.447,Malus domestica,0,6203,5410,2091.17,6587.83,zz
+1118-366.jpg,apple,26.575,Malus domestica,0,1847,6807,6490.17,5292.5,zz
+1118-368.jpg,apple,21.35,Malus domestica,0,4783.5,7739.5,3572.5,3951,zz
+1118-370.jpg,apple,19.759,Malus domestica,0,4471.5,7856.17,3991.5,3834.17,zz
+1118-372.jpg,apple,20.018,Malus domestica,0,4433,7882,4408.5,3809.5,zz
+1118-374.jpg,apple,20.989,Malus domestica,0,4132,7993,3821.5,3699.5,zz
+1118-376.jpg,apple,22.356,Malus domestica,0,3850,3718,3993.5,7974.5,zz
+1118-382.jpg,apple,22.232,Malus domestica,0,3872,3464,4085.17,8235.17,zz
+1122-1190.jpg,apple,29.688,Malus domestica,0,6824.5,5446.5,6821.5,1433.5,zz
+1122-1191.jpg,apple,38.075,Malus domestica,0,2818.5,5918.5,2304.5,1500.5,zz
+1122-1192.jpg,apple,32.131,Malus domestica,0,4471,3704,5037.5,8462.5,zz
+1122-1193.jpg,apple,22.972,Malus domestica,0,1381.5,4254.5,1270.5,7998.5,zz
+1122-2-1183.jpg,apple,23.635,Malus domestica,0,7109.5,4225.5,7327.5,629.83,zz
+1122-2-1184.jpg,apple,30.1,Malus domestica,0,5515,5679,5484.5,1236.5,zz
+1122-2-1185.jpg,apple,28.079,Malus domestica,0,2800.5,5451.5,2647.5,1705.5,zz
+1122-2-1186.jpg,apple,29.985,Malus domestica,0,1241,3696,1069.5,8665.5,zz
+1122-2-1187.jpg,apple,24.219,Malus domestica,0,3294,4572,4621.5,8587.5,zz
+1122-2-1188.jpg,apple,27.526,Malus domestica,0,6921,4870,6692.5,8567.5,zz
+1127-1244.jpg,apple,30.935,Malus domestica,0,4362.5,5939.5,4212.5,1298.5,zz
+1127-1245.jpg,apple,22.958,Malus domestica,0,1958.5,5797.5,1257.5,1333.67,zz
+1127-1246.jpg,apple,23.651,Malus domestica,0,6642,5554,7271.5,1574.5,zz
+1127-1247.jpg,apple,30.494,Malus domestica,0,3264.17,4297.17,3572.17,8923.83,zz
+1127-1248.jpg,apple,30.765,Malus domestica,0,6226,4447,5415.5,8641.5,zz
+1127-1249.jpg,apple,22.546,Malus domestica,0,775,5145,902.5,8769.5,zz
+1127-2-1239.jpg,apple,24.101,Malus domestica,0,1670,5820,1337.5,1823.5,zz
+1127-2-1241.jpg,apple,20.275,Malus domestica,0,2701.5,4591.5,2721.5,8495.5,zz
+1128-1268.jpg,apple,33.717,Malus domestica,0,6031,5615,5292.5,1120.5,zz
+1128-1269.jpg,apple,26.272,Malus domestica,0,3119,5522,2437.5,1399.5,zz
+1128-1270.jpg,apple,40.866,Malus domestica,0,743,3296,1609.5,8514.5,zz
+1128-1271.jpg,apple,30.548,Malus domestica,0,4213.5,3972.5,4285.5,8664.5,zz
+1128-1272.jpg,apple,31.038,Malus domestica,0,7466.5,3997.5,6900.5,8415.5,zz
+1128-2-1263.jpg,apple,26.179,Malus domestica,0,2922.5,5541.5,2466.5,747.5,zz
+1128-2-1264.jpg,apple,34.715,Malus domestica,0,1212,2806,1838.5,8284.5,zz
+1128-2-1265.jpg,apple,32.254,Malus domestica,0,7033.5,3457.5,6713.5,8343.5,zz
+1128-2-1266.jpg,apple,33.633,Malus domestica,0,3648,3558,3995.5,8768.5,zz
+1130-2-828.jpg,apple,35.26,Malus domestica,0,4949.5,5809.5,5021.5,698.5,zz
+1130-2-829.jpg,apple,26.544,Malus domestica,0,2471.17,5626.5,2601.17,1018.83,zz
+1130-2-830.jpg,apple,30.949,Malus domestica,0,6482.5,3822.5,7016.5,8540.5,zz
+1130-2-831.jpg,apple,32.956,Malus domestica,0,1307.5,3827.5,860.5,8736.5,zz
+1130-2-832.jpg,apple,23.663,Malus domestica,0,3797,3828,3883.5,8460.5,zz
+1130-834.jpg,apple,31.879,Malus domestica,0,2617,5305,2742.5,1016.5,zz
+1130-835.jpg,apple,38.194,Malus domestica,0,5962.5,5203.5,5806.5,1067.5,zz
+1130-836.jpg,apple,32.146,Malus domestica,0,4419,4135,3941.5,8793.5,zz
+1130-837.jpg,apple,31.152,Malus domestica,0,1068.5,4191.5,1868.5,8381.5,zz
+1130-838.jpg,apple,25.224,Malus domestica,0,7185.5,4365.5,6954.5,8416.5,zz
+1133-2-840.jpg,apple,27.582,Malus domestica,0,6614.5,5580.5,6740.5,650.5,zz
+1133-2-841.jpg,apple,25.993,Malus domestica,0,3959.5,5642.5,4226.5,852.5,zz
+1133-2-842.jpg,apple,22.971,Malus domestica,0,5455.5,4185.5,5727.5,8393.5,zz
+1133-2-843.jpg,apple,19.215,Malus domestica,0,7207.5,4260.5,7180.5,8582.5,zz
+1133-2-844.jpg,apple,23.314,Malus domestica,0,894.5,4317.5,1048.5,8748.5,zz
+1133-2-845.jpg,apple,25.903,Malus domestica,0,3194,4316,2809.83,9121.17,zz
+1133-558.jpg,apple,17.41,Malus domestica,0,3620,7927,4376.83,3754.5,zz
+1133-560.jpg,apple,22.02,Malus domestica,0,4837,8398,3668.33,3279.33,zz
+1133-564.jpg,apple,17.771,Malus domestica,0,3692,3560,4127.5,8137.5,zz
+1137-2-850.jpg,apple,29.332,Malus domestica,0,4891.5,4885.5,,,zz
+1137-2-851.jpg,apple,25.365,Malus domestica,0,2609.5,5435.5,2411.5,824.5,zz
+1137-2-852.jpg,apple,22.079,Malus domestica,0,6811.5,5136,7657.25,1326,zz
+1137-2-853.jpg,apple,27.873,Malus domestica,0,1642,4709,1750.5,8843.83,zz
+1137-2-854.jpg,apple,23.273,Malus domestica,0,4183,4937,4091.5,8972.5,zz
+1137-857.jpg,apple,30.53,Malus domestica,0,3788,4728,3594.5,718.83,zz
+1137-858.jpg,apple,28.973,Malus domestica,0,6419,5050,6311.17,1216.17,zz
+1137-859.jpg,apple,33.868,Malus domestica,0,5468,4216,5191.5,8353.5,zz
+1137-860.jpg,apple,28.947,Malus domestica,0,2173,4287,1813.83,8312.83,zz
+1143-1430.jpg,apple,24.266,Malus domestica,0,1433,6027,1447.83,2311.5,zz
+1143-1431.jpg,apple,23.135,Malus domestica,0,4098,6157,3518.5,2575.5,zz
+1143-1432.jpg,apple,21.104,Malus domestica,0,2577,4937,2506.17,8774.5,zz
+1143-1433.jpg,apple,20.692,Malus domestica,0,7023,5063,7160.5,8718.5,zz
+1143-1434.jpg,apple,19.973,Malus domestica,0,4995,5192,4480.5,8757.5,zz
+1143-2-1424.jpg,apple,18.442,Malus domestica,0,4243.83,6317.17,4109.17,2603.17,zz
+1143-2-1425.jpg,apple,17.823,Malus domestica,0,2163.5,4338.5,2175.5,7684.5,zz
+1143-2-1426.jpg,apple,17.942,Malus domestica,0,5963,4348,5824.5,8375.5,zz
+1146-585.jpg,apple,15.762,Malus domestica,0,2849,5331,5418.5,5632.17,zz
+1146-587.jpg,apple,14.168,Malus domestica,0,3881,7334,4026.17,4357.5,zz
+1146-589.jpg,apple,16.838,Malus domestica,0,3490,7224,4175.5,4463.5,zz
+1146-591.jpg,apple,17.205,Malus domestica,0,3408,7496,4083.5,4191.5,zz
+1146-593.jpg,apple,18.321,Malus domestica,0,3735,7314,3918.5,4375.5,zz
+1146-595.jpg,apple,18.245,Malus domestica,0,3803,4365,3816.5,7329.17,zz
+1146-597.jpg,apple,21.641,Malus domestica,0,3924,4134,3627.5,7559.5,zz
+1146-599.jpg,apple,21.061,Malus domestica,0,4005.5,3857.5,3977.5,7833.5,zz
+1146-601.jpg,apple,16.844,Malus domestica,0,4481.83,4079.17,4027.5,7611.5,zz
+1148-604.jpg,apple,14.715,Malus domestica,0,5704,6091,2563.83,5834.83,zz
+1148-606.jpg,apple,22.688,Malus domestica,0,2227,6381,6186.5,5841.5,zz
+1148-608.jpg,apple,15.97,Malus domestica,0,3969,7538,4521.5,3908.5,zz
+1148-610.jpg,apple,14.958,Malus domestica,0,3733,7777,4092.75,3914.5,zz
+1148-612.jpg,apple,21.132,Malus domestica,0,3590,7785,4648.5,3907,zz
+1148-618.jpg,apple,15.467,Malus domestica,0,4319,3781,4067.5,7910.5,zz
+1148-620.jpg,apple,18.066,Malus domestica,0,4540,3902,4069.5,7791.5,zz
+1148-622.jpg,apple,21.95,Malus domestica,0,4502,3414,4237.5,8275.5,zz
+1152-862.jpg,apple,7.577,Malus domestica,0,4434,1066,6750.5,1615.5,zz
+1152-863.jpg,apple,5.857,Malus domestica,0,5011,2285,2956,1985.5,zz
+1152-864.jpg,apple,9.005,Malus domestica,0,6537,5233,6233.83,2653.17,zz
+1152-865.jpg,apple,8.606,Malus domestica,0,2897.83,5714.5,3011.17,3212.5,zz
+1152-866.jpg,apple,7.603,Malus domestica,0,5281,5517,4583.5,3231.5,zz
+1152-867.jpg,apple,7.503,Malus domestica,0,1099,5890,1265.83,3356.5,zz
+1152-868.jpg,apple,7.599,Malus domestica,0,6357.83,5846.5,5939,8331,zz
+1152-869.jpg,apple,7.291,Malus domestica,0,4910,5929,4645.83,8239.17,zz
+1152-870.jpg,apple,8.836,Malus domestica,0,1213,6164,1192.5,8888.5,zz
+1152-871.jpg,apple,7.615,Malus domestica,0,2805.5,6284.5,3155.5,8799.5,zz
+1155-1462.jpg,apple,22.753,Malus domestica,0,5240,5847,5257.17,1487.17,zz
+1155-1464.jpg,apple,34.286,Malus domestica,0,1196,3338,1416.5,7977.5,zz
+1155-1465.jpg,apple,25.714,Malus domestica,0,5977,3736,6798.5,7947.5,zz
+1155-2-1455.jpg,apple,29.944,Malus domestica,0,6890,5511,6172,659.5,zz
+1155-2-1456.jpg,apple,31.043,Malus domestica,0,4988,5061,3779.5,727.5,zz
+1155-2-1457.jpg,apple,27.363,Malus domestica,0,1816,4843,1448.5,791.5,zz
+1155-2-1459.jpg,apple,25.964,Malus domestica,0,4497.5,4621.5,4035.5,8893.5,zz
+1155-2-1460.jpg,apple,26.37,Malus domestica,0,5796,4866,6071.5,8877.5,zz
+1156-1473.jpg,apple,35.813,Malus domestica,0,2656,4961,3183.5,443.5,zz
+1156-1474.jpg,apple,37.243,Malus domestica,0,5476.5,5200.5,5428.5,655.5,zz
+1156-1475.jpg,apple,39.768,Malus domestica,0,6931.5,3691.5,6391.5,8664.83,zz
+1156-1476.jpg,apple,34.846,Malus domestica,0,849,4036,1585.5,8395.83,zz
+1156-1477.jpg,apple,35.125,Malus domestica,0,3722,4510,3721.83,8689.83,zz
+1156-2-1467.jpg,apple,35.204,Malus domestica,0,2582.5,5047.5,2387.5,350.5,zz
+1156-2-1468.jpg,apple,34.384,Malus domestica,0,5897,4782,5620.5,365.5,zz
+1156-2-1469.jpg,apple,36.738,Malus domestica,0,7368,3432,6581.5,8078.5,zz
+1156-2-1470.jpg,apple,40.275,Malus domestica,0,3975,3891,4002.5,8520.5,zz
+1156-2-1471.jpg,apple,34.363,Malus domestica,0,1622,3917,1500.5,8653.17,zz
+1157-1479.jpg,apple,15.039,Malus domestica,0,3693.5,1516.83,7222.17,280.5,zz
+1157-1481.jpg,apple,19.881,Malus domestica,0,7430,6378,7149.5,1689.17,zz
+1157-1483.jpg,apple,15.454,Malus domestica,0,1812,5707,1473.5,2084.5,zz
+1157-1484.jpg,apple,18.338,Malus domestica,0,5408,6577,5368.5,2322.5,zz
+1157-1485.jpg,apple,21.5,Malus domestica,0,2401,4575,2764.5,8725.17,zz
+1157-1486.jpg,apple,18.795,Malus domestica,0,885.5,4594.5,981.5,8628.5,zz
+1157-1487.jpg,apple,14.642,Malus domestica,0,4434.5,4807.5,4622.5,8543.5,zz
+1157-1488.jpg,apple,19.854,Malus domestica,0,6348,4914,7052.5,8537.5,zz
+1161-2-873.jpg,apple,15.958,Malus domestica,0,3076,5318,2879.5,1655.5,zz
+1161-2-874.jpg,apple,16.489,Malus domestica,0,5500,5416,6081.5,1861.5,zz
+1161-2-875.jpg,apple,17.681,Malus domestica,0,1204,4313,1589.5,8136.5,zz
+1161-2-876.jpg,apple,20.045,Malus domestica,0,4966,4996,4667.5,8567.5,zz
+1161-878.jpg,apple,22.057,Malus domestica,0,2273,5199,2356.5,1322.83,zz
+1161-879.jpg,apple,14.902,Malus domestica,0,6438,4949,6632.17,1688.5,zz
+1161-880.jpg,apple,16.907,Malus domestica,0,4726,4903,5224.5,1694.5,zz
+1161-881.jpg,apple,15.242,Malus domestica,0,6352,4591,5481.83,7720.17,zz
+1161-882.jpg,apple,15.44,Malus domestica,0,4001.5,4775.5,3519.5,8489.5,zz
+1161-883.jpg,apple,19.545,Malus domestica,0,1345,4830,1460.5,8479.5,zz
+1163-625.jpg,apple,15.653,Malus domestica,0,2398.5,5387.5,5864.5,5990.5,zz
+1163-627.jpg,apple,14.26,Malus domestica,0,5452,6575,2880.5,5383.5,zz
+1163-629.jpg,apple,20.154,Malus domestica,0,4298,7611,4349.5,4080.5,zz
+1163-633.jpg,apple,17.598,Malus domestica,0,3657,7456,4673.83,4235.5,zz
+1163-639.jpg,apple,14.211,Malus domestica,0,4326,4240,3816.83,7450.83,zz
+1163-641.jpg,apple,14.654,Malus domestica,0,3801,4324,3809.83,7366.5,zz
+1163-643.jpg,apple,13.094,Malus domestica,0,3930.5,4313.83,4225.17,7379.17,zz
+1166-2-895.jpg,apple,29.746,Malus domestica,0,2177,5857,2674.5,726.5,zz
+1166-2-898.jpg,apple,31.284,Malus domestica,0,6532.5,4429.83,6671.17,8758.5,zz
+1166-900.jpg,apple,34.398,Malus domestica,0,5659.5,5067.5,6642,109.5,zz
+1166-901.jpg,apple,28.278,Malus domestica,0,2826,4789,3101.83,718.17,zz
+1166-902.jpg,apple,29.667,Malus domestica,0,4418,3346,3486.83,8036.17,zz
+1166-903.jpg,apple,31.488,Malus domestica,0,1113.5,3426.5,1287.5,8562.5,zz
+1171-648.jpg,apple,13.057,Malus domestica,0,2271,5453,5992.5,5716.5,zz
+1171-654.jpg,apple,16.759,Malus domestica,0,3622,8051,4628.5,3640.17,zz
+1171-656.jpg,apple,14.653,Malus domestica,0,3983,7965,4159.17,3727.83,zz
+1171-660.jpg,apple,18.93,Malus domestica,0,4433,3970,4191.5,7719.5,zz
+1171-662.jpg,apple,18.28,Malus domestica,0,4460,3782,3649.5,7909.5,zz
+1171-664.jpg,apple,13.301,Malus domestica,0,4184,4068,3786.5,7625.83,zz
+1172-667.jpg,apple,19.653,Malus domestica,0,2524,5290,5738.5,5942.5,zz
+1172-669.jpg,apple,18.378,Malus domestica,0,5920,6018,2347.5,5837.5,zz
+1172-671.jpg,apple,15.504,Malus domestica,0,3922,7600,4326.83,4096.17,zz
+1172-673.jpg,apple,15.585,Malus domestica,0,5080,7041,3395.83,4616.83,zz
+1172-675.jpg,apple,18.667,Malus domestica,0,4044,7520,4197.5,4169.5,zz
+1172-679.jpg,apple,17.417,Malus domestica,0,4383.17,4007.83,3903.5,7682.5,zz
+1172-681.jpg,apple,20.482,Malus domestica,0,3196,4203,4617.17,7490.5,zz
+1172-683.jpg,apple,21.15,Malus domestica,0,3974,3931,4207.5,7763.5,zz
+1172-685.jpg,apple,16.312,Malus domestica,0,4691,4301,4203.5,7391.5,zz
+1178-688.jpg,apple,18.19,Malus domestica,0,5987,5499,2276.5,5884.5,zz
+1178-694.jpg,apple,17.389,Malus domestica,0,4793,7763,4252.5,3925.5,zz
+1178-696.jpg,apple,15.325,Malus domestica,0,4067,7667,4231.5,4020.5,zz
+1178-698.jpg,apple,17.59,Malus domestica,0,4447,8099,3964.83,3594.83,zz
+1178-700.jpg,apple,14.596,Malus domestica,0,3767,4122,4392.5,7573.5,zz
+1178-702.jpg,apple,19.83,Malus domestica,0,3782,3754,4065.5,7937.5,zz
+1178-704.jpg,apple,19.926,Malus domestica,0,3656,4001,4339.5,7696.5,zz
+1178-706.jpg,apple,15.711,Malus domestica,0,3744,4051,3845.5,7646.5,zz
+1181-2-933.jpg,apple,17.594,Malus domestica,0,4851,1160,4580.5,4985.5,zz
+1181-2-934.jpg,apple,17.812,Malus domestica,0,2874,5139,2750.5,1420.5,zz
+1181-2-935.jpg,apple,23.482,Malus domestica,0,1576,8340,1566.5,4338.5,zz
+1181-2-936.jpg,apple,19.744,Malus domestica,0,6433.5,8152.5,6553.5,4412.5,zz
+1181-938.jpg,apple,25.732,Malus domestica,0,7669,5313,6449.5,1125.5,zz
+1181-939.jpg,apple,21.349,Malus domestica,0,2368,5361,2430.5,1268.5,zz
+1181-940.jpg,apple,21.542,Malus domestica,0,5087,5324,4535.5,1475.5,zz
+1181-941.jpg,apple,32.153,Malus domestica,0,1200,3892,1250.5,8682.5,zz
+1181-942.jpg,apple,22.798,Malus domestica,0,3880,4179,3847.5,8724.5,zz
+1184-709.jpg,apple,14.472,Malus domestica,0,2383.5,5971.5,5878.17,6046.83,zz
+1184-711.jpg,apple,11.143,Malus domestica,0,5523,6510,2738.5,5277.5,zz
+1184-713.jpg,apple,14.28,Malus domestica,0,4265,7455,4658.17,4235.17,zz
+1184-715.jpg,apple,19.188,Malus domestica,0,3926,7811,4153.5,3870.5,zz
+1184-717.jpg,apple,16.226,Malus domestica,0,4205,7622,4345.5,4069.5,zz
+1184-719.jpg,apple,11.808,Malus domestica,0,3576,7453,4654.5,4236.5,zz
+1184-721.jpg,apple,15.311,Malus domestica,0,4795,3682,3701.5,8012.5,zz
+1184-725.jpg,apple,15.486,Malus domestica,0,4412,4048,3667.5,7645.5,zz
+1185-945.jpg,apple,20.01,Malus domestica,0,3548.5,588.5,7802.5,1778.5,zz
+1185-946.jpg,apple,19.354,Malus domestica,0,5457,1945,1495.5,1853.5,zz
+1185-947.jpg,apple,17.36,Malus domestica,0,829,5996,879.5,2199.5,zz
+1185-948.jpg,apple,20.513,Malus domestica,0,6257,6612,6986.17,2203.5,zz
+1185-949.jpg,apple,20.831,Malus domestica,0,4341,7203,4832.5,2477.5,zz
+1185-951.jpg,apple,18.269,Malus domestica,0,7395.5,4373.5,6995.83,8654.83,zz
+1185-952.jpg,apple,23.647,Malus domestica,0,3900,4562,2953.17,8968.17,zz
+1185-953.jpg,apple,21.994,Malus domestica,0,1546,4859,966.5,9304.5,zz
+1185-954.jpg,apple,19.276,Malus domestica,0,5582.83,5349.17,5315.5,9000.5,zz
+1187-1500.jpg,apple,10.883,Malus domestica,0,5162,1295,7649.5,1360.5,zz
+1187-1501.jpg,apple,11.789,Malus domestica,0,5295,1882,2551.5,1618.5,zz
+1187-1502.jpg,apple,16.361,Malus domestica,0,4873,5784,5448.5,2454.83,zz
+1187-1503.jpg,apple,16.288,Malus domestica,0,3435.5,5374.5,2519.5,2582.5,zz
+1187-1504.jpg,apple,10.101,Malus domestica,0,6816,5109,7100.5,2674.5,zz
+1187-1505.jpg,apple,16.421,Malus domestica,0,973,5600,783.5,2738.5,zz
+1187-1506.jpg,apple,14.856,Malus domestica,0,6658,5369,6660.5,8144.5,zz
+1187-1507.jpg,apple,17.075,Malus domestica,0,1816,5415,1521.83,8487.83,zz
+1187-1509.jpg,apple,10.198,Malus domestica,0,4964,5859,5238.5,8288.5,zz
+1190-1511.jpg,apple,20.643,Malus domestica,0,3892,724,7335.17,1773.83,zz
+1190-1512.jpg,apple,14.566,Malus domestica,0,5576,2151,2632.83,1979.83,zz
+1190-1513.jpg,apple,20.206,Malus domestica,0,1945,6298,871.5,2735.5,zz
+1190-1514.jpg,apple,14.987,Malus domestica,0,6493,5869,6696.5,2758.5,zz
+1190-1515.jpg,apple,15.452,Malus domestica,0,3254,6088,3063.5,2943.5,zz
+1190-1516.jpg,apple,18.019,Malus domestica,0,5402,6236,4452.83,3026.17,zz
+1190-1517.jpg,apple,18.242,Malus domestica,0,714,5379,955.5,9089,zz
+1190-1519.jpg,apple,13.765,Malus domestica,0,2453.5,5958.5,3118.5,9117.5,zz
+1190-1520.jpg,apple,15.126,Malus domestica,0,4674.17,6190.5,4624.63,8988.5,zz
+1193-1529.jpg,apple,21.591,Malus domestica,0,5205,4864,5435,1427,zz
+1193-1530.jpg,apple,24.89,Malus domestica,0,3337,6039,2876.5,2210.5,zz
+1193-1531.jpg,apple,25.574,Malus domestica,0,1885,8083,1073.5,4359,zz
+1193-1532.jpg,apple,23.355,Malus domestica,0,5560,8337,6163,4652,zz
+1193-2-1522.jpg,apple,29.588,Malus domestica,0,4508,5576,4483.17,1592.83,zz
+1193-2-1523.jpg,apple,19.213,Malus domestica,0,7303,5222,6835,1675.5,zz
+1193-2-1524.jpg,apple,25.338,Malus domestica,0,2121.5,5607.17,1654.5,1978.5,zz
+1193-2-1525.jpg,apple,20.433,Malus domestica,0,5958.5,4759.5,6174.5,8413.5,zz
+1193-2-1526.jpg,apple,25.24,Malus domestica,0,1293,4820,1193.83,8277.5,zz
+1193-2-1527.jpg,apple,27.401,Malus domestica,0,3974,5087.5,3570.5,8778.5,zz
+1196-2-957.jpg,apple,18.122,Malus domestica,0,1124.17,5530.17,1676.83,1650.5,zz
+1196-2-958.jpg,apple,17.419,Malus domestica,0,4085,5524,4985.5,1765.5,zz
+1196-2-959.jpg,apple,22.873,Malus domestica,0,3462,4618,2433.5,8521.5,zz
+1196-2-960.jpg,apple,16.747,Malus domestica,0,5798,4669.67,5280.17,8652.17,zz
+1196-730.jpg,apple,18.923,Malus domestica,0,2056.5,5518.5,6210.83,6016.17,zz
+1196-732.jpg,apple,17.187,Malus domestica,0,6555.5,6611,1710.83,5545.17,zz
+1196-734.jpg,apple,22.152,Malus domestica,0,5042,3425,3548.5,8268.5,zz
+1196-736.jpg,apple,20.879,Malus domestica,0,4119,3465,3820.83,8224.5,zz
+1196-738.jpg,apple,24.48,Malus domestica,0,4416,3475,4436.5,8218.5,zz
+1202-1582.jpg,apple,18.406,Malus domestica,0,3323,880,7662.17,1117.17,zz
+1202-1583.jpg,apple,21.997,Malus domestica,0,7133,2147,2506.17,1813.17,zz
+1202-1584.jpg,apple,15.735,Malus domestica,0,2072,6454,817.83,2763.17,zz
+1202-1585.jpg,apple,14.221,Malus domestica,0,7583,6164,5995.5,2783,zz
+1202-1586.jpg,apple,18.703,Malus domestica,0,3700,6611,2920.5,2796.5,zz
+1202-1587.jpg,apple,15.888,Malus domestica,0,5176,6603,4913.5,3114.5,zz
+1202-1588.jpg,apple,18.159,Malus domestica,0,5725.5,4520.5,6375,8751.75,zz
+1202-1589.jpg,apple,15.183,Malus domestica,0,869,5038,1161.83,9056.17,zz
+1202-1590.jpg,apple,16.71,Malus domestica,0,2831,5376.5,2908,8780.5,zz
+1202-1591.jpg,apple,15.981,Malus domestica,0,4308,5410,4857,9037.67,zz
+1203-1605.jpg,apple,12.191,Malus domestica,0,4674,853,8179.5,1567.17,zz
+1203-1606.jpg,apple,14.807,Malus domestica,0,5608.5,1904.5,2403.5,1407.5,zz
+1203-1607.jpg,apple,15.92,Malus domestica,0,5333,5979.5,4963.83,2012.83,zz
+1203-1608.jpg,apple,14.024,Malus domestica,0,996.5,5694,1456.17,2141.5,zz
+1203-1609.jpg,apple,15.882,Malus domestica,0,2787,5386.5,3218.5,2251.5,zz
+1203-1610.jpg,apple,11.51,Malus domestica,0,7020,5614,7338.83,2623.83,zz
+1203-1611.jpg,apple,14.198,Malus domestica,0,6293,5281,6650,8638.5,zz
+1203-1612.jpg,apple,14.758,Malus domestica,0,3745,5356,2691,8768,zz
+1203-1613.jpg,apple,14.896,Malus domestica,0,2216.5,5315.5,664,8505,zz
+1203-1614.jpg,apple,12.802,Malus domestica,0,4163.5,5749,4896,8577.5,zz
+1205-965.jpg,apple,14.504,Malus domestica,0,4635.5,715.5,7804.25,1102.25,zz
+1205-966.jpg,apple,15.258,Malus domestica,0,5198,1688,1930.5,1464.5,zz
+1205-967.jpg,apple,19.063,Malus domestica,0,723,5486,960.17,1878.17,zz
+1205-968.jpg,apple,17.991,Malus domestica,0,6936,5933.5,6884.25,1931.5,zz
+1205-969.jpg,apple,17.063,Malus domestica,0,5416,5805,4923.5,2446.5,zz
+1205-972.jpg,apple,15.33,Malus domestica,0,3052,5474,3049.5,8856.5,zz
+1205-974.jpg,apple,16.528,Malus domestica,0,1189.5,5531.5,997.5,8989.5,zz
+1208-2-976.jpg,apple,23.254,Malus domestica,0,2962,4982,3388.17,1042.83,zz
+1208-2-977.jpg,apple,26.287,Malus domestica,0,5253,5446,5481.17,1102.17,zz
+1208-2-979.jpg,apple,29.857,Malus domestica,0,1756,4066,1459.5,8685.83,zz
+1208-2-980.jpg,apple,26.138,Malus domestica,0,3863,4228,3781.5,8664.5,zz
+1208-982.jpg,apple,25.922,Malus domestica,0,5516,5052,5221.5,863.5,zz
+1211-870.jpg,apple,20.938,Malus domestica,0,2104,5213,6159.83,5849.83,zz
+1211-872.jpg,apple,17.208,Malus domestica,0,6071,6560,2196.5,5402.5,zz
+1211-876.jpg,apple,17.89,Malus domestica,0,3808,7832,3979.5,3853.5,zz
+1211-878.jpg,apple,17.974,Malus domestica,0,3665,7706,4348.83,3983.5,zz
+1211-880.jpg,apple,21.042,Malus domestica,0,3084,7814,5152.5,3876,zz
+1211-882.jpg,apple,19.64,Malus domestica,0,4284,3993,3792.5,7699.5,zz
+1211-884.jpg,apple,16.321,Malus domestica,0,4350,4151,4433.5,7538.5,zz
+1211-886.jpg,apple,17.592,Malus domestica,0,4450,4073,3936.5,7618.5,zz
+1211-888.jpg,apple,15.294,Malus domestica,0,4251.17,4153.83,4169.83,7536.5,zz
+1214-2-990.jpg,apple,22.11,Malus domestica,0,2662,5229,3093.17,795.83,zz
+1214-2-991.jpg,apple,19.585,Malus domestica,0,927,5260,1110.5,1371.5,zz
+1214-2-992.jpg,apple,26.125,Malus domestica,0,5597,3998,5063.5,8706.83,zz
+1214-2-993.jpg,apple,22.522,Malus domestica,0,7266,4017,7008.17,8716.5,zz
+1214-2-995.jpg,apple,25.914,Malus domestica,0,3565,4252,3213.5,8803.5,zz
+1214-998.jpg,apple,19.673,Malus domestica,0,5130,3417,5459.5,7321,zz
+1215-1005.jpg,apple,24.627,Malus domestica,0,2975,5609,3072.5,890.5,zz
+1215-1006.jpg,apple,20.337,Malus domestica,0,7046,4830,5967.5,1132.17,zz
+1215-1007.jpg,apple,33.018,Malus domestica,0,4754,4422,4259.5,8539.5,zz
+1215-1008.jpg,apple,20.396,Malus domestica,0,1119,4701,2035.17,8052.17,zz
+1215-2-891.jpg,apple,23.624,Malus domestica,0,3944,7723,4499.17,3970.5,zz
+1215-2-893.jpg,apple,26.434,Malus domestica,0,4463,7802,4390.5,3856.5,zz
+1215-2-895.jpg,apple,22.817,Malus domestica,0,4383,7590,4370.5,3925.5,zz
+1215-2-897.jpg,apple,22.982,Malus domestica,0,4137.17,3630.5,4372.83,8061.17,zz
+1215-2-899.jpg,apple,23.914,Malus domestica,0,4252.5,3906.5,4292.5,7782.5,zz
+1218-1017.jpg,apple,24.49,Malus domestica,0,6269.5,5708.5,6239.5,1353.5,zz
+1218-1018.jpg,apple,19.215,Malus domestica,0,3601,5298,3378.17,1781.5,zz
+1218-1019.jpg,apple,23.57,Malus domestica,0,1581,3918,1904.5,8313.5,zz
+1218-2-1010.jpg,apple,25.094,Malus domestica,0,6913,5395,6620.5,1218.5,zz
+1218-2-1011.jpg,apple,26.493,Malus domestica,0,2778,5972,2063.5,1283.5,zz
+1218-2-1012.jpg,apple,19.883,Malus domestica,0,4718,5696,4173.5,1487.5,zz
+1218-2-1013.jpg,apple,27.005,Malus domestica,0,5809.5,4461.5,6271.5,9101.5,zz
+1218-2-1014.jpg,apple,24.843,Malus domestica,0,581,4600,1428.5,9061.5,zz
+1218-2-1015.jpg,apple,18.886,Malus domestica,0,3801,4775,4078.5,9002.5,zz
+1220-1749.jpg,apple,26.695,Malus domestica,0,2831,5499,2846.5,1222.5,zz
+1220-1750.jpg,apple,28.214,Malus domestica,0,4889,5065,5376.5,1270.5,zz
+1220-1751.jpg,apple,27.682,Malus domestica,0,1657,4094,1170.5,8621.5,zz
+1220-1752.jpg,apple,30.337,Malus domestica,0,6380,4373,6277.5,8601.5,zz
+1220-1753.jpg,apple,28.338,Malus domestica,0,4209,4637,4076.5,8621.5,zz
+1220-2-1743.jpg,apple,25.555,Malus domestica,0,2592,5517,2750.5,797.5,zz
+1220-2-1744.jpg,apple,27.019,Malus domestica,0,5705,5178,5050.5,1018.5,zz
+1220-2-1745.jpg,apple,24.628,Malus domestica,0,6943,3952,6576.25,8671,zz
+1220-2-1746.jpg,apple,27.203,Malus domestica,0,1216,4224,1567.5,8359.5,zz
+1220-2-1747.jpg,apple,23.843,Malus domestica,0,3714.5,4317.5,3584.5,8319.5,zz
+1229-904.jpg,apple,19.255,Malus domestica,0,5862,5201,2389.5,6432.5,zz
+1229-906.jpg,apple,25.277,Malus domestica,0,1730,6616,6536.5,5145.5,zz
+1229-908.jpg,apple,19.515,Malus domestica,0,5014,7820,3829.5,3866.5,zz
+1229-910.jpg,apple,27.423,Malus domestica,0,5269,7716,3263.17,3970.5,zz
+1229-912.jpg,apple,20.223,Malus domestica,0,4540,7979,3897.5,3713.5,zz
+1229-914.jpg,apple,24.178,Malus domestica,0,4550,8148,4275.5,3545.5,zz
+1229-916.jpg,apple,24.892,Malus domestica,0,4016,3593,4104.5,8098.5,zz
+1229-918.jpg,apple,19.723,Malus domestica,0,3484,3813,4720.5,7878.17,zz
+1229-920.jpg,apple,25.461,Malus domestica,0,4337,3755,3677.17,7939.17,zz
+1229-922.jpg,apple,19.862,Malus domestica,0,3964,3997,3953.5,7696.5,zz
+1232-1757.jpg,apple,15.149,Malus domestica,0,4515,559,7569.5,1451.5,zz
+1232-1758.jpg,apple,16.341,Malus domestica,0,5730,1925,2542.5,1213.83,zz
+1232-1759.jpg,apple,23.549,Malus domestica,0,3916,5984,3878.5,2203.17,zz
+1232-1760.jpg,apple,21.752,Malus domestica,0,5863,6049,5486.5,2352.5,zz
+1232-1761.jpg,apple,21.808,Malus domestica,0,1896,5788,896.5,2553.5,zz
+1232-1762.jpg,apple,16.025,Malus domestica,0,6735,5844,7420.5,2601.5,zz
+1232-1763.jpg,apple,21.672,Malus domestica,0,950,4827,723.17,9008.83,zz
+1232-1764.jpg,apple,27.876,Malus domestica,0,5047,5282,4521.5,9142.17,zz
+1232-1765.jpg,apple,15.932,Malus domestica,0,2644,5375,2685.5,8943.5,zz
+1232-1766.jpg,apple,20.676,Malus domestica,0,7409,5718,6674.5,8871.5,zz
+1234-1772.jpg,apple,24.312,Malus domestica,0,4744,5583,4680.5,723.5,zz
+1234-1773.jpg,apple,22.494,Malus domestica,0,6371,4633,7121.5,821,zz
+1234-1774.jpg,apple,28.692,Malus domestica,0,2841,5328,2990.5,1123.5,zz
+1234-1775.jpg,apple,25.971,Malus domestica,0,7167,4320,7339.17,8720.83,zz
+1234-1776.jpg,apple,27.29,Malus domestica,0,1745,4626,1412.5,8718.5,zz
+1234-1777.jpg,apple,19.669,Malus domestica,0,5671.5,4840.5,4981.83,8689.5,zz
+1234-2-1768.jpg,apple,24.005,Malus domestica,0,6297,6616,6014.5,2295.5,zz
+1234-2-1769.jpg,apple,26.708,Malus domestica,0,1990,3434,1596.5,7631.5,zz
+1234-2-1770.jpg,apple,22.876,Malus domestica,0,4686.5,3823.5,4176.5,7850.5,zz
+1235-1785.jpg,apple,31.229,Malus domestica,0,6418,3981,6043.5,8552.5,zz
+1235-2-925.jpg,apple,38.516,Malus domestica,0,1498,6005,6767.5,6028.83,zz
+1235-2-929.jpg,apple,21.063,Malus domestica,0,3930,7648,4163.5,4039.5,zz
+1235-2-931.jpg,apple,21.894,Malus domestica,0,3554,7930,4612.5,3866.17,zz
+1235-2-933.jpg,apple,25.584,Malus domestica,0,3872,8091,4077.5,3972.5,zz
+1235-2-935.jpg,apple,27.29,Malus domestica,0,4536,3762,3755.5,8157.5,zz
+1235-2-937.jpg,apple,27.953,Malus domestica,0,4424.5,3545.5,4514.5,8143.5,zz
+1239-1793.jpg,apple,31.753,Malus domestica,0,2414,4762,2155.5,1123.5,zz
+1239-1795.jpg,apple,36.22,Malus domestica,0,6552.5,4721.5,6480.5,8587.5,zz
+1239-1796.jpg,apple,30.586,Malus domestica,0,1642,4747,1440.83,8355.83,zz
+1239-1797.jpg,apple,38.333,Malus domestica,0,3910,4758,3991.5,8733.5,zz
+1239-2-940.jpg,apple,37.954,Malus domestica,0,2969,7885,4829.5,3804.5,zz
+1239-2-942.jpg,apple,40.012,Malus domestica,0,4174,7792,4713.5,3895.5,zz
+1239-2-944.jpg,apple,37.713,Malus domestica,0,4205,3890,4028.5,7803.5,zz
+1239-2-946.jpg,apple,38.7,Malus domestica,0,4264,3680,3575.5,7881.5,zz
+1239-2-948.jpg,apple,48.774,Malus domestica,0,4029.5,3770.5,3909.5,7806.5,zz
+1241-951.jpg,apple,20.774,Malus domestica,0,6022.5,6332.5,2346.83,5820.83,zz
+1241-953.jpg,apple,20.075,Malus domestica,0,2117.5,5622.5,6060.5,6012.5,zz
+1241-955.jpg,apple,23.222,Malus domestica,0,3427,7850,4182.5,3840.5,zz
+1241-957.jpg,apple,29.944,Malus domestica,0,4655,3881,3594.17,7811.17,zz
+1241-959.jpg,apple,22.411,Malus domestica,0,3951,7876,4158.5,3897.5,zz
+1241-961.jpg,apple,23.126,Malus domestica,0,4263.5,4136.5,4164.5,7563.5,zz
+1241-963.jpg,apple,22.153,Malus domestica,0,3495,7773,4651.5,3916.83,zz
+1241-965.jpg,apple,23.19,Malus domestica,0,4239,4030,4092.5,7661.5,zz
+1241-969.jpg,apple,26.05,Malus domestica,0,3233,7842,4621,3637.5,zz
+1244-1806.jpg,apple,29.194,Malus domestica,0,5001,4931,6589.83,1095.5,zz
+1244-1807.jpg,apple,28.421,Malus domestica,0,3090,5121,3292,1125.5,zz
+1244-1809.jpg,apple,30.905,Malus domestica,0,6305,4498,5910.17,8824.83,zz
+1244-2-1799.jpg,apple,25.609,Malus domestica,0,6679,4452,6989.83,366.5,zz
+1244-2-1800.jpg,apple,29.5,Malus domestica,0,2631,5433,1948.5,943.17,zz
+1244-2-1801.jpg,apple,26.255,Malus domestica,0,4716.5,5036.5,4823.5,1210.5,zz
+1244-2-1802.jpg,apple,28.983,Malus domestica,0,971,4309,1591.5,8675.5,zz
+1244-2-1803.jpg,apple,31.368,Malus domestica,0,3940,4596,3485.83,8901.5,zz
+1248-1817.jpg,apple,19.297,Malus domestica,0,7100.5,5239.17,6628.5,1293.83,zz
+1248-1818.jpg,apple,24.6,Malus domestica,0,2333,5224,2033.5,1519.5,zz
+1248-1819.jpg,apple,25.246,Malus domestica,0,1162,4319,1478.17,8908.5,zz
+1248-1820.jpg,apple,20.721,Malus domestica,0,5942,4342,6125.5,8507.5,zz
+1248-1821.jpg,apple,26.593,Malus domestica,0,3558,4967,3713.5,8941.17,zz
+1248-2-1811.jpg,apple,23.23,Malus domestica,0,3367,5211,2750.17,947.17,zz
+1248-2-1812.jpg,apple,20.968,Malus domestica,0,6463,5434,6767.5,1439.5,zz
+1248-2-1813.jpg,apple,21.263,Malus domestica,0,1350.5,3846.5,1585,8065.5,zz
+1248-2-1814.jpg,apple,17.73,Malus domestica,0,5445,3945,4781.5,7701,zz
+1250-1829.jpg,apple,25.804,Malus domestica,0,5049,5299,5487.17,1181.17,zz
+1250-1830.jpg,apple,23.434,Malus domestica,0,2872.5,5671,2782.5,1397.5,zz
+1250-1831.jpg,apple,23.375,Malus domestica,0,6203,3775,6765.5,8190.5,zz
+1250-2-1823.jpg,apple,28.001,Malus domestica,0,2328,5013,3027.83,1042.17,zz
+1250-2-1824.jpg,apple,27.071,Malus domestica,0,5283,5177,5371.5,1439.5,zz
+1250-2-1825.jpg,apple,31.033,Malus domestica,0,6455,4788,6362.5,8858.5,zz
+1250-2-1826.jpg,apple,27.548,Malus domestica,0,4073,4872,3513,8584.5,zz
+1250-2-1827.jpg,apple,27.014,Malus domestica,0,1239,5291,1432.5,8780.5,zz
+1253-1840.jpg,apple,23.902,Malus domestica,0,6882,5526,7047,958.5,zz
+1253-1841.jpg,apple,22.646,Malus domestica,0,5078.94,5180.5,4624.75,1190.75,zz
+1253-1842.jpg,apple,19.812,Malus domestica,0,2524.83,5092.17,2519.83,1276.17,zz
+1253-1843.jpg,apple,23.683,Malus domestica,0,5915.5,4358.5,6166.88,8812.38,zz
+1253-1844.jpg,apple,25.554,Malus domestica,0,1262.17,4541.5,1680.5,8551.5,zz
+1253-2-1835.jpg,apple,20.43,Malus domestica,0,6015,5572,5778.5,1388.5,zz
+1253-2-1836.jpg,apple,23.887,Malus domestica,0,2944,5810,3639.5,1632.5,zz
+1253-2-1837.jpg,apple,25.37,Malus domestica,0,1434,3381.5,2005.83,8112.5,zz
+1253-2-1838.jpg,apple,22.264,Malus domestica,0,4397,3994,5092.5,8331.5,zz
+1256-2-1847.jpg,apple,26.69,Malus domestica,0,4846.75,3739.75,7707.5,261.83,zz
+1256-2-1848.jpg,apple,23.415,Malus domestica,0,2309.5,3625.33,5265,948,zz
+1256-2-1849.jpg,apple,19.594,Malus domestica,0,403.67,3984.17,3006.25,1395.75,zz
+1256-2-1851.jpg,apple,26.143,Malus domestica,0,6694,4719.5,5852.25,9009.5,zz
+1256-2-1852.jpg,apple,23.559,Malus domestica,0,1631,4875,1382.83,8626.17,zz
+1258-1859.jpg,apple,10.804,Malus domestica,0,4845.5,769.5,7650.5,1142.5,zz
+1258-1860.jpg,apple,12.696,Malus domestica,0,5173.5,1520.92,2169.5,1237.75,zz
+1258-1864.jpg,apple,10.661,Malus domestica,0,7159.5,5022.83,7321.17,2797.67,zz
+1258-1865.jpg,apple,14.608,Malus domestica,0,4296.83,4944.5,5133.42,8588.5,zz
+1258-1866.jpg,apple,14.091,Malus domestica,0,6561,5031.5,7387,8275.5,zz
+1258-1867.jpg,apple,12.575,Malus domestica,0,3178.17,5589.33,2759.38,8596.44,zz
+1258-1868.jpg,apple,13.112,Malus domestica,0,930.83,5817.5,802.67,8588.5,zz
+1260-972.jpg,apple,18.675,Malus domestica,0,6036.5,5264.25,2227.5,5923.83,zz
+1260-974.jpg,apple,18.405,Malus domestica,0,2212.5,6585.5,6052.5,5775,zz
+1260-976.jpg,apple,20.005,Malus domestica,0,3781.5,8026.17,4044.25,3663.5,zz
+1260-978.jpg,apple,22.284,Malus domestica,0,3584,8063,4348.83,3628.58,zz
+1260-980.jpg,apple,22.97,Malus domestica,0,4407.5,7952,4185.25,3736.5,zz
+1260-982.jpg,apple,23.938,Malus domestica,0,5224,8213.25,3353.5,3560.5,zz
+1260-986.jpg,apple,13.524,Malus domestica,0,3365.5,4372.5,4714.25,7326.5,zz
+1260-988.jpg,apple,17.921,Malus domestica,0,4445,3800,4174.25,7891.5,zz
+1260-990.jpg,apple,23.43,Malus domestica,0,4652.83,3629.5,4247.83,8062.5,zz
+1265-1001.jpg,apple,33.506,Malus domestica,0,3563,3228,4197.5,8321.5,zz
+1265-1003.jpg,apple,24.645,Malus domestica,0,4227,7947,4046.25,3974.25,zz
+1265-2-1879.jpg,apple,24.302,Malus domestica,0,3425,5930,3040.17,1773.5,zz
+1265-2-1880.jpg,apple,21.224,Malus domestica,0,6612,5858,6720.83,1983.5,zz
+1265-2-1881.jpg,apple,25.649,Malus domestica,0,5119,3900,4886.5,8014.5,zz
+1265-2-1882.jpg,apple,24.665,Malus domestica,0,1629,8175,1382.5,4777.5,zz
+1265-993.jpg,apple,27.52,Malus domestica,0,4542,8039.5,3830.25,3651.58,zz
+1265-995.jpg,apple,26.168,Malus domestica,0,4001,3605,3913.5,8084,zz
+1265-997.jpg,apple,21.719,Malus domestica,0,4518,8014,4025.5,3676.25,zz
+1265-999.jpg,apple,29.512,Malus domestica,0,3849,3489,4229.17,8202.5,zz
+1271-1893.jpg,apple,22.726,Malus domestica,0,6080.17,5641.5,6332.83,889.67,zz
+1271-1894.jpg,apple,21.2,Malus domestica,0,4037.5,5786.5,4299.96,992.5,zz
+1271-1895.jpg,apple,22.152,Malus domestica,0,2135,6840,1634.5,1630.5,zz
+1271-1896.jpg,apple,21.669,Malus domestica,0,4842.5,3887.5,4953.83,8749.5,zz
+1271-1897.jpg,apple,26.128,Malus domestica,0,7105.17,3949.5,6600.83,8813.33,zz
+1271-1898.jpg,apple,22.008,Malus domestica,0,2928,4178,3034.17,8761.83,zz
+1271-2-1889.jpg,apple,23.773,Malus domestica,0,5912,7463,6575.5,2894.5,zz
+1271-2-1890.jpg,apple,18.552,Malus domestica,0,3480,7453,4020.17,3502.5,zz
+1271-2-1891.jpg,apple,19.571,Malus domestica,0,1428.5,7831.5,1853.33,3695.67,zz
+1280-1903.jpg,apple,42.117,Malus domestica,0,5470.83,4778.5,4963.67,126.5,zz
+1280-1904.jpg,apple,35.471,Malus domestica,0,2684,5069,2748.13,534.5,zz
+1280-1905.jpg,apple,39.52,Malus domestica,0,1597.17,3947.5,1323.5,8555.5,zz
+1280-1906.jpg,apple,37.027,Malus domestica,0,6867.5,3964.5,6545.17,8445.5,zz
+1280-1907.jpg,apple,47.816,Malus domestica,0,3896,4118,4069.5,9009.5,zz
+1281-1914.jpg,apple,32.704,Malus domestica,0,6929,4709,6757,674.5,zz
+1281-1915.jpg,apple,26.798,Malus domestica,0,2385.5,5592.5,2737.17,1841.83,zz
+1281-1916.jpg,apple,30.326,Malus domestica,0,4799.17,5718.5,4640.83,1903.17,zz
+1281-1917.jpg,apple,30.794,Malus domestica,0,1034.83,4123.5,599,8600.5,zz
+1281-1918.jpg,apple,27.528,Malus domestica,0,6313,4458,5796.25,8611.5,zz
+1281-1919.jpg,apple,27.188,Malus domestica,0,3477,5124,3704,8737.5,zz
+1281-2-1910.jpg,apple,22.79,Malus domestica,0,6334,6129,6179.5,2383.83,zz
+1281-2-1911.jpg,apple,27.231,Malus domestica,0,4721.63,4904.5,4716.5,8945,zz
+1281-2-1912.jpg,apple,29.226,Malus domestica,0,2059.25,5135.5,1911.5,8983,zz
+1286-1929.jpg,apple,15.693,Malus domestica,0,3521.5,2902.83,6171.5,1970,zz
+1286-1930.jpg,apple,19.932,Malus domestica,0,3694.5,3763.5,2975.75,7474.5,zz
+1286-2-1921.jpg,apple,27.282,Malus domestica,0,3389.33,1632.5,7751.44,1917.13,zz
+1286-2-1922.jpg,apple,26.215,Malus domestica,0,1624.83,5742.5,4491.38,2454.75,zz
+1286-2-1923.jpg,apple,19.858,Malus domestica,0,6293,5325.5,5660.83,2456.83,zz
+1286-2-1925.jpg,apple,17.643,Malus domestica,0,7488,4895.5,7201.25,8145.25,zz
+1286-2-1926.jpg,apple,23.586,Malus domestica,0,568.5,5049,1138.67,8633.5,zz
+1286-2-1927.jpg,apple,20.026,Malus domestica,0,3385.5,5329.5,3224.25,8419.63,zz
+1290-1939.jpg,apple,29.533,Malus domestica,0,4906.5,5422.5,5681.5,899.5,zz
+1290-1940.jpg,apple,25.903,Malus domestica,0,3137.25,5860.25,1333.67,1438.5,zz
+1290-1941.jpg,apple,25.829,Malus domestica,0,868.17,3779.5,1217,8716.5,zz
+1290-1942.jpg,apple,27.472,Malus domestica,0,3503,4362,3428.83,8922.67,zz
+1290-1943.jpg,apple,28.541,Malus domestica,0,6681,4560.5,6886.33,8831.5,zz
+1290-2-1933.jpg,apple,23.389,Malus domestica,0,4083,4948.5,2959.5,827.5,zz
+1290-2-1934.jpg,apple,28.654,Malus domestica,0,7187.17,5397.5,7211,1079.33,zz
+1290-2-1935.jpg,apple,23.72,Malus domestica,0,1354.17,6119.5,985.56,1463.5,zz
+1290-2-1936.jpg,apple,34.789,Malus domestica,0,2894,4074,2489.83,8652.5,zz
+1296-1945.jpg,apple,14.382,Malus domestica,0,5842.25,123,2792.5,1044.25,zz
+1296-1946.jpg,apple,11.47,Malus domestica,0,4530.33,2360.83,7454.25,745.5,zz
+1296-1947.jpg,apple,14.712,Malus domestica,0,1966.25,5206.38,635.54,1930.5,zz
+1296-1948.jpg,apple,12.847,Malus domestica,0,3422,5264.5,2499.88,2133.5,zz
+1296-1949.jpg,apple,13.453,Malus domestica,0,4602.33,5685.67,4392.33,2419.33,zz
+1296-1951.jpg,apple,19.448,Malus domestica,0,2796.17,4803.5,2993.83,8706.5,zz
+1296-1952.jpg,apple,15.602,Malus domestica,0,952.75,4870.5,1034.58,8726.42,zz
+1296-1953.jpg,apple,16.615,Malus domestica,0,7232,4965,6996.13,8531.38,zz
+1298-1957.jpg,apple,12.084,Malus domestica,0,3496.75,5135.25,3500.5,2136.5,zz
+1298-1958.jpg,apple,12.491,Malus domestica,0,1600.17,5721.5,1686.17,2370.5,zz
+1298-1959.jpg,apple,11.684,Malus domestica,0,6429.5,5585.33,6224.25,2479.5,zz
+1298-1960.jpg,apple,8.819,Malus domestica,0,4552.75,5302.5,5284.33,2610.5,zz
+1298-1962.jpg,apple,11.005,Malus domestica,0,5685.38,5294.5,5496.38,8497.5,zz
+1298-1964.jpg,apple,12.902,Malus domestica,0,2893.69,5589.5,2676.46,8585.5,zz
+1298-1965.jpg,apple,8.98,Malus domestica,0,4292.5,5810.25,4192.19,8559.44,zz
+1302-2015.jpg,apple,15.874,Malus domestica,0,4812.58,2478.33,6929.5,590.63,zz
+1302-2016.jpg,apple,13.659,Malus domestica,0,2302.58,2908.42,4716.38,1573.5,zz
+1302-2018.jpg,apple,16.241,Malus domestica,0,535.63,5674.5,1064.25,2558.58,zz
+1302-2019.jpg,apple,16.119,Malus domestica,0,4394.25,6511.25,4671.08,3069.5,zz
+1302-2020.jpg,apple,19.25,Malus domestica,0,1971.5,6292.5,2942.25,3305.75,zz
+1302-2022.jpg,apple,18.241,Malus domestica,0,5630.5,5198.17,5298.38,8741.38,zz
+1302-2023.jpg,apple,17.662,Malus domestica,0,6789.58,5296.5,6945.33,8886.5,zz
+1302-2024.jpg,apple,18.772,Malus domestica,0,924.17,5455.33,997.63,8766.5,zz
+1307-2135.jpg,apple,13.058,Malus sieversii,0,5561.5,537,2682.5,1309.83,zz
+1307-2137.jpg,apple,18.084,Malus sieversii,0,950.75,6398.5,1137.5,2393.42,zz
+1307-2139.jpg,apple,19.115,Malus sieversii,0,6289.5,6222.5,6700.17,2673.5,zz
+1307-2140.jpg,apple,16.758,Malus sieversii,0,2564.17,6019.33,2809.5,2693.5,zz
+1307-2141.jpg,apple,14.669,Malus sieversii,0,7937.83,4952.5,7031.63,7634.5,zz
+1307-2142.jpg,apple,15.753,Malus sieversii,0,3369.17,5347.5,3683.92,8693.58,zz
+1307-2143.jpg,apple,18.414,Malus sieversii,0,5584.83,5392.5,5478.88,8644.5,zz
+1312-107.jpg,apple,19.559,Malus sieversii,0,3768,7875.33,4058.33,3816.5,zz
+1312-109.jpg,apple,15.933,Malus sieversii,0,3532.5,7689.5,4262.13,4002.63,zz
+1312-111.jpg,apple,17.377,Malus sieversii,0,6039.5,5622.25,2227.5,6028.75,zz
+1312-113.jpg,apple,13.033,Malus sieversii,0,3723,7881.25,4160,3807.5,zz
+1312-115.jpg,apple,14.898,Malus sieversii,0,4276,7565.5,4198.5,4125.25,zz
+1312-117.jpg,apple,19.446,Malus sieversii,0,4120,7571.5,4211,4121.5,zz
+1312-119.jpg,apple,21.551,Malus sieversii,0,4769.5,3616.5,3441.33,8074.5,zz
+1312-121.jpg,apple,15.211,Malus sieversii,0,4328,4100,3760.25,7590.5,zz
+1312-123.jpg,apple,18.635,Malus sieversii,0,4500.83,3650.5,3510.75,8040,zz
+1312-125.jpg,apple,17.189,Malus sieversii,0,4024,3877,4116.5,7812.5,zz
+1316-2296.jpg,apple,10.611,Malus sieversii,0,5180.5,562,8072.5,1560.25,zz
+1316-2297.jpg,apple,10.984,Malus sieversii,0,5122.5,1721.83,2738.33,2000.17,zz
+1316-2298.jpg,apple,10.708,Malus sieversii,0,1158,5770.5,938.5,2818.83,zz
+1316-2299.jpg,apple,11.366,Malus sieversii,0,2976.88,5341.38,3142.75,2855.5,zz
+1316-2300.jpg,apple,12.321,Malus sieversii,0,7043.5,5377.5,7089.5,2870,zz
+1316-2301.jpg,apple,13.616,Malus sieversii,0,5083.17,5523.5,4732,2891.5,zz
+1316-2302.jpg,apple,14.922,Malus sieversii,0,4330.5,5704.17,5047.67,8485.42,zz
+1316-2303.jpg,apple,13.579,Malus sieversii,0,6739.75,5843.5,6791.38,8725.38,zz
+1316-2304.jpg,apple,13.014,Malus sieversii,0,2875.25,5908.25,3102.25,8699.5,zz
+1316-2305.jpg,apple,11.931,Malus sieversii,0,1029,6196.5,1684.75,8684.25,zz
+1319-130.jpg,apple,19.997,Malus sieversii,0,3962.5,8111,4087.5,3578.5,zz
+1319-134.jpg,apple,20.03,Malus sieversii,0,4120,7952,4394.17,3739.17,zz
+1319-136.jpg,apple,21.39,Malus sieversii,0,4255,7882,4373.5,3809.5,zz
+1319-138.jpg,apple,20.262,Malus sieversii,0,4062.5,8155.75,4023.25,3536.5,zz
+1319-140.jpg,apple,18.164,Malus sieversii,0,4597.17,3647.5,3319.75,8042.5,zz
+1319-142.jpg,apple,20.693,Malus sieversii,0,4456,3822,4369.5,8094.5,zz
+1319-144.jpg,apple,20.216,Malus sieversii,0,4055,3587.5,4628.83,8104.5,zz
+1319-146.jpg,apple,19.498,Malus sieversii,0,3808.83,3691.5,4118,8000.5,zz
+1322-149.jpg,apple,20.206,Malus sieversii,0,5100,3535,3249.5,8158.5,zz
+1322-151.jpg,apple,18.343,Malus sieversii,0,4556,3588,3912.5,8102.5,zz
+1322-153.jpg,apple,25.24,Malus sieversii,0,3978.5,3794.5,4167.5,7892.5,zz
+1322-157.jpg,apple,18.666,Malus sieversii,0,1921,5589,6348.17,6172.83,zz
+1322-2-1034.jpg,apple,24.705,Malus sieversii,0,5430.88,5452.5,5171.5,705.5,zz
+1322-2-1035.jpg,apple,21.319,Malus sieversii,0,2570.5,5170.38,3294.92,1001.58,zz
+1322-2-1036.jpg,apple,19.962,Malus sieversii,0,6141.25,4229.5,6157.63,8575.5,zz
+1322-2-1037.jpg,apple,19.134,Malus sieversii,0,1614.25,4265.5,1007.83,8409.83,zz
+1326-2317.jpg,apple,14.781,Malus sieversii,0,5590,1009,2395.5,1733.17,zz
+1326-2318.jpg,apple,18.373,Malus sieversii,0,4699.5,2135,8089,1082.25,zz
+1326-2319.jpg,apple,14.509,Malus sieversii,0,5208,5438,5126.5,2399.5,zz
+1326-2321.jpg,apple,17.745,Malus sieversii,0,7191.67,6398.5,7157.67,2552.5,zz
+1326-2322.jpg,apple,16.787,Malus sieversii,0,3369,6116.5,3055.83,2907.5,zz
+1326-2323.jpg,apple,19.836,Malus sieversii,0,984,4702,885.83,8970.5,zz
+1326-2325.jpg,apple,18.086,Malus sieversii,0,2669.5,5058.5,2901,8888.5,zz
+1326-2326.jpg,apple,15.567,Malus sieversii,0,4700,5655,4703.5,8879.5,zz
+1328-2328.jpg,apple,20.149,Malus sieversii,0,5270.33,1074.5,2145.5,749,zz
+1328-2329.jpg,apple,19.631,Malus sieversii,0,4691.5,1585,8186.83,1273.83,zz
+1328-2330.jpg,apple,19.503,Malus sieversii,0,977.25,5588.5,1593,1937.5,zz
+1328-2331.jpg,apple,20.274,Malus sieversii,0,2229,5854,3768.75,1944.5,zz
+1328-2332.jpg,apple,22.583,Malus sieversii,0,4716,6145.25,5035.13,2044.5,zz
+1328-2333.jpg,apple,20.522,Malus sieversii,0,6612,5573,6995.5,2218.5,zz
+1328-2334.jpg,apple,22.654,Malus sieversii,0,3615.25,4062.5,3113.83,8275.5,zz
+1328-2336.jpg,apple,19.321,Malus sieversii,0,5318,4951,5133.25,8857.5,zz
+1328-2337.jpg,apple,22.829,Malus sieversii,0,7161.5,5494.5,7133.17,8549.5,zz
+1330-2339.jpg,apple,11.581,Malus sieversii,0,5067.5,82.25,5492.13,2441.5,zz
+1330-2340.jpg,apple,15.068,Malus sieversii,0,6284.63,3354.38,7580.38,452.5,zz
+1330-2341.jpg,apple,13.334,Malus sieversii,0,4494,841,2434.5,1878.13,zz
+1330-2342.jpg,apple,17.32,Malus sieversii,0,1259.33,5418.5,1187.17,2468.5,zz
+1330-2343.jpg,apple,13.595,Malus sieversii,0,1840.83,2631.5,2704.17,5943.5,zz
+1330-2344.jpg,apple,13.508,Malus sieversii,0,4344,5933.5,4187.25,2805.25,zz
+1330-2345.jpg,apple,20.305,Malus sieversii,0,5075.25,7373.5,5798.75,3175.5,zz
+1330-2346.jpg,apple,23.547,Malus sieversii,0,7812.17,3785.83,6849,8435.25,zz
+1330-2347.jpg,apple,14.787,Malus sieversii,0,1006.17,5069.5,1228.5,8261.5,zz
+1330-2348.jpg,apple,17.204,Malus sieversii,0,3827.25,5583.38,4282.5,8686.25,zz
+1331-2350.jpg,apple,10.384,Malus sieversii,0,5201.5,722.5,7894.5,852.25,zz
+1331-2351.jpg,apple,11.082,Malus sieversii,0,5366.5,1750.17,2573.5,2014.13,zz
+1331-2352.jpg,apple,11.137,Malus sieversii,0,6895.75,5362.63,6764.38,2464.5,zz
+1331-2353.jpg,apple,10.953,Malus sieversii,0,4608.17,5477.5,4697.08,2713.5,zz
+1331-2354.jpg,apple,12.385,Malus sieversii,0,1516,5620,1142.17,2966.5,zz
+1331-2355.jpg,apple,12.077,Malus sieversii,0,3226.67,5638.5,3061.5,3072.5,zz
+1331-2356.jpg,apple,10.799,Malus sieversii,0,6728.25,5711.5,6799.5,8508.5,zz
+1331-2357.jpg,apple,12.035,Malus sieversii,0,4208,5833.5,4798,8145.38,zz
+1331-2358.jpg,apple,10.994,Malus sieversii,0,1164.75,5883.75,1044.17,8783.5,zz
+1331-2359.jpg,apple,10.571,Malus sieversii,0,2640.25,6095.5,2820.13,8654.5,zz
+2002-164.jpg,apple,18.463,Malus sieversii,0,4510,8162,3899.88,3528.5,zz
+2002-166.jpg,apple,15.896,Malus sieversii,0,3844.5,8098,3924.25,3591.5,zz
+2002-168.jpg,apple,15.205,Malus sieversii,0,4155.67,7959.5,3999.5,3729.83,zz
+2002-170.jpg,apple,14.013,Malus sieversii,0,4021,7498,4255.17,4193.83,zz
+2002-172.jpg,apple,11.645,Malus sieversii,0,3946.67,4100.67,4221,7590.5,zz
+2002-178.jpg,apple,13.836,Malus sieversii,0,4085.25,4043.5,3953.5,7648.5,zz
+2006-2-2371.jpg,apple,30.544,Malus sieversii,0,5145,5302,5525.25,1052.5,zz
+2006-2-2372.jpg,apple,27.739,Malus sieversii,0,2498.17,6721.5,1976.5,1519.5,zz
+2006-2-2373.jpg,apple,36.849,Malus sieversii,0,6341.17,3684.5,6390,8505.38,zz
+2006-2-2374.jpg,apple,32.823,Malus sieversii,0,3876.17,3740.5,4182.42,8716.5,zz
+2006-2-2375.jpg,apple,27.247,Malus sieversii,0,1275.83,4481.5,1213,8480.5,zz
+2006-2378.jpg,apple,25.8,Malus sieversii,0,2816.63,5851.5,3464.17,949.5,zz
+2006-2379.jpg,apple,29.388,Malus sieversii,0,4368.5,3285.5,4361.38,8276.5,zz
+2006-2380.jpg,apple,26.995,Malus sieversii,0,6181.17,3959.5,6180.58,8750.5,zz
+2006-2381.jpg,apple,31.823,Malus sieversii,0,1557.25,4132.25,1436.13,8266.38,zz
+2009-1049.jpg,apple,26.518,Malus sieversii,0,5957.75,4816.25,6416.5,491.5,zz
+2009-1050.jpg,apple,20.795,Malus sieversii,0,4103.25,4802.5,4063.38,1554.5,zz
+2009-1051.jpg,apple,23.119,Malus sieversii,0,1683.13,6538.5,2121.46,1932.54,zz
+2009-1052.jpg,apple,22.014,Malus sieversii,0,7196.75,4348.5,7115.17,8231.5,zz
+2009-1053.jpg,apple,21.217,Malus sieversii,0,5307.13,4506.5,5019.88,8326.38,zz
+2009-1054.jpg,apple,25.867,Malus sieversii,0,3480.83,4681.5,2883.25,8660.5,zz
+2009-1055.jpg,apple,17.932,Malus sieversii,0,895.25,4802.5,933.88,8665.5,zz
+2009-2-1045.jpg,apple,19.18,Malus sieversii,0,5818.5,2679,2429.5,2584.58,zz
+2009-2-1047.jpg,apple,27.808,Malus sieversii,0,6257,3596.5,5447.83,8289.5,zz
+2012-2-2383.jpg,apple,26.79,Malus sieversii,0,6911.63,4223.5,6648.75,356.38,zz
+2012-2-2384.jpg,apple,30.372,Malus sieversii,0,4493.25,5004.5,4112.25,1115.5,zz
+2012-2-2385.jpg,apple,25.148,Malus sieversii,0,1888.5,5316.5,1368.5,1572.5,zz
+2012-2-2386.jpg,apple,27.741,Malus sieversii,0,3292,4261.5,3140.17,8188.17,zz
+2012-2-2387.jpg,apple,26.408,Malus sieversii,0,5910.67,4742.5,6613.25,8364.38,zz
+2012-2-2388.jpg,apple,23.605,Malus sieversii,0,1448.17,5012.5,1006.25,8488.25,zz
+2012-2390.jpg,apple,32.51,Malus sieversii,0,6215.5,5352.5,5704.25,1243.5,zz
+2012-2391.jpg,apple,31.278,Malus sieversii,0,2784.25,5729.5,3032.67,1558.5,zz
+2012-2392.jpg,apple,30.687,Malus sieversii,0,4749.83,3844.83,4582.75,8480.25,zz
+2012-2393.jpg,apple,22.202,Malus sieversii,0,1419.5,4624.5,1636.88,8172.38,zz
+2014-2-2395.jpg,apple,23.879,Malus sieversii,0,3423.5,4479.38,2959.33,1156.5,zz
+2014-2-2396.jpg,apple,24.508,Malus sieversii,0,6005.25,4854.5,5978,1384.5,zz
+2014-2-2397.jpg,apple,26.749,Malus sieversii,0,1559.67,3586.5,2014.25,8209.25,zz
+2014-2-2398.jpg,apple,28.116,Malus sieversii,0,4479.83,4775.5,4407.25,8338.5,zz
+2014-2400.jpg,apple,30.607,Malus sieversii,0,6658,5272.5,6481.88,1085.54,zz
+2014-2401.jpg,apple,25.502,Malus sieversii,0,2202.67,5355.5,2020.08,1101.5,zz
+2014-2402.jpg,apple,28.361,Malus sieversii,0,4545.42,5195.5,4458.03,1196.5,zz
+2014-2403.jpg,apple,29.431,Malus sieversii,0,927.88,4592.5,1185.66,8759.44,zz
+2014-2404.jpg,apple,28.461,Malus sieversii,0,6170.17,4978.5,6117.67,8707.33,zz
+2014-2405.jpg,apple,25.068,Malus sieversii,0,3779.83,5193.5,4005.5,8722.5,zz
+2016-2407.jpg,apple,18.24,Malus sieversii,0,2510.58,1523.33,6142.5,1181.17,zz
+2016-2408.jpg,apple,12.537,Malus sieversii,0,2872.5,1080.67,92,1605.5,zz
+2016-2409.jpg,apple,15.101,Malus sieversii,0,3634.5,3159.17,331.33,2986.67,zz
+2016-2410.jpg,apple,21.432,Malus sieversii,0,4053.5,3039.83,7557.38,2939.63,zz
+2016-2411.jpg,apple,16.506,Malus sieversii,0,4398.5,4210.17,1011.5,4123.33,zz
+PI_307500_Malus prunifolia_5.jpg,apple,225.91,PI_307500_Malus prunifolia_5.jpg,0,3883,3775,1216.5,3420.5,zz
+PI_307500_Malus prunifolia_7.jpg,apple,225.91,PI_307500_Malus prunifolia_7.jpg,0,3856,3584,1247.5,3598.167,zz
+PI_322713_Malus baccata_5.jpg,apple,225.91,PI_322713_Malus baccata_5.jpg,0,1638.5,3931,3474.5,3207.5,zz
+PI_337434_Malus prunifolia_2.jpg,apple,225.91,PI_337434_Malus prunifolia_2.jpg,0,987,3556,4116.5,3673.167,zz
+PI_337434_Malus prunifolia_4.jpg,apple,225.91,PI_337434_Malus prunifolia_4.jpg,0,823.5,3543,4289.5,4030.5,zz
+PI_337434_Malus prunifolia_B_2.jpg,apple,225.91,PI_337434_Malus prunifolia_B_2.jpg,0,1160,3154,3957.833,3550.5,zz
+PI_344089_Malus floribunda_5.jpg,apple,225.91,PI_344089_Malus floribunda_5.jpg,0,4027.5,3572.5,1071.5,3401.917,zz
+PI_392301_Malus baccata_3.jpg,apple,225.91,PI_392301_Malus baccata_3.jpg,0,928.583,3501.417,4171.75,3278.75,zz
+PI_392301_Malus baccata_4.jpg,apple,225.91,PI_392301_Malus baccata_4.jpg,0,797.25,3206.25,4309.375,3473.375,zz
+PI_392301_Malus baccata_5.jpg,apple,225.91,PI_392301_Malus baccata_5.jpg,0,937.833,3534.167,4163.5,3657.5,zz
+PI_483266_Malus floribunda_B_1.jpg,apple,225.91,PI_483266_Malus floribunda_B_1.jpg,0,1232,3544.5,3869.5,3366.75,zz
+PI_483266_Malus floribunda_B_5.jpg,apple,225.91,PI_483266_Malus floribunda_B_5.jpg,0,1556.333,3705.667,3552.167,3495.667,zz
+PI_588758_10.jpg,apple,225.91,PI_588758_10.jpg,0,3278.469,3531.969,1812.375,3404.5,zz
+PI_588758_6.jpg,apple,225.91,PI_588758_6.jpg,0,3152.469,3511.156,1940.5,3338.094,zz
+PI_588759_5.jpg,apple,225.91,PI_588759_5.jpg,0,570.594,5738.531,3116.562,5911.531,zz
+PI_588761_Malus sargentii_1.jpg,apple,225.91,PI_588761_Malus sargentii_1.jpg,0,1377,3736,3723.167,3679.167,zz
+PI_588765_Malus baccata_2.jpg,apple,225.91,PI_588765_Malus baccata_2.jpg,0,938,2852.25,4170.167,3696.667,zz
+PI_588770_Malus sargentii_2.jpg,apple,225.91,PI_588770_Malus sargentii_2.jpg,0,1643.583,3715.833,3456.333,3603.417,zz
+PI_588770_Malus sargentii_3.jpg,apple,225.91,PI_588770_Malus sargentii_3.jpg,0,1656.667,3659.583,3434.875,3804.458,zz
+PI_588770_Malus sargentii_7.jpg,apple,225.91,PI_588770_Malus sargentii_7.jpg,0,1635.875,3478.438,3465.469,3570.219,zz
+PI_588782_Malus sargentii_7.jpg,apple,225.91,PI_588782_Malus sargentii_7.jpg,0,1736.625,3159.5,3350.167,3386,zz
+PI_588825_Malus x robusta_3.jpg,apple,225.91,PI_588825_Malus x robusta_3.jpg,0,1424.167,2692.167,3720,3280.25,zz
+PI_588825_Malus x robusta_4.jpg,apple,225.91,PI_588825_Malus x robusta_4.jpg,0,1544,4212.25,3578.562,3769.812,zz
+PI_588874_1.jpg,apple,225.91,PI_588874_1.jpg,0,2835.5,3403.625,135.5,3625.5,zz
+PI_588874_5.jpg,apple,225.91,PI_588874_5.jpg,0,4290.5,3364.542,808.667,3616.5,zz
+PI_588874_6.jpg,apple,225.91,PI_588874_6.jpg,0,3904.167,4077.167,1177.833,3621.167,zz
+PI_588874a_3.jpg,apple,225.91,PI_588874a_3.jpg,0,4949.667,5791.167,2292.5,5535.083,zz
+PI_588874a_5.jpg,apple,225.91,PI_588874a_5.jpg,0,4008.333,3679.833,1081.5,3584.667,zz
+PI_588889_Malus prunifolia_3.jpg,apple,225.91,PI_588889_Malus prunifolia_3.jpg,0,1336.25,3365.333,3782,3490.562,zz
+PI_588889_Malus prunifolia_4.jpg,apple,225.91,PI_588889_Malus prunifolia_4.jpg,0,1356,3328,3755.167,3696.167,zz
+PI_588889_Malus prunifolia_B_2.jpg,apple,225.91,PI_588889_Malus prunifolia_B_2.jpg,0,1228.562,3540.062,3873.5,3574.688,zz
+PI_588904_4.jpg,apple,225.91,PI_588904_4.jpg,0,4453.469,5472.125,1757.5,5256.875,zz
+PI_588904a_5.jpg,apple,225.91,PI_588904a_5.jpg,0,4797.438,6182.344,2145.5,6605.625,zz
+PI_588904b_0.jpg,apple,225.91,PI_588904b_0.jpg,0,4597.469,1543.938,1362.5,1142.5,zz
+PI_588904b_2.jpg,apple,225.91,PI_588904b_2.jpg,0,4484.469,3975.5,1775.5,4241.781,zz
+PI_588906_Malus toringoides_1.jpg,apple,225.91,PI_588906_Malus toringoides_1.jpg,0,886.5,3401.833,4221.625,3570.5,zz
+PI_588906_Malus toringoides_2.jpg,apple,225.91,PI_588906_Malus toringoides_2.jpg,0,1110.5,3818.75,3995.667,3496.333,zz
+PI_588906_Malus toringoides_5.jpg,apple,225.91,PI_588906_Malus toringoides_5.jpg,0,2484,1955.625,2290.458,5067.875,zz
+PI_588907_Malus baccata_2.jpg,apple,225.91,PI_588907_Malus baccata_2.jpg,0,1245.562,3595.375,3860.5,3876.167,zz
+PI_588907_Malus baccata_B_3.jpg,apple,225.91,PI_588907_Malus baccata_B_3.jpg,0,936.5,3520.75,4166.25,3819.125,zz
+PI_588914_1.jpg,apple,225.91,PI_588914_1.jpg,0,1221.5,1974.812,5023.5,2459,zz
+PI_588914a_3.jpg,apple,225.91,PI_588914a_3.jpg,0,1471.5,4210.917,4791.469,3974.562,zz
+PI_588919_12.jpg,apple,225.91,PI_588919_12.jpg,0,3281.25,3334.375,1808.5,3380.583,zz
+PI_588919_14.jpg,apple,225.91,PI_588919_14.jpg,0,3125.667,3459.167,1973.833,3393.667,zz
+PI_588919_3.jpg,apple,225.91,PI_588919_3.jpg,0,4469.25,2382.5,3231.917,2805.5,zz
+PI_588919_4.jpg,apple,225.91,PI_588919_4.jpg,0,3562.375,3576.875,2159.375,3718.5,zz
+PI_588919_5.jpg,apple,225.91,PI_588919_5.jpg,0,4679.417,4504,2889.25,4366.5,zz
+PI_588919_6.jpg,apple,225.91,PI_588919_6.jpg,0,1641.042,4510.458,314.875,4601.375,zz
+PI_588919_7.jpg,apple,225.91,PI_588919_7.jpg,0,3016.5,5045.583,1498.667,5028.833,zz
+PI_588919_8.jpg,apple,225.91,PI_588919_8.jpg,0,4831.375,5424.125,3257.5,5466.562,zz
+PI_588923_5.jpg,apple,225.91,PI_588923_5.jpg,0,4731.417,4468.167,2357.562,4358.875,zz
+PI_588923_7.jpg,apple,225.91,PI_588923_7.jpg,0,3683.375,6240.25,1866.667,5862.667,zz
+PI_588923a_0.jpg,apple,225.91,PI_588923a_0.jpg,0,3617.5,1415.5,1272.542,951.083,zz
+PI_588923a_6.jpg,apple,225.91,PI_588923a_6.jpg,0,4872.25,6360.5,2680.5,6364.333,zz
+PI_588925_0.jpg,apple,225.91,PI_588925_0.jpg,0,2191.667,980,5059.542,1157.875,zz
+PI_588925_2.jpg,apple,225.91,PI_588925_2.jpg,0,2429.458,2603.208,4928.5,2684.062,zz
+PI_588925_3.jpg,apple,225.91,PI_588925_3.jpg,0,2231.5,4020.188,4916.458,4678.208,zz
+PI_588925_5.jpg,apple,225.91,PI_588925_5.jpg,0,2053.5,5953.125,4971.5,6152.583,zz
+PI_588930_Malus toringoides_4.jpg,apple,225.91,PI_588930_Malus toringoides_4.jpg,0,1136.5,3465.583,3962.417,3391.583,zz
+PI_588931_1.jpg,apple,225.91,PI_588931_1.jpg,0,1640.417,4250.5,1543.75,1883.583,zz
+PI_588934_1.jpg,apple,225.91,PI_588934_1.jpg,0,822.542,3963.083,4280.438,3749,zz
+PI_588934_2.jpg,apple,225.91,PI_588934_2.jpg,0,837.25,3395,4269.5,3943.917,zz
+PI_588934b_2.jpg,apple,225.91,PI_588934b_2.jpg,0,617.542,5483.667,4439.5,5965.625,zz
+PI_588936_Malus x robusta_1.jpg,apple,225.91,PI_588936_Malus x robusta_1.jpg,0,1263,3492,3839.375,3550.5,zz
+PI_588936_Malus x robusta_B_2.jpg,apple,225.91,PI_588936_Malus x robusta_B_2.jpg,0,992.75,3537.75,4116.25,3333.125,zz
+PI_588937_3.jpg,apple,225.91,PI_588937_3.jpg,0,4297.5,3674.062,2712.458,3558.958,zz
+PI_588937a_1.jpg,apple,225.91,PI_588937a_1.jpg,0,4428.5,1879.875,2827.583,2112.417,zz
+PI_588944_Malus kansuensis_1.jpg,apple,225.91,PI_588944_Malus kansuensis_1.jpg,0,1320.5,3325.167,3788.5,3598,zz
+PI_588944_Malus kansuensis_2.jpg,apple,225.91,PI_588944_Malus kansuensis_2.jpg,0,1729.625,3655.5,3382.5,3539.333,zz
+PI_588944_Malus kansuensis_7.jpg,apple,225.91,PI_588944_Malus kansuensis_7.jpg,0,3531.625,3687.5,1562.5,3466.167,zz
+PI_588987_Malus baccata_B_1.jpg,apple,225.91,PI_588987_Malus baccata_B_1.jpg,0,1188.375,3236.375,3908.5,3265.188,zz
+PI_588989_Malus baccata_1.jpg,apple,225.91,PI_588989_Malus baccata_1.jpg,0,571.5,3755.25,4533.833,3600.5,zz
+PI_588991_0.jpg,apple,225.91,PI_588991_0.jpg,0,1846.583,1129.917,4855.5,1472.125,zz
+PI_588991a_2.jpg,apple,225.91,PI_588991a_2.jpg,0,1954.125,3671.375,4906.542,3804.125,zz
+PI_588991a_4.jpg,apple,225.91,PI_588991a_4.jpg,0,1864.312,6077.5,4737.469,5991.938,zz
+PI_588991b_1.jpg,apple,225.91,PI_588991b_1.jpg,0,388.5,2005.792,2995.469,2221.812,zz
+PI_588993_Malus x robusta_5.jpg,apple,225.91,PI_588993_Malus x robusta_5.jpg,0,1163.5,3557.833,3945.75,3664.5,zz
+PI_588994_Malus prunifolia_2.jpg,apple,225.91,PI_588994_Malus prunifolia_2.jpg,0,1370.5,3187.333,3743.542,3547.292,zz
+PI_588994_Malus prunifolia_4.jpg,apple,225.91,PI_588994_Malus prunifolia_4.jpg,0,1368.583,3695.167,3731.5,3465,zz
+PI_588996_Malus baccata_5.jpg,apple,225.91,PI_588996_Malus baccata_5.jpg,0,2607,2065.5,2482.938,4953.5,zz
+PI_589005_1.jpg,apple,225.91,PI_589005_1.jpg,0,1901.542,4008.292,4927.531,4076,zz
+PI_589005a_2.jpg,apple,225.91,PI_589005a_2.jpg,0,2179.906,3691.5,4649.5,4305.469,zz
+PI_589005b_0.jpg,apple,225.91,PI_589005b_0.jpg,0,1562.969,1034.5,4634.5,1556,zz
+PI_589013_10.jpg,apple,225.91,PI_589013_10.jpg,0,3151.5,3418.875,1943.458,3548.083,zz
+PI_589013_5.jpg,apple,225.91,PI_589013_5.jpg,0,3188.417,3355.333,1906.458,3536,zz
+PI_589014_4.jpg,apple,225.91,PI_589014_4.jpg,0,1220.875,5853.625,1313.75,3580.458,zz
+PI_589019_Malus baccata_1.jpg,apple,225.91,PI_589019_Malus baccata_1.jpg,0,906.625,4048.25,4204.75,3564.5,zz
+PI_589019_Malus baccata_4.jpg,apple,225.91,PI_589019_Malus baccata_4.jpg,0,1080.5,3206.333,4024.5,3476.938,zz
+PI_589019_Malus baccata_5.jpg,apple,225.91,PI_589019_Malus baccata_5.jpg,0,2246.25,2300.5,2661.188,4720.5,zz
+PI_589089_Malus sikkimensis_B_1.jpg,apple,225.91,PI_589089_Malus sikkimensis_B_1.jpg,0,1107.5,3438.5,3992.469,3451,zz
+PI_589164_Malus prunifolia_2.jpg,apple,225.91,PI_589164_Malus prunifolia_2.jpg,0,1308.167,3619.333,3796.5,3555.062,zz
+PI_589164_Malus prunifolia_5.jpg,apple,225.91,PI_589164_Malus prunifolia_5.jpg,0,1244.812,3528.375,3860.562,3595.062,zz
+PI_589164_Malus prunifolia_B_1.jpg,apple,225.91,PI_589164_Malus prunifolia_B_1.jpg,0,1270.438,3579.562,3830.438,3537.625,zz
+PI_589184_Malus prunifolia_1.jpg,apple,225.91,PI_589184_Malus prunifolia_1.jpg,0,749.667,3784.667,4357.583,3203.667,zz
+PI_589184_Malus prunifolia_2.jpg,apple,225.91,PI_589184_Malus prunifolia_2.jpg,0,863.833,3989.5,4227.5,3448.312,zz
+PI_589219c_1.jpg,apple,225.91,PI_589219c_1.jpg,0,1221.938,7003.375,1495.083,2814.5,zz
+PI_589227_0.jpg,apple,225.91,PI_589227_0.jpg,0,2475.562,1171.5,4969.375,1316.375,zz
+PI_589227a_1.jpg,apple,225.91,PI_589227a_1.jpg,0,393.583,2071.667,2919.5,2156.781,zz
+PI_589228_2.jpg,apple,225.91,PI_589228_2.jpg,0,584.667,2351.167,2403.583,2245.583,zz
+PI_589228a_0.jpg,apple,225.91,PI_589228a_0.jpg,0,2501.75,837.5,4773.625,1171,zz
+PI_589228a_2.jpg,apple,225.91,PI_589228a_2.jpg,0,1092.5,3361.25,2594.438,3283.812,zz
+PI_589241_8.jpg,apple,225.91,PI_589241_8.jpg,0,3341.583,5763.333,4826.542,5407.208,zz
+PI_589243a_0.jpg,apple,225.91,PI_589243a_0.jpg,0,2444.5,764.5,4826.5,1795.75,zz
+PI_589243a_4.jpg,apple,225.91,PI_589243a_4.jpg,0,2083.667,5560.917,4680.5,5887.094,zz
+PI_589258a_1.jpg,apple,225.91,PI_589258a_1.jpg,0,882.25,2843.5,890.375,5980.458,zz
+PI_589258b_2.jpg,apple,225.91,PI_589258b_2.jpg,0,1274.562,5789.562,4518.531,6109.562,zz
+PI_589275_3.jpg,apple,225.91,PI_589275_3.jpg,0,194.562,3516.688,2986.5,3796.875,zz
+PI_589275_4.jpg,apple,225.91,PI_589275_4.jpg,0,2546.438,4613,4706.5,4731.667,zz
+PI_589275_5.jpg,apple,225.91,PI_589275_5.jpg,0,100.5,5042.667,2633.5,5228,zz
+PI_589275a_4.jpg,apple,225.91,PI_589275a_4.jpg,0,1165.875,2918.5,3948.375,3442,zz
+PI_589278_Malus x robusta_1.jpg,apple,225.91,PI_589278_Malus x robusta_1.jpg,0,1088.833,3925,4019.667,3555.333,zz
+PI_589278_Malus x robusta_3.jpg,apple,225.91,PI_589278_Malus x robusta_3.jpg,0,1173.562,3502.75,3928.125,3716.75,zz
+PI_589278_Malus x robusta_4.jpg,apple,225.91,PI_589278_Malus x robusta_4.jpg,0,1354.667,3899.167,3747.375,3574.5,zz
+PI_589278_Malus x robusta_6.jpg,apple,225.91,PI_589278_Malus x robusta_6.jpg,0,2399.25,2332.25,2849.312,4702.5,zz
+PI_589281_Malus baccata_3.jpg,apple,225.91,PI_589281_Malus baccata_3.jpg,0,1500.667,3398.667,3606.5,3467.438,zz
+PI_589283a_4.jpg,apple,225.91,PI_589283a_4.jpg,0,2563.5,4026.562,4843.583,4283.5,zz
+PI_589319_1.jpg,apple,225.91,PI_589319_1.jpg,0,2010.833,2375.333,5052.583,2390.75,zz
+PI_589319_4.jpg,apple,225.91,PI_589319_4.jpg,0,1588.062,5683.5,4985.438,5689,zz
+PI_589319a_3.jpg,apple,225.91,PI_589319a_3.jpg,0,2276.667,3433.667,4876.542,3607.667,zz
+PI_589319a_4.jpg,apple,225.91,PI_589319a_4.jpg,0,2002.688,4926.812,4874.333,5304.333,zz
+PI_589331_1.jpg,apple,225.91,PI_589331_1.jpg,0,4412.844,1985.5,2348.188,2106.5,zz
+PI_589331_5.jpg,apple,225.91,PI_589331_5.jpg,0,4467.438,5722.062,2532.469,5612.5,zz
+PI_589331a_2.jpg,apple,225.91,PI_589331a_2.jpg,0,2771.062,2412.5,858.531,2130.719,zz
+PI_589331a_3.jpg,apple,225.91,PI_589331a_3.jpg,0,5031.469,2740.062,2916.531,2625.062,zz
+PI_589331a_4.jpg,apple,225.91,PI_589331a_4.jpg,0,2468.406,3159.5,331.542,3443.542,zz
+PI_589333_Malus prunifolia_1.jpg,apple,225.91,PI_589333_Malus prunifolia_1.jpg,0,1233.833,4135.833,3887.5,3594.083,zz
+PI_589333_Malus prunifolia_3.jpg,apple,225.91,PI_589333_Malus prunifolia_3.jpg,0,1390.5,3161.333,3728.25,3332.25,zz
+PI_589344a_0.jpg,apple,225.91,PI_589344a_0.jpg,0,721.812,3436.562,691.062,6532.469,zz
+PI_589344a_1.jpg,apple,225.91,PI_589344a_1.jpg,0,2150.5,6076.062,4559.417,6026.5,zz
+PI_589353_Malus baccata_2.jpg,apple,225.91,PI_589353_Malus baccata_2.jpg,0,441,3554.5,4664.5,3542.062,zz
+PI_589368_4.jpg,apple,225.91,PI_589368_4.jpg,0,3559.25,3706.625,1540.583,3713.75,zz
+PI_589370_Malus prunifolia_3.jpg,apple,225.91,PI_589370_Malus prunifolia_3.jpg,0,1162.167,3968.167,3960.167,3280.5,zz
+PI_589370_Malus prunifolia_4.jpg,apple,225.91,PI_589370_Malus prunifolia_4.jpg,0,1407.25,3185.25,3699.5,3712.5,zz
+PI_589371_Malus baccata_1.jpg,apple,225.91,PI_589371_Malus baccata_1.jpg,0,1499.125,2715.5,3620.875,3698.5,zz
+PI_589371_Malus baccata_4.jpg,apple,225.91,PI_589371_Malus baccata_4.jpg,0,1235.5,4095.5,3878,3354.25,zz
+PI_589371_Malus baccata_5.jpg,apple,225.91,PI_589371_Malus baccata_5.jpg,0,2254,1789.5,2557.75,5233.375,zz
+PI_589372_0.jpg,apple,225.91,PI_589372_0.jpg,0,3407.438,653.75,1148.583,1065.083,zz
+PI_589372a_3.jpg,apple,225.91,PI_589372a_3.jpg,0,5002.312,4367.5,2924.75,3657.5,zz
+PI_589374_Malus baccata_1.jpg,apple,225.91,PI_589374_Malus baccata_1.jpg,0,1499.625,3559.625,3588.5,3688.167,zz
+PI_589376_Malus baccata_1.jpg,apple,225.91,PI_589376_Malus baccata_1.jpg,0,861.75,3539.5,4239.5,3704.5,zz
+PI_589376_Malus baccata_3.jpg,apple,225.91,PI_589376_Malus baccata_3.jpg,0,1048.625,3202.25,4056.5,3602,zz
+PI_589376_Malus baccata_4.jpg,apple,225.91,PI_589376_Malus baccata_4.jpg,0,1041.5,3474,4059.469,3699.031,zz
+PI_589377_0.jpg,apple,225.91,PI_589377_0.jpg,0,3734.417,573.583,1465.5,818.219,zz
+PI_589377_1.jpg,apple,225.91,PI_589377_1.jpg,0,4594.438,3681.406,1466.5,3885.406,zz
+PI_589377_6.jpg,apple,225.91,PI_589377_6.jpg,0,3976.562,3877.438,1101.5,3341.344,zz
+PI_589377a_1.jpg,apple,225.91,PI_589377a_1.jpg,0,4922.438,1927.844,1976.5,1898.25,zz
+PI_589377a_2.jpg,apple,225.91,PI_589377a_2.jpg,0,3396.438,2797.906,688.5,2889.656,zz
+PI_589377b_0.jpg,apple,225.91,PI_589377b_0.jpg,0,3793.469,542.906,1295.5,527.656,zz
+PI_589377b_1.jpg,apple,225.91,PI_589377b_1.jpg,0,4290.438,1684.812,1590.5,1809.656,zz
+PI_589377b_5.jpg,apple,225.91,PI_589377b_5.jpg,0,2741.438,5613.719,394.5,5827.156,zz
+PI_589378_Malus baccata_4.jpg,apple,225.91,PI_589378_Malus baccata_4.jpg,0,1150.333,3305,3950.125,3740.25,zz
+PI_589378_Malus baccata_6.jpg,apple,225.91,PI_589378_Malus baccata_6.jpg,0,2171,2233,2559.875,4813.625,zz
+PI_589383_Malus x robusta_1.jpg,apple,225.91,PI_589383_Malus x robusta_1.jpg,0,1404.5,3276.458,3698.583,3494.333,zz
+PI_589383_Malus x robusta_4.jpg,apple,225.91,PI_589383_Malus x robusta_4.jpg,0,1515.25,3298.5,3590.062,3369.5,zz
+PI_589383_Malus x robusta_7.jpg,apple,225.91,PI_589383_Malus x robusta_7.jpg,0,3650.5,3733.5,1430.5,3413.167,zz
+PI_589383_Malus x robusta_8.jpg,apple,225.91,PI_589383_Malus x robusta_8.jpg,0,3473.75,3619.75,1619.5,3569.5,zz
+PI_589389_Malus prunifolia_2.jpg,apple,225.91,PI_589389_Malus prunifolia_2.jpg,0,2570.875,5311.625,2665.938,1706.562,zz
+PI_589389_Malus prunifolia_3.jpg,apple,225.91,PI_589389_Malus prunifolia_3.jpg,0,2843.875,2059.438,2641,4967.5,zz
+PI_589390_Malus sikkimensis_B_6.jpg,apple,225.91,PI_589390_Malus sikkimensis_B_6.jpg,0,1465,3905.333,3659.417,3634.833,zz
+PI_589394_Malus sargentii_1.jpg,apple,225.91,PI_589394_Malus sargentii_1.jpg,0,1675.625,3582,3426.458,3224.583,zz
+PI_589401_Malus kansuensis_2.jpg,apple,225.91,PI_589401_Malus kansuensis_2.jpg,0,3022.5,3328.5,2074.75,3529.5,zz
+PI_589401_Malus kansuensis_4.jpg,apple,225.91,PI_589401_Malus kansuensis_4.jpg,0,3206.333,3181.583,1889.5,3634.333,zz
+PI_589401_Malus kansuensis_5.jpg,apple,225.91,PI_589401_Malus kansuensis_5.jpg,0,3164.333,3573.833,1933.5,3438.167,zz
+PI_589401_Malus kansuensis_9.jpg,apple,225.91,PI_589401_Malus kansuensis_9.jpg,0,2952.417,3558.167,2137.562,3513,zz
+PI_589407a_3.jpg,apple,225.91,PI_589407a_3.jpg,0,2169.5,5651.562,4650.5,5896.031,zz
+PI_589412a_1.jpg,apple,225.91,PI_589412a_1.jpg,0,4670.333,2568.417,2516.562,2422.125,zz
+PI_589412a_2.jpg,apple,225.91,PI_589412a_2.jpg,0,2678.458,4345.708,584.562,4831.688,zz
+PI_589414a_4.jpg,apple,225.91,PI_589414a_4.jpg,0,3280.25,3837.083,4724.5,3737.75,zz
+PI_589414a_5.jpg,apple,225.91,PI_589414a_5.jpg,0,566.438,4390.5,2571.542,4540.708,zz
+PI_589416_Malus sargentii_8.jpg,apple,225.91,PI_589416_Malus sargentii_8.jpg,0,1445.5,3607.75,3655.5,3544.5,zz
+PI_589416_Malus sargentii_9.jpg,apple,225.91,PI_589416_Malus sargentii_9.jpg,0,1428.562,3289.5,3674.5,3640.083,zz
+PI_589423_0.jpg,apple,225.91,PI_589423_0.jpg,0,3548.188,1072.5,4938.625,674.5,zz
+PI_589423_3.jpg,apple,225.91,PI_589423_3.jpg,0,548.031,3270.562,1926.458,3253.5,zz
+PI_589423_4.jpg,apple,225.91,PI_589423_4.jpg,0,3631.5,3209.5,4868.458,3481.917,zz
+PI_589424_Malus x robusta_2.jpg,apple,225.91,PI_589424_Malus x robusta_2.jpg,0,1163.167,3743.333,3936.333,3310.167,zz
+PI_589424_Malus x robusta_5.jpg,apple,225.91,PI_589424_Malus x robusta_5.jpg,0,1184.438,3708.25,3934.531,3599.469,zz
+PI_589425_1.jpg,apple,225.91,PI_589425_1.jpg,0,1,5748.5,3007.531,6035,zz
+PI_589425b_1.jpg,apple,225.91,PI_589425b_1.jpg,0,42.167,5220.417,3253.5,5629.531,zz
+PI_589425c_2.jpg,apple,225.91,PI_589425c_2.jpg,0,1448.562,5830.875,768.583,2753.5,zz
+PI_589477_0.jpg,apple,225.91,PI_589477_0.jpg,0,4242.875,3068.625,822.75,3313.5,zz
+PI_589477_3.jpg,apple,225.91,PI_589477_3.jpg,0,4222.625,4055.5,851.542,3365.458,zz
+PI_589599_Malus sikkimensis_2.jpg,apple,225.91,PI_589599_Malus sikkimensis_2.jpg,0,859.833,3200.333,4247.75,3616,zz
+PI_589728_1.jpg,apple,225.91,PI_589728_1.jpg,0,1130.458,2439,2620.458,2459.542,zz
+PI_589728_4.jpg,apple,225.91,PI_589728_4.jpg,0,1286.531,4716.594,2816.469,4824.812,zz
+PI_589728_5.jpg,apple,225.91,PI_589728_5.jpg,0,3043.531,5476.312,4803.562,5332.469,zz
+PI_589739_2.jpg,apple,225.91,PI_589739_2.jpg,0,2630.562,2595.312,4928.438,2643,zz
+PI_589739_4.jpg,apple,225.91,PI_589739_4.jpg,0,2285.5,4507.208,4727.531,4575.844,zz
+PI_589739_6.jpg,apple,225.91,PI_589739_6.jpg,0,2706.5,5950.792,4677.469,6093.781,zz
+PI_589739a_1.jpg,apple,225.91,PI_589739a_1.jpg,0,1100.969,1925.469,3040.5,1923.906,zz
+PI_589739a_4.jpg,apple,225.91,PI_589739a_4.jpg,0,629.438,5456.5,2984.417,5050,zz
+PI_589740b_0.jpg,apple,225.91,PI_589740b_0.jpg,0,1698.625,1574.542,4755.531,1468,zz
+PI_589745_1.jpg,apple,225.91,PI_589745_1.jpg,0,1305.438,983.625,3126.25,1177.25,zz
+PI_589745_10.jpg,apple,225.91,PI_589745_10.jpg,0,3244.542,6302.792,4803.542,6389.5,zz
+PI_589745_4.jpg,apple,225.91,PI_589745_4.jpg,0,6.625,3858.875,1861.5,3833.625,zz
+PI_589747_0.jpg,apple,225.91,PI_589747_0.jpg,0,2807.5,2249.333,768.062,1728.625,zz
+PI_589748b_0.jpg,apple,225.91,PI_589748b_0.jpg,0,4130.375,789.938,1239.375,1032.875,zz
+PI_589750_Malus sikkimensis_1.jpg,apple,225.91,PI_589750_Malus sikkimensis_1.jpg,0,1320.667,3430.417,3778.5,3419.875,zz
+PI_589750_Malus sikkimensis_3.jpg,apple,225.91,PI_589750_Malus sikkimensis_3.jpg,0,2168.917,2361.667,2776.438,4664.562,zz
+PI_589751_Malus hupehensis_2.jpg,apple,225.91,PI_589751_Malus hupehensis_2.jpg,0,1274.5,3489.083,3828.375,3783.125,zz
+PI_589751_Malus hupehensis_4.jpg,apple,225.91,PI_589751_Malus hupehensis_4.jpg,0,1239.667,3582.25,3861.583,3444.5,zz
+PI_589751_Malus hupehensis_5.jpg,apple,225.91,PI_589751_Malus hupehensis_5.jpg,0,1024.333,3678.333,4078.469,3642.469,zz
+PI_589761_1.jpg,apple,225.91,PI_589761_1.jpg,0,4649.469,1717.906,2358.5,1533.75,zz
+PI_589761_6.jpg,apple,225.91,PI_589761_6.jpg,0,2000.438,4858,155.5,4645.406,zz
+PI_589761_7.jpg,apple,225.91,PI_589761_7.jpg,0,4442.469,5021.656,2453.5,5265.625,zz
+PI_589764_4.jpg,apple,225.91,PI_589764_4.jpg,0,2828.438,3190.5,1080.5,2933.531,zz
+PI_589764_5.jpg,apple,225.91,PI_589764_5.jpg,0,4209.469,3595.312,2503.5,3783.031,zz
+PI_589764_6.jpg,apple,225.91,PI_589764_6.jpg,0,2664.469,4235.062,406.5,4350.812,zz
+PI_589764_9.jpg,apple,225.91,PI_589764_9.jpg,0,4607.469,5976,2819.5,5599.844,zz
+PI_589764a_0.jpg,apple,225.91,PI_589764a_0.jpg,0,3380.25,860.5,1513.5,389.031,zz
+PI_589764a_5.jpg,apple,225.91,PI_589764a_5.jpg,0,4220.344,5739.469,2159.5,5543.188,zz
+PI_589765_1.jpg,apple,225.91,PI_589765_1.jpg,0,3397.469,2288.188,473.5,2305.542,zz
+PI_589765a_4.jpg,apple,225.91,PI_589765a_4.jpg,0,5039.458,5004.083,2744.5,5063.094,zz
+PI_589766_Malus angustifolia_3.jpg,apple,225.91,PI_589766_Malus angustifolia_3.jpg,0,1163.583,3407.083,3935.5,3486.125,zz
+PI_589766_Malus angustifolia_6.jpg,apple,225.91,PI_589766_Malus angustifolia_6.jpg,0,1250.688,3456.5,3849.667,3477.75,zz
+PI_589766_Malus angustifolia_7.jpg,apple,225.91,PI_589766_Malus angustifolia_7.jpg,0,1340.5,3482.125,3759.5,3484.875,zz
+PI_589767_1.jpg,apple,225.91,PI_589767_1.jpg,0,4765.406,1991.469,2624.5,1608.312,zz
+PI_589767_4.jpg,apple,225.91,PI_589767_4.jpg,0,2633.375,5916,431.583,5820.083,zz
+PI_589767a_0.jpg,apple,225.91,PI_589767a_0.jpg,0,3770.083,743.667,1511.5,896.688,zz
+PI_589768_4.jpg,apple,225.91,PI_589768_4.jpg,0,0.167,4007.5,2525.5,3817.375,zz
+PI_589768_5.jpg,apple,225.91,PI_589768_5.jpg,0,2706.458,3932.583,5052.469,3905.406,zz
+PI_589768_6.jpg,apple,225.91,PI_589768_6.jpg,0,2748.542,5609.417,4879.5,5490.969,zz
+PI_589769_0.jpg,apple,225.91,PI_589769_0.jpg,0,3876.469,868.031,1619.5,864.062,zz
+PI_589769_3.jpg,apple,225.91,PI_589769_3.jpg,0,4644.458,3866.042,2426.5,3555.792,zz
+PI_589769_5.jpg,apple,225.91,PI_589769_5.jpg,0,4706.438,5687.688,2360.5,5364.656,zz
+PI_589769a_2.jpg,apple,225.91,PI_589769a_2.jpg,0,2820.812,3048.5,639.5,3215.469,zz
+PI_589769a_4.jpg,apple,225.91,PI_589769a_4.jpg,0,4674.469,5445.438,2788.5,5608.406,zz
+PI_589769a_5.jpg,apple,225.91,PI_589769a_5.jpg,0,2886.938,5704.5,665.5,5979.062,zz
+PI_589771_2.jpg,apple,225.91,PI_589771_2.jpg,0,3104.469,3281.094,336.5,3494.938,zz
+PI_589771_4.jpg,apple,225.91,PI_589771_4.jpg,0,3169.469,5325.688,316.5,5274.125,zz
+PI_589771a_1.jpg,apple,225.91,PI_589771a_1.jpg,0,4767.458,2260.208,2117.5,2653.812,zz
+PI_589771a_3.jpg,apple,225.91,PI_589771a_3.jpg,0,5071.5,3921.5,2589.583,4388.75,zz
+PI_589771b_3.jpg,apple,225.91,PI_589771b_3.jpg,0,4670.458,4876.042,2443.5,5079.5,zz
+PI_589772_3.jpg,apple,225.91,PI_589772_3.jpg,0,2724.969,3903.5,219.5,4258.062,zz
+PI_589772_5.jpg,apple,225.91,PI_589772_5.jpg,0,4856.438,6118.562,2232.5,6191.125,zz
+PI_589772a_5.jpg,apple,225.91,PI_589772a_5.jpg,0,2549.75,5098.5,702.5,5238,zz
+PI_589773_2.jpg,apple,225.91,PI_589773_2.jpg,0,5087.375,5440.875,2154.5,5345,zz
+PI_589773b_3.jpg,apple,225.91,PI_589773b_3.jpg,0,3170.469,5000.031,362.542,4768.292,zz
+PI_589816_Malus prunifolia_6.jpg,apple,225.91,PI_589816_Malus prunifolia_6.jpg,0,2080.375,2333.5,2899.958,4693.5,zz
+PI_589827_Malus floribunda_1.jpg,apple,225.91,PI_589827_Malus floribunda_1.jpg,0,1599.75,3743.333,3513.75,3520.75,zz
+PI_589827_Malus floribunda_4.jpg,apple,225.91,PI_589827_Malus floribunda_4.jpg,0,1525.5,3470,3573.542,3650.458,zz
+PI_589827_Malus floribunda_9.jpg,apple,225.91,PI_589827_Malus floribunda_9.jpg,0,1532.583,3460.167,3573.562,3622.406,zz
+PI_589831_Malus baccata_2.jpg,apple,225.91,PI_589831_Malus baccata_2.jpg,0,1219.5,3515.292,3880.5,3389,zz
+PI_589831_Malus baccata_5.jpg,apple,225.91,PI_589831_Malus baccata_5.jpg,0,1195.625,3021.75,3914.417,3729.292,zz
+PI_589831_Malus baccata_B_2.jpg,apple,225.91,PI_589831_Malus baccata_B_2.jpg,0,1323.167,3579.833,3782.562,3104.812,zz
+PI_589832_Malus prunifolia_10.jpg,apple,225.91,PI_589832_Malus prunifolia_10.jpg,0,1591.667,3596.667,3508.25,3533.625,zz
+PI_589832_Malus prunifolia_2.jpg,apple,225.91,PI_589832_Malus prunifolia_2.jpg,0,1815.667,3845.167,3289.5,3521,zz
+PI_589843_3.jpg,apple,225.91,PI_589843_3.jpg,0,130.562,3830.5,2607.562,3709.75,zz
+PI_589843a_0.jpg,apple,225.91,PI_589843a_0.jpg,0,2284.562,924.625,4971.469,902.938,zz
+PI_589930_Malus prunifolia_2.jpg,apple,225.91,PI_589930_Malus prunifolia_2.jpg,0,1209.583,3353.75,3889.438,3546.812,zz
+PI_589930_Malus prunifolia_3.jpg,apple,225.91,PI_589930_Malus prunifolia_3.jpg,0,1286.5,3213,3825.458,3466.917,zz
+PI_589933_5.jpg,apple,225.91,PI_589933_5.jpg,0,575.375,2943.5,625.562,5088.562,zz
+PI_589933_7.jpg,apple,225.91,PI_589933_7.jpg,0,2711.667,4411.667,4811.562,4291.5,zz
+PI_589935_2.jpg,apple,225.91,PI_589935_2.jpg,0,2052.5,4043.312,5094,3754,zz
+PI_589935b_2.jpg,apple,225.91,PI_589935b_2.jpg,0,2676.625,2351.75,4508.562,2378,zz
+PI_589935b_3.jpg,apple,225.91,PI_589935b_3.jpg,0,1248.75,5368.667,1670.167,3390.5,zz
+PI_589936_6.jpg,apple,225.91,PI_589936_6.jpg,0,2778.5,4899.333,4953.5,5099.875,zz
+PI_589938_1.jpg,apple,225.91,PI_589938_1.jpg,0,842.75,1065.5,2880.458,1410.75,zz
+PI_589938_5.jpg,apple,225.91,PI_589938_5.jpg,0,674.667,4827.083,2880.5,4909.188,zz
+PI_589938a_6.jpg,apple,225.91,PI_589938a_6.jpg,0,694.917,5857.583,2660.5,6107.333,zz
+PI_589939_13.jpg,apple,225.91,PI_589939_13.jpg,0,1933.708,3658.5,3169.542,3452.167,zz
+PI_589939_14.jpg,apple,225.91,PI_589939_14.jpg,0,1865.417,3382.75,3238.25,3415.75,zz
+PI_589939_6.jpg,apple,225.91,PI_589939_6.jpg,0,3161.5,3732.938,4900.438,3791.062,zz
+PI_589939_9.jpg,apple,225.91,PI_589939_9.jpg,0,733,6533.417,802.708,4868.542,zz
+PI_589940_2.jpg,apple,225.91,PI_589940_2.jpg,0,2946.875,1841.625,4910.438,2071.625,zz
+PI_589940_5.jpg,apple,225.91,PI_589940_5.jpg,0,759.417,3199.583,2517.562,3564.688,zz
+PI_589941_2.jpg,apple,225.91,PI_589941_2.jpg,0,2757.438,1873.438,4803.5,2253.75,zz
+PI_589941_5.jpg,apple,225.91,PI_589941_5.jpg,0,2790.5,3400,4841.458,3313.792,zz
+PI_589957_3.jpg,apple,225.91,PI_589957_3.jpg,0,4972.5,4956.625,3149.25,5180.75,zz
+PI_589957_5.jpg,apple,225.91,PI_589957_5.jpg,0,3597.417,5899.833,1514.625,5975.5,zz
+PI_589957a_0.jpg,apple,225.91,PI_589957a_0.jpg,0,3090.5,769.25,1460.542,589.458,zz
+PI_589972_Malus halliana_1.jpg,apple,225.91,PI_589972_Malus halliana_1.jpg,0,1363.562,3837.438,3759.417,3759.417,zz
+PI_589972_Malus halliana_2.jpg,apple,225.91,PI_589972_Malus halliana_2.jpg,0,1273.688,3763.438,3863.583,3591.75,zz
+PI_589972_Malus halliana_4.jpg,apple,225.91,PI_589972_Malus halliana_4.jpg,0,1308.625,3302.125,3790.417,3570.083,zz
+PI_589972_Malus halliana_5.jpg,apple,225.91,PI_589972_Malus halliana_5.jpg,0,1315.5,3035.531,3790.438,3370.906,zz
+PI_589972_Malus halliana_8.jpg,apple,225.91,PI_589972_Malus halliana_8.jpg,0,1289.333,3715.833,3809.438,3685.25,zz
+PI_589975_3.jpg,apple,225.91,PI_589975_3.jpg,0,524.375,2799.625,2843.583,2893.333,zz
+PI_589975_7.jpg,apple,225.91,PI_589975_7.jpg,0,852.625,5277.5,2996.833,5257.5,zz
+PI_589975_8.jpg,apple,225.91,PI_589975_8.jpg,0,2442.542,6303.458,4559.5,6543.438,zz
+PI_589976a_0.jpg,apple,225.91,PI_589976a_0.jpg,0,2323.625,1241.562,4834.625,1272.188,zz
+PI_589976a_2.jpg,apple,225.91,PI_589976a_2.jpg,0,2190.458,5918.833,5015.438,5695.938,zz
+PI_589976b_1.jpg,apple,225.91,PI_589976b_1.jpg,0,1997.458,3782.875,4728.562,3657.562,zz
+PI_589976b_3.jpg,apple,225.91,PI_589976b_3.jpg,0,2576.562,5799.688,4556.542,5951.208,zz
+PI_589982_5.jpg,apple,225.91,PI_589982_5.jpg,0,11.625,3642.375,1653.542,3641.917,zz
+PI_589982_7.jpg,apple,225.91,PI_589982_7.jpg,0,2454.5,4825.583,4900.417,4568.375,zz
+PI_589983a_0.jpg,apple,225.91,PI_589983a_0.jpg,0,2796.625,757.688,4845.75,1040.75,zz
+PI_589983b_1.jpg,apple,225.91,PI_589983b_1.jpg,0,0.5,5318.5,2850.5,5686.167,zz
+PI_589984_6.jpg,apple,225.91,PI_589984_6.jpg,0,2722.562,5842.438,4805.625,6045.25,zz
+PI_589984a_3.jpg,apple,225.91,PI_589984a_3.jpg,0,970.125,2856.562,2887.531,3162.719,zz
+PI_589984a_7.jpg,apple,225.91,PI_589984a_7.jpg,0,107.562,6280.188,2534.5,6352,zz
+PI_589987_2.jpg,apple,225.91,PI_589987_2.jpg,0,2190.531,5724.062,4812.667,5576.5,zz
+PI_589989_1.jpg,apple,225.91,PI_589989_1.jpg,0,853.583,1866.417,3097.438,1908.875,zz
+PI_589989_2.jpg,apple,225.91,PI_589989_2.jpg,0,2648.562,2414.688,5044.5,2388.812,zz
+PI_589989_3.jpg,apple,225.91,PI_589989_3.jpg,0,839.417,3127.333,3113.469,3386.594,zz
+PI_589989a_3.jpg,apple,225.91,PI_589989a_3.jpg,0,74.458,4320.667,2526.458,4279.5,zz
+PI_589990_0.jpg,apple,225.91,PI_589990_0.jpg,0,2076.562,778.688,4689.562,1231.062,zz
+PI_589990_2.jpg,apple,225.91,PI_589990_2.jpg,0,310.938,5177.562,2955.5,4284.042,zz
+PI_589991_3.jpg,apple,225.91,PI_589991_3.jpg,0,581.625,4734.75,988,7018.125,zz
+PI_589991a_1.jpg,apple,225.91,PI_589991a_1.jpg,0,965.062,1383.5,2985.458,1589.875,zz
+PI_589993_1.jpg,apple,225.91,PI_589993_1.jpg,0,2079.833,2604.417,4940.562,2288.625,zz
+PI_589999a_2.jpg,apple,225.91,PI_589999a_2.jpg,0,537.375,4803.438,3342.5,5841.417,zz
+PI_590000_1.jpg,apple,225.91,PI_590000_1.jpg,0,502.625,2524.5,2797.5,2022.75,zz
+PI_590000b_0.jpg,apple,225.91,PI_590000b_0.jpg,0,2063.5,5873.833,4984.625,6180.375,zz
+PI_590002_1.jpg,apple,225.91,PI_590002_1.jpg,0,1786.417,3992.333,4681.438,3555.438,zz
+PI_590002a_0.jpg,apple,225.91,PI_590002a_0.jpg,0,1650.625,1769.625,4634.375,1802.625,zz
+PI_590002a_3.jpg,apple,225.91,PI_590002a_3.jpg,0,1787.417,5923.417,4712.5,6502.5,zz
+PI_590003_2.jpg,apple,225.91,PI_590003_2.jpg,0,2571.5,2743.062,4892.417,2787.042,zz
+PI_590003a_2.jpg,apple,225.91,PI_590003a_2.jpg,0,1247.5,3584.125,3859.5,3618.333,zz
+PI_590003a_5.jpg,apple,225.91,PI_590003a_5.jpg,0,1297.5,3397.583,3813.625,3539.25,zz
+PI_590004a_2.jpg,apple,225.91,PI_590004a_2.jpg,0,2319.417,2216.583,4907.469,2405.781,zz
+PI_590004a_3.jpg,apple,225.91,PI_590004a_3.jpg,0,676.5,3167.5,3137.562,2900.375,zz
+PI_590004a_4.jpg,apple,225.91,PI_590004a_4.jpg,0,2713.5,3914.5,4948.5,4145.125,zz
+PI_590006_1.jpg,apple,225.91,PI_590006_1.jpg,0,1043.625,3895.25,1257.125,596.5,zz
+PI_590007_0.jpg,apple,225.91,PI_590007_0.jpg,0,2313.417,1166.5,4879.5,1003.417,zz
+PI_590007_2.jpg,apple,225.91,PI_590007_2.jpg,0,431.438,6432.188,3262.375,6210.5,zz
+PI_590009_0.jpg,apple,225.91,PI_590009_0.jpg,0,1803.333,1429.5,4839.438,951.188,zz
+PI_590009a_0.jpg,apple,225.91,PI_590009a_0.jpg,0,2260.75,1221.417,5028.5,1173.688,zz
+PI_590009a_4.jpg,apple,225.91,PI_590009a_4.jpg,0,2033.75,5875,4864.469,5638.031,zz
+PI_590012a_0.jpg,apple,225.91,PI_590012a_0.jpg,0,1306.5,1937.167,4996.25,1719,zz
+PI_590012a_1.jpg,apple,225.91,PI_590012a_1.jpg,0,3926.75,7013.75,3694.333,3198.583,zz
+PI_590013a_1.jpg,apple,225.91,PI_590013a_1.jpg,0,1842.562,6268.125,5025.458,5853.208,zz
+PI_590014_4.jpg,apple,225.91,PI_590014_4.jpg,0,1426.417,6094.458,1438.625,3744.5,zz
+PI_590014a_1.jpg,apple,225.91,PI_590014a_1.jpg,0,1351.083,3251.5,1522.5,416.375,zz
+PI_590014a_4.jpg,apple,225.91,PI_590014a_4.jpg,0,2475.5,4092.938,4989.5,3701.417,zz
+PI_590014a_5.jpg,apple,225.91,PI_590014a_5.jpg,0,1975.5,5118.375,4939.417,5086.583,zz
+PI_590015_3.jpg,apple,225.91,PI_590015_3.jpg,0,725.875,6252.5,850.5,3609.5,zz
+PI_590015a_0.jpg,apple,225.91,PI_590015a_0.jpg,0,2275.583,738.333,4797.531,991.844,zz
+PI_590016_0.jpg,apple,225.91,PI_590016_0.jpg,0,2491.625,1011.417,5018.5,1162.844,zz
+PI_590016a_3.jpg,apple,225.91,PI_590016a_3.jpg,0,80.438,3782.625,2877.469,4050.219,zz
+PI_590016a_4.jpg,apple,225.91,PI_590016a_4.jpg,0,2289.562,4548.375,4822.438,4781.125,zz
+PI_590020_0.jpg,apple,225.91,PI_590020_0.jpg,0,1361.75,3137.417,1572.938,936.438,zz
+PI_590020_2.jpg,apple,225.91,PI_590020_2.jpg,0,1906.167,5045.5,2059.75,2833.5,zz
+PI_590021_1.jpg,apple,225.91,PI_590021_1.jpg,0,301.667,4326.458,1951.5,4065.781,zz
+PI_590021_3.jpg,apple,225.91,PI_590021_3.jpg,0,1633,5613.5,3313.531,5873.062,zz
+PI_590028_0.jpg,apple,225.91,PI_590028_0.jpg,0,3595.5,792.5,1818.667,734.5,zz
+PI_590028_5.jpg,apple,225.91,PI_590028_5.jpg,0,2302.75,5285.542,408.531,4690.406,zz
+PI_590028a_2.jpg,apple,225.91,PI_590028a_2.jpg,0,2688.531,3057.469,821.594,2250.469,zz
+PI_590030_Malus halliana_3.jpg,apple,225.91,PI_590030_Malus halliana_3.jpg,0,1247.5,3373.833,3856.5,3401.458,zz
+PI_590031_6.jpg,apple,225.91,PI_590031_6.jpg,0,3622.583,3522.583,1476.562,3468.25,zz
+PI_590031_8.jpg,apple,225.91,PI_590031_8.jpg,0,3611.438,4039.438,1487.562,3266.531,zz
+PI_590031a_2.jpg,apple,225.91,PI_590031a_2.jpg,0,3793.5,3343.5,1302.542,3795.292,zz
+PI_590033_Malus floribunda_1.jpg,apple,225.91,PI_590033_Malus floribunda_1.jpg,0,1138.5,3603.75,3963.458,3396.542,zz
+PI_590033_Malus floribunda_B_4.jpg,apple,225.91,PI_590033_Malus floribunda_B_4.jpg,0,1202.667,3694.333,3912.375,3577.125,zz
+PI_590035_Malus floribunda_2.jpg,apple,225.91,PI_590035_Malus floribunda_2.jpg,0,1071.625,3738.625,4030.417,3601.583,zz
+PI_590035_Malus floribunda_4.jpg,apple,225.91,PI_590035_Malus floribunda_4.jpg,0,1450.562,3210.688,3662.5,3678.875,zz
+PI_590035_Malus floribunda_B_3.jpg,apple,225.91,PI_590035_Malus floribunda_B_3.jpg,0,1293.625,3332.875,3807.5,3422.333,zz
+PI_590036a_3.jpg,apple,225.91,PI_590036a_3.jpg,0,336.5,3457.833,2705.458,3570.167,zz
+PI_590038a_0.jpg,apple,225.91,PI_590038a_0.jpg,0,2210.417,1365.75,4781.667,1042.333,zz
+PI_590038a_2.jpg,apple,225.91,PI_590038a_2.jpg,0,2411.583,3234.5,4933.438,3252.594,zz
+PI_590038a_3.jpg,apple,225.91,PI_590038a_3.jpg,0,9.375,4412.25,2478.625,4204.5,zz
+PI_590039_0.jpg,apple,225.91,PI_590039_0.jpg,0,2610.5,1113.167,4998.562,1260.75,zz
+PI_590040_Malus hupehensis_1.jpg,apple,225.91,PI_590040_Malus hupehensis_1.jpg,0,1392.667,3558.333,3704.625,3377.25,zz
+PI_590048_3.jpg,apple,225.91,PI_590048_3.jpg,0,2012.458,5217,371.5,5126.667,zz
+PI_590050a_0.jpg,apple,225.91,PI_590050a_0.jpg,0,3280.438,857.188,1426.5,812.833,zz
+PI_590051_Malus toringo_5.jpg,apple,225.91,PI_590051_Malus toringo_5.jpg,0,1378.583,3870.25,3744.458,3567.125,zz
+PI_590054_Malus baccata_1.jpg,apple,225.91,PI_590054_Malus baccata_1.jpg,0,1157.417,3314.667,3932.375,3249.531,zz
+PI_590062_Malus toringoides_6.jpg,apple,225.91,PI_590062_Malus toringoides_6.jpg,0,1365.583,3836.083,3733.25,3239.75,zz
+PI_590068_1.jpg,apple,225.91,PI_590068_1.jpg,0,4976.469,1733.344,1816.5,1902.594,zz
+PI_590068_6.jpg,apple,225.91,PI_590068_6.jpg,0,2857.438,6175.281,393.5,6064.594,zz
+PI_590068a_0.jpg,apple,225.91,PI_590068a_0.jpg,0,4379.438,703.062,1238.5,931.219,zz
+PI_590068a_4.jpg,apple,225.91,PI_590068a_4.jpg,0,3026.469,4503.625,-0.5,3962.5,zz
+PI_590089_Malus floribunda_1.jpg,apple,225.91,PI_590089_Malus floribunda_1.jpg,0,1001.5,3867.5,4098.458,3655.167,zz
+PI_590089_Malus floribunda_6.jpg,apple,225.91,PI_590089_Malus floribunda_6.jpg,0,2580.083,2143.583,2421.969,4880.5,zz
+PI_590092_Malus halliana_B_1.jpg,apple,225.91,PI_590092_Malus halliana_B_1.jpg,0,891.375,3458.625,4209.375,3760.25,zz
+PI_590092_Malus halliana_B_3.jpg,apple,225.91,PI_590092_Malus halliana_B_3.jpg,0,911.542,2981.583,4188.469,3887.438,zz
+PI_590093_5.jpg,apple,225.91,PI_590093_5.jpg,0,3152.438,3996,4846.469,4104.844,zz
+PI_590093_6.jpg,apple,225.91,PI_590093_6.jpg,0,1390.5,5183.167,3098.542,5137.958,zz
+PI_590093a_5.jpg,apple,225.91,PI_590093a_5.jpg,0,1196.667,4617,2725.469,4778.969,zz
+PI_590099_12.jpg,apple,225.91,PI_590099_12.jpg,0,3360.583,3297.333,1741.25,3454.375,zz
+PI_590099_5.jpg,apple,225.91,PI_590099_5.jpg,0,4676.458,5231.125,2906.5,5448,zz
+PI_590099_6.jpg,apple,225.91,PI_590099_6.jpg,0,1807.333,5503.5,204.5,5549.406,zz
+PI_590102_Malus toringo_1.jpg,apple,225.91,PI_590102_Malus toringo_1.jpg,0,3453.5,3591.344,1676,3291.625,zz
+PI_590102_Malus toringo_2.jpg,apple,225.91,PI_590102_Malus toringo_2.jpg,0,3612.5,3647.5,1490.5,3387.938,zz
+PI_590102_Malus toringo_7.jpg,apple,225.91,PI_590102_Malus toringo_7.jpg,0,1632.5,3762.375,3473.5,3468.333,zz
+PI_590102_Malus toringo_8.jpg,apple,225.91,PI_590102_Malus toringo_8.jpg,0,1796.5,3362.833,3302.5,3853.812,zz
+PI_590107_Malus sikkimensis_1.jpg,apple,225.91,PI_590107_Malus sikkimensis_1.jpg,0,1125.833,3633,3984.5,3462.75,zz
+PI_590107_Malus sikkimensis_3.jpg,apple,225.91,PI_590107_Malus sikkimensis_3.jpg,0,1291.583,3163.833,3810.5,3623.417,zz
+PI_590108_Malus sikkimensis_4.jpg,apple,225.91,PI_590108_Malus sikkimensis_4.jpg,0,1012.5,3656.875,4085,3817.5,zz
+PI_590108_Malus sikkimensis_B_4.jpg,apple,225.91,PI_590108_Malus sikkimensis_B_4.jpg,0,1193.5,3795.625,3906.5,3538.5,zz
+PI_590175b_0.jpg,apple,225.91,PI_590175b_0.jpg,0,4725.469,1605.094,1407.5,1624.438,zz
+PI_590175b_1.jpg,apple,225.91,PI_590175b_1.jpg,0,4535.438,4888,1319.5,5120.375,zz
+PI_594097_Malus kansuensis_2.jpg,apple,225.91,PI_594097_Malus kansuensis_2.jpg,0,1633.5,3569.25,3471.417,3425,zz
+PI_594097_Malus kansuensis_3.jpg,apple,225.91,PI_594097_Malus kansuensis_3.jpg,0,1701.583,3270.667,3391.5,3259.5,zz
+PI_594102_Malus prunifolia_5.jpg,apple,225.91,PI_594102_Malus prunifolia_5.jpg,0,1942.667,2230.5,2698.917,4811.5,zz
+PI_594105_2.jpg,apple,225.91,PI_594105_2.jpg,0,2403.542,2628.083,4802.5,2517.083,zz
+PI_594105a_1.jpg,apple,225.91,PI_594105a_1.jpg,0,2040.5,2478.833,4904.417,2956.083,zz
+PI_594105a_4.jpg,apple,225.91,PI_594105a_4.jpg,0,2652.5,5174.333,4801.5,5275.917,zz
+PI_596279a_1.jpg,apple,225.91,PI_596279a_1.jpg,0,847.562,1556.938,2608.5,1745.531,zz
+PI_613811_4.jpg,apple,225.91,PI_613811_4.jpg,0,3421.167,2968.5,1663.5,3490,zz
+PI_613811a_11.jpg,apple,225.91,PI_613811a_11.jpg,0,2403.438,6464.438,349.562,6387.406,zz
+PI_613811a_7.jpg,apple,225.91,PI_613811a_7.jpg,0,2695.188,4495.562,1223.625,4654.875,zz
+PI_613811a_8.jpg,apple,225.91,PI_613811a_8.jpg,0,4871.375,4929.375,2956.562,4822.562,zz
+PI_613812_0.jpg,apple,225.91,PI_613812_0.jpg,0,4182.583,1228.25,1358.562,1465.312,zz
+PI_613812a_1.jpg,apple,225.91,PI_613812a_1.jpg,0,4618,5023.417,2433.167,5601.833,zz
+PI_613812a_2.jpg,apple,225.91,PI_613812a_2.jpg,0,2407.333,5735.75,38.5,5918.75,zz
+PI_613812b_2.jpg,apple,225.91,PI_613812b_2.jpg,0,4928.625,5003.375,2496.583,4874.75,zz
+PI_613820_4.jpg,apple,225.91,PI_613820_4.jpg,0,2298.625,4866.375,4959.5,5263.062,zz
+PI_613820a_1.jpg,apple,225.91,PI_613820a_1.jpg,0,1912.625,2811.062,5082.5,2834.688,zz
+PI_613826_5.jpg,apple,225.91,PI_613826_5.jpg,0,4745.417,3850.458,3369.438,3866.781,zz
+PI_613838_0.jpg,apple,225.91,PI_613838_0.jpg,0,4706.375,2000.875,2712.875,1832,zz
+PI_613838_4.jpg,apple,225.91,PI_613838_4.jpg,0,2384.562,6161.438,451.375,6164.25,zz
+PI_613872a_0.jpg,apple,225.91,PI_613872a_0.jpg,0,1855.562,2302.688,4492.167,1226.833,zz
+PI_613873a_0.jpg,apple,225.91,PI_613873a_0.jpg,0,1604.625,1515.625,4791.469,2017.469,zz
+PI_613873b_0.jpg,apple,225.91,PI_613873b_0.jpg,0,1777.062,1345.438,4765.5,1603.5,zz
+PI_613873b_2.jpg,apple,225.91,PI_613873b_2.jpg,0,1830.5,6808.375,4798.469,6004.531,zz
+PI_613881_11.jpg,apple,225.91,PI_613881_11.jpg,0,3286.469,3517.312,1812.5,3545.938,zz
+PI_613881_6.jpg,apple,225.91,PI_613881_6.jpg,0,3144.469,3531.5,1953.5,3608.938,zz
+PI_613885a_5.jpg,apple,225.91,PI_613885a_5.jpg,0,502.562,4428.438,2974.583,4920.5,zz
+PI_613890a_4.jpg,apple,225.91,PI_613890a_4.jpg,0,64.583,5182.167,2396.406,4915.469,zz
+PI_613891a_1.jpg,apple,225.91,PI_613891a_1.jpg,0,1319.167,471.417,1586.75,2910.5,zz
+PI_613891a_5.jpg,apple,225.91,PI_613891a_5.jpg,0,2458.438,5785.812,4848.562,5902.938,zz
+PI_613892_0.jpg,apple,225.91,PI_613892_0.jpg,0,1507.917,752.667,4795.562,1643.781,zz
+PI_613893a_1.jpg,apple,225.91,PI_613893a_1.jpg,0,1580.667,3062.75,5053.625,2939.5,zz
+PI_613894a_0.jpg,apple,225.91,PI_613894a_0.jpg,0,1543.75,817.5,4793.5,1357.438,zz
+PI_613897a_1.jpg,apple,225.91,PI_613897a_1.jpg,0,826.188,2942.438,1546.875,5752.25,zz
+PI_613898_1.jpg,apple,225.91,PI_613898_1.jpg,0,3300.375,1866.625,4793.5,1863.5,zz
+PI_613898_4.jpg,apple,225.91,PI_613898_4.jpg,0,1691.625,3893.625,3407.458,3901.417,zz
+PI_613898_6.jpg,apple,225.91,PI_613898_6.jpg,0,1049.833,4690.833,2719.583,4786.583,zz
+PI_613900_1.jpg,apple,225.91,PI_613900_1.jpg,0,1477.167,3468.5,1400.375,894.438,zz
+PI_613900_2.jpg,apple,225.91,PI_613900_2.jpg,0,2383.5,2426.083,4928.5,2850.375,zz
+PI_613900a_4.jpg,apple,225.91,PI_613900a_4.jpg,0,2547.667,4839.667,4946.562,5025.375,zz
+PI_613900a_5.jpg,apple,225.91,PI_613900a_5.jpg,0,1228.583,6424,3608.5,6565.938,zz
+PI_613901_0.jpg,apple,225.91,PI_613901_0.jpg,0,1805.5,999.594,5080.625,1001.208,zz
+PI_613901_2.jpg,apple,225.91,PI_613901_2.jpg,0,1631.375,5031.875,4894.5,4856.083,zz
+PI_613901a_3.jpg,apple,225.91,PI_613901a_3.jpg,0,312.333,6274.667,3311.417,6356.25,zz
+PI_613902_1.jpg,apple,225.91,PI_613902_1.jpg,0,641.708,2319.583,2510.667,2314,zz
+PI_613903_1.jpg,apple,225.91,PI_613903_1.jpg,0,2091.458,3576.458,1400.875,640.438,zz
+PI_613903a_4.jpg,apple,225.91,PI_613903a_4.jpg,0,2054.583,4565.833,4873.542,4785.375,zz
+PI_613904_1.jpg,apple,225.91,PI_613904_1.jpg,0,2332.562,2220,4911.562,2507.562,zz
+PI_613904a_0.jpg,apple,225.91,PI_613904a_0.jpg,0,1657.833,2733.667,1692.167,238.542,zz
+PI_613904a_3.jpg,apple,225.91,PI_613904a_3.jpg,0,1.417,3565.333,2390.25,3203.625,zz
+PI_613905_1.jpg,apple,225.91,PI_613905_1.jpg,0,2338.417,5542,4823.531,6082.469,zz
+PI_613905a_1.jpg,apple,225.91,PI_613905a_1.jpg,0,1474.5,3536.333,1492.25,1087.5,zz
+PI_613908_1.jpg,apple,225.91,PI_613908_1.jpg,0,267.583,3667.667,4076.833,3918.417,zz
+PI_613908b_1.jpg,apple,225.91,PI_613908b_1.jpg,0,1374.25,835.583,1698.812,3262.469,zz
+PI_613909_0.jpg,apple,225.91,PI_613909_0.jpg,0,3072.5,1018.562,4778.5,798.938,zz
+PI_613909_1.jpg,apple,225.91,PI_613909_1.jpg,0,1086.667,1037.5,3058.667,1186.083,zz
+PI_613909_12.jpg,apple,225.91,PI_613909_12.jpg,0,1605.583,3670.75,3497.5,3360.833,zz
+PI_613909_6.jpg,apple,225.91,PI_613909_6.jpg,0,4.25,4126.5,1672.583,4193.583,zz
+PI_613910_1.jpg,apple,225.91,PI_613910_1.jpg,0,397.667,1650.917,3005.5,1298.062,zz
+PI_613910_7.jpg,apple,225.91,PI_613910_7.jpg,0,594.667,5206,2573.562,5147.875,zz
+PI_613945_0.jpg,apple,225.91,PI_613945_0.jpg,0,3292.167,1821.5,516.5,2141.375,zz
+PI_613945_1.jpg,apple,225.91,PI_613945_1.jpg,0,4859.625,2448.25,2393.531,2935.656,zz
+PI_613945a_4.jpg,apple,225.91,PI_613945a_4.jpg,0,2679.5,5312.167,45.417,5045.917,zz
+PI_629313_4.jpg,apple,225.91,PI_629313_4.jpg,0,2951.469,4386.281,102.5,4075.417,zz
+PI_629313a_3.jpg,apple,225.91,PI_629313a_3.jpg,0,4860.469,5100.469,2218.5,5220.344,zz
+PI_644172a_1.jpg,apple,225.91,PI_644172a_1.jpg,0,4724.469,1714.844,2363.5,1818.031,zz
+PI_650955a_2.jpg,apple,225.91,PI_650955a_2.jpg,0,3313.469,3221.344,446.5,2911.25,zz
+PI_650987_1.jpg,apple,225.91,PI_650987_1.jpg,0,4916.469,1809.594,2332.5,1744.25,zz
+PI_650987_5.jpg,apple,225.91,PI_650987_5.jpg,0,2987.469,5278.469,215.5,5447.062,zz
+PI_650987_6.jpg,apple,225.91,PI_650987_6.jpg,0,4556.469,6153.375,2206.5,6136.75,zz
+PI_650987a_3.jpg,apple,225.91,PI_650987a_3.jpg,0,4916.469,3772.062,2474.5,3655.594,zz
+PI_650987a_4.jpg,apple,225.91,PI_650987a_4.jpg,0,2771.469,4322.438,317.5,3981.562,zz
+PI_650987a_5.jpg,apple,225.91,PI_650987a_5.jpg,0,4684.469,5012.625,1699.5,4958.625,zz
+PI_657015b_1.jpg,apple,225.91,PI_657015b_1.jpg,0,1088.5,5777.875,4122.469,5862.875,zz
+PI_657015c_0.jpg,apple,225.91,PI_657015c_0.jpg,0,1259.5,1646.792,4312.458,1587.5,zz
+PI_657028_2.jpg,apple,225.91,PI_657028_2.jpg,0,1514.5,6076.125,4476.469,6198.312,zz
+PI_657037b_1.jpg,apple,225.91,PI_657037b_1.jpg,0,1025.5,3837.031,4226.458,4171.417,zz
+PI_657038a_0.jpg,apple,225.91,PI_657038a_0.jpg,0,1197.5,1421.875,4479.438,1476.562,zz
+PI_657038a_3.jpg,apple,225.91,PI_657038a_3.jpg,0,1150.5,6051.312,4290.469,6244.625,zz
+PI_657039_2.jpg,apple,225.91,PI_657039_2.jpg,0,1512.5,4261.062,4570.469,4237.156,zz
+PI_657039_3.jpg,apple,225.91,PI_657039_3.jpg,0,1471.5,5808.75,4553.438,6088.25,zz
+PI_657039a_1.jpg,apple,225.91,PI_657039a_1.jpg,0,1308.5,3103.281,4619.469,2999.125,zz
+PI_657043_3.jpg,apple,225.91,PI_657043_3.jpg,0,1764.5,4740.188,4469.469,4740.75,zz
+PI_657049_0.jpg,apple,225.91,PI_657049_0.jpg,0,942.5,1633.688,4649.469,1690.031,zz
+PI_657049a_0.jpg,apple,225.91,PI_657049a_0.jpg,0,729.5,1783.375,4589.469,1462.438,zz
+PI_657049a_2.jpg,apple,225.91,PI_657049a_2.jpg,0,639.5,5823.125,4758.458,6186.208,zz
+PI_657049b_3.jpg,apple,225.91,PI_657049b_3.jpg,0,1415.5,5745.625,4280.469,6704,zz
+PI_657049c_2.jpg,apple,225.91,PI_657049c_2.jpg,0,1708.5,5745.083,4582.469,5528.281,zz
+PI_657068_0.jpg,apple,225.91,PI_657068_0.jpg,0,2451.5,1142,4644.469,1377.406,zz
+PI_657068_1.jpg,apple,225.91,PI_657068_1.jpg,0,2425.531,3095.625,4677.438,3015,zz
+PI_657068_4.jpg,apple,225.91,PI_657068_4.jpg,0,223.5,5676.562,2539.469,5582.406,zz
+PI_657074a_0.jpg,apple,225.91,PI_657074a_0.jpg,0,1723.5,1363.031,4364.469,1435.188,zz
+PI_657078a_2.jpg,apple,225.91,PI_657078a_2.jpg,0,1644.5,3476.25,4547.417,3571.333,zz
+PI_657078a_3.jpg,apple,225.91,PI_657078a_3.jpg,0,1310.5,6094.625,4370.469,6317.938,zz
+PI_657081_0.jpg,apple,225.91,PI_657081_0.jpg,0,1597.5,1350.062,4470.469,1337.562,zz
+PI_657081a_0.jpg,apple,225.91,PI_657081a_0.jpg,0,1715.583,1641.667,4489.458,1304.875,zz
+PI_657084a_1.jpg,apple,225.91,PI_657084a_1.jpg,0,1037.5,3706.938,4581.469,3727.438,zz
+PI_657084a_2.jpg,apple,225.91,PI_657084a_2.jpg,0,964.5,5917.938,4449.438,6131.125,zz
+PI_657091_1.jpg,apple,225.91,PI_657091_1.jpg,0,1593.5,2716.5,4351.438,2760,zz
+PI_657091a_1.jpg,apple,225.91,PI_657091a_1.jpg,0,1254.5,3232.625,4334.438,3548.562,zz
+PI_657106a_1.jpg,apple,225.91,PI_657106a_1.jpg,0,1008.906,2665.562,962.938,6174.469,zz
+PI_657106b_2.jpg,apple,225.91,PI_657106b_2.jpg,0,1370.5,5569.625,4584.469,5737.469,zz
+PI_657108b_0.jpg,apple,225.91,PI_657108b_0.jpg,0,1257.542,1075.833,4063.469,2022.094,zz
+PI_657117a_2.jpg,apple,225.91,PI_657117a_2.jpg,0,1850.5,6206.5,4605.438,6083.156,zz
+PI_657117b_1.jpg,apple,225.91,PI_657117b_1.jpg,0,1370.5,4065.125,4084.469,3845.438,zz
+PI_666152_2.jpg,apple,225.91,PI_666152_2.jpg,0,974.438,3099.5,1490.219,6288.469,zz
+PI_682748_5.jpg,apple,225.91,PI_682748_5.jpg,0,356.5,4548.812,2709.469,4660.812,zz
+PI_682748_7.jpg,apple,225.91,PI_682748_7.jpg,0,2781.469,6175.781,242.5,5960.375,zz
+PI_682748a_3.jpg,apple,225.91,PI_682748a_3.jpg,0,4407.469,3867.781,2095.5,4313.719,zz
+PI_682748b_5.jpg,apple,225.91,PI_682748b_5.jpg,0,4394.469,5894.094,1890.5,5842.375,zz
+PI_682798a_2.jpg,apple,225.91,PI_682798a_2.jpg,0,5097.438,4697.062,1377.5,4701.031,zz
+PI_682798c_2.jpg,apple,225.91,PI_682798c_2.jpg,0,4145.469,5311.656,914.5,5164.812,zz
+PI_687694_1.jpg,apple,225.91,PI_687694_1.jpg,0,4547.469,2524.031,1876.5,2605,zz
+PI_687694_3.jpg,apple,225.91,PI_687694_3.jpg,0,4575.5,4401.167,1636.562,4780.469,zz
+PI_687694_4.jpg,apple,225.91,PI_687694_4.jpg,0,3622.438,5616.094,261.5,5719.406,zz
+PI_687694a_2.jpg,apple,225.91,PI_687694a_2.jpg,0,4784.5,3675.333,2052.531,3794.062,zz
+PI_687697_0.jpg,apple,225.91,PI_687697_0.jpg,0,3520.417,746.333,1472.5,898.625,zz
+PI_687697_2.jpg,apple,225.91,PI_687697_2.jpg,0,4612.5,2942.469,2930.5,2788.25,zz
+PI_687697_4.jpg,apple,225.91,PI_687697_4.jpg,0,3455.469,3907.094,1952.5,3902.125,zz
+PI_687697a_3.jpg,apple,225.91,PI_687697a_3.jpg,0,3169.219,3318.5,1924.5,3594.844,zz
+PI_687702_2.jpg,apple,225.91,PI_687702_2.jpg,0,4785.458,3568.667,3248.5,3857.333,zz
+PI_687711a_2.jpg,apple,225.91,PI_687711a_2.jpg,0,2493.375,6321.375,394.5,6141.792,zz
+PI_687712_0.jpg,apple,225.91,PI_687712_0.jpg,0,3692.583,1392.583,1149.5,1056.688,zz
+PI_687712a_0.jpg,apple,225.91,PI_687712a_0.jpg,0,3911.417,3496.667,1186.375,3722,zz
+PI_687712b_0.jpg,apple,225.91,PI_687712b_0.jpg,0,4072.531,863.562,1375.5,1416.25,zz
+PI_687716_5.jpg,apple,225.91,PI_687716_5.jpg,0,2398.438,5767.438,462.5,5942.938,zz
+PI_687716a_2.jpg,apple,225.91,PI_687716a_2.jpg,0,4496.406,3823.469,2417.5,3630.417,zz
+PI_687716a_4.jpg,apple,225.91,PI_687716a_4.jpg,0,4480.458,5581.083,2582.5,5197.625,zz
+PI_687717_1.jpg,apple,225.91,PI_687717_1.jpg,0,4557.438,1091.25,2999.5,1804.5,zz
+PI_687717_6.jpg,apple,225.91,PI_687717_6.jpg,0,4882.219,4828.531,3330.531,5030.156,zz
+PI_687718_3.jpg,apple,225.91,PI_687718_3.jpg,0,4297.469,3355.438,2561.5,3247.25,zz
+PI_687718a_0.jpg,apple,225.91,PI_687718a_0.jpg,0,3611.417,1007.292,1406.5,1150.625,zz
+PI_687718a_1.jpg,apple,225.91,PI_687718a_1.jpg,0,4620.812,1971.562,3094.531,2598.844,zz
+PI_687718a_5.jpg,apple,225.91,PI_687718a_5.jpg,0,3233.469,5170.656,1584.5,5433.094,zz
+PI_687719_5.jpg,apple,225.91,PI_687719_5.jpg,0,2048.469,3657.438,424.5,3473.125,zz
+PI_687720_1.jpg,apple,225.91,PI_687720_1.jpg,0,4564.469,1024,2601.5,1718,zz
+PI_687720_2.jpg,apple,225.91,PI_687720_2.jpg,0,2526.438,1983.938,847.5,2159.562,zz
+PI_687720_7.jpg,apple,225.91,PI_687720_7.jpg,0,3591.469,6112.781,1871.5,5978,zz
+PI_687720a_4.jpg,apple,225.91,PI_687720a_4.jpg,0,4009.469,5686.938,2293.5,5876.656,zz
+PI_687721a_6.jpg,apple,225.91,PI_687721a_6.jpg,0,2505.594,5670.531,933.5,5718.594,zz
+PI_687722a_0.jpg,apple,225.91,PI_687722a_0.jpg,0,3225.125,1162.469,1328.5,818.75,zz
+PI_687722b_1.jpg,apple,225.91,PI_687722b_1.jpg,0,3804.438,5032.906,1485.5,5060.917,zz
+PI_687724_3.jpg,apple,225.91,PI_687724_3.jpg,0,4210.438,4008.844,2162.5,4056.708,zz
+PI_687724a_2.jpg,apple,225.91,PI_687724a_2.jpg,0,2714.656,2754.469,861.5,2679.156,zz
+PI_687727_7.jpg,apple,225.91,PI_687727_7.jpg,0,3451.375,3391.5,1631.531,3441.969,zz
+PI_687735_1.jpg,apple,225.91,PI_687735_1.jpg,0,5084.375,2236.625,1832.5,2012.958,zz
+PI_687735_2.jpg,apple,225.91,PI_687735_2.jpg,0,2943.469,5223.312,175.5,4999.969,zz
+PI_687735a_1.jpg,apple,225.91,PI_687735a_1.jpg,0,4904.469,1544.344,2012.5,1720.375,zz
+PI_691363_0.jpg,apple,225.91,PI_691363_0.jpg,0,2922.438,1220.062,4824.458,1222.708,zz
+PI_691363_1.jpg,apple,225.91,PI_691363_1.jpg,0,446.5,2085.083,2654.583,2005.417,zz
+PI_691366_0.jpg,apple,225.91,PI_691366_0.jpg,0,1414.312,695.562,2835.458,559.917,zz
+PI_691366_4.jpg,apple,225.91,PI_691366_4.jpg,0,1492.417,3921.458,3012.5,3987.75,zz
+PI_691366_5.jpg,apple,225.91,PI_691366_5.jpg,0,3048.75,5294.438,4658.5,5408.75,zz
+PI_703084_0.jpg,apple,225.91,PI_703084_0.jpg,0,3574.469,860.406,1189.5,682.625,zz
+PI_703084a_0.jpg,apple,225.91,PI_703084a_0.jpg,0,3454.458,639.542,1432.5,733.875,zz
+PI_703084a_3.jpg,apple,225.91,PI_703084a_3.jpg,0,4762.469,3703.969,2337.5,3777.219,zz
+PI_703086_1.jpg,apple,225.91,PI_703086_1.jpg,0,4344.583,1456.083,1816.5,1736.375,zz
+PI_703086a_5.jpg,apple,225.91,PI_703086a_5.jpg,0,4914.083,4359.75,1643.667,4416.833,zz
+PI_703086a_7.jpg,apple,225.91,PI_703086a_7.jpg,0,4136.5,6375.417,1458.5,6505.125,zz
+PI_703087_2.jpg,apple,225.91,PI_703087_2.jpg,0,4206.562,3717.125,868.531,3688.812,zz
+PI_703087a_1.jpg,apple,225.91,PI_703087a_1.jpg,0,3913.438,2175.625,927.625,1959.5,zz
+PI_703087b_3.jpg,apple,225.91,PI_703087b_3.jpg,0,2642.5,4150.125,45.562,3988.5,zz
+PI_703088_5.jpg,apple,225.91,PI_703088_5.jpg,0,2554.5,4404,317.438,4179,zz
+PI_703088_6.jpg,apple,225.91,PI_703088_6.jpg,0,4221.5,4892,1610.562,5155.125,zz
+PI_703088_7.jpg,apple,225.91,PI_703088_7.jpg,0,5085.5,6002.833,2715.5,5898.406,zz
+PI_703088a_1.jpg,apple,225.91,PI_703088a_1.jpg,0,4707.5,1697.25,2296.5,1494.625,zz
+PI_703088a_2.jpg,apple,225.91,PI_703088a_2.jpg,0,3146.5,2441.438,585.562,2284.562,zz
+PI_703088a_6.jpg,apple,225.91,PI_703088a_6.jpg,0,2674.333,5461.667,313.458,4888.333,zz
+PI_703089_4.jpg,apple,225.91,PI_703089_4.jpg,0,4664.458,5035.5,2216.5,5140.188,zz
+PI_703089_6.jpg,apple,225.91,PI_703089_6.jpg,0,4471.5,6441.583,2086.75,6406.583,zz
+PI_703089a_1.jpg,apple,225.91,PI_703089a_1.jpg,0,3306.5,2533.667,482.438,2826.5,zz
+PI_703089a_3.jpg,apple,225.91,PI_703089a_3.jpg,0,3047.583,4980.167,246.562,4948.938,zz
+PI_703089b_0.jpg,apple,225.91,PI_703089b_0.jpg,0,4050.333,774.75,1277.5,823.583,zz
+PI_703089b_2.jpg,apple,225.91,PI_703089b_2.jpg,0,3434.438,3959.688,866.5,4129.438,zz
+PI_703089b_3.jpg,apple,225.91,PI_703089b_3.jpg,0,3634.417,5711.083,944.667,5377.417,zz
+PI_703090a_1.jpg,apple,225.91,PI_703090a_1.jpg,0,4628.438,1760.312,1962.562,1624.562,zz
+PI_703090a_2.jpg,apple,225.91,PI_703090a_2.jpg,0,2614.562,2759.125,219.5,2716.75,zz
+PI_703090a_3.jpg,apple,225.91,PI_703090a_3.jpg,0,4603.542,3481.958,1939.562,3655.844,zz
+PI_703090b_0.jpg,apple,225.91,PI_703090b_0.jpg,0,3965.542,1066.917,1330.5,1127.25,zz
+PI_703091_3.jpg,apple,225.91,PI_703091_3.jpg,0,3210.625,3254.875,528.562,3210.5,zz
+PI_703091_4.jpg,apple,225.91,PI_703091_4.jpg,0,4495.438,3772.5,2268.625,3858.562,zz
+PI_703091_6.jpg,apple,225.91,PI_703091_6.jpg,0,4707.5,5372.75,1896.5,5313.188,zz
+PI_703091a_2.jpg,apple,225.91,PI_703091a_2.jpg,0,3115.333,2483.417,747.531,2281.094,zz
+PI_703092_1.jpg,apple,225.91,PI_703092_1.jpg,0,2867.5,2158.5,587.438,1965.5,zz
+PI_703092_3.jpg,apple,225.91,PI_703092_3.jpg,0,2842.438,3424.875,314.625,3488.375,zz
+PI_703092a_6.jpg,apple,225.91,PI_703092a_6.jpg,0,4672.5,6172.625,2509.5,6000.562,zz
+PI_703098a_2.jpg,apple,225.91,PI_703098a_2.jpg,0,4209.562,5364.938,1096.5,5410.938,zz
+PI_703099a_0.jpg,apple,225.91,PI_703099a_0.jpg,0,4157.5,544.75,1378.5,717.083,zz
+PI_703099a_2.jpg,apple,225.91,PI_703099a_2.jpg,0,4133.667,2354,915.562,2892.531,zz
+PI_703100_1.jpg,apple,225.91,PI_703100_1.jpg,0,4404.312,1724.625,2170.562,1879.562,zz
+PI_703100_7.jpg,apple,225.91,PI_703100_7.jpg,0,2636.438,6028.375,277.531,5569.531,zz
+PI_703102_0.jpg,apple,225.91,PI_703102_0.jpg,0,4398.5,5044.812,2120.5,4984,zz
+PI_703102_11.jpg,apple,225.91,PI_703102_11.jpg,0,3557.438,3614.312,1537.531,3535.469,zz
+PI_703102_12.jpg,apple,225.91,PI_703102_12.jpg,0,3149.438,3601.625,1949.438,3446.75,zz
+PI_703102_13.jpg,apple,225.91,PI_703102_13.jpg,0,3395.5,3686.083,1696.469,3547.188,zz
+PI_703102_14.jpg,apple,225.91,PI_703102_14.jpg,0,3128.583,3336.333,1968.5,3602.438,zz
+PI_703102_6.jpg,apple,225.91,PI_703102_6.jpg,0,3292.542,3349.625,1806.562,3366.625,zz
+PI_703102_7.jpg,apple,225.91,PI_703102_7.jpg,0,3340.5,3832.062,1759.5,3430.312,zz
+PI_703102_8.jpg,apple,225.91,PI_703102_8.jpg,0,3330.375,3388.5,1763.458,3590.417,zz
+PI_703103_12.jpg,apple,225.91,PI_703103_12.jpg,0,3613.25,3521.688,1480.542,3425.542,zz
+PI_703103_2.jpg,apple,225.91,PI_703103_2.jpg,0,4773.458,4941.958,2710.5,5019.438,zz
+PI_703103_4.jpg,apple,225.91,PI_703103_4.jpg,0,3387.458,3452.542,1712.458,3287.583,zz
+PI_703105_0.jpg,apple,225.91,PI_703105_0.jpg,0,2940.438,2298.438,711.375,2171,zz
+PI_703105_11.jpg,apple,225.91,PI_703105_11.jpg,0,3551.281,3564.5,1533.531,3621.5,zz
+PI_703105_7.jpg,apple,225.91,PI_703105_7.jpg,0,3481.5,3548.75,1610.469,3554.906,zz
+PI_703105_8.jpg,apple,225.91,PI_703105_8.jpg,0,3527.625,3600.562,1570.458,3609.292,zz
+PI_703106_11.jpg,apple,225.91,PI_703106_11.jpg,0,3284.438,3687.5,1810.562,3388.531,zz
+PI_703106_12.jpg,apple,225.91,PI_703106_12.jpg,0,3352.458,3638.542,1748.5,3465.812,zz
+PI_703106_5.jpg,apple,225.91,PI_703106_5.jpg,0,3126.625,3647.438,1966.531,3503.062,zz
+PI_703106_7.jpg,apple,225.91,PI_703106_7.jpg,0,3278.417,3551,1813.469,3703.375,zz
+PI_703109_12.jpg,apple,225.91,PI_703109_12.jpg,0,3475.5,3606.167,1619.625,3237.458,zz
+PI_703109_14.jpg,apple,225.91,PI_703109_14.jpg,0,3543.5,3536.562,1551.458,3542.417,zz
+PI_703109_3.jpg,apple,225.91,PI_703109_3.jpg,0,2636.5,6537.125,283.583,6435.917,zz
+PI_703110_1.jpg,apple,225.91,PI_703110_1.jpg,0,4897.5,5823.312,2872.562,5804.062,zz
+PI_703110_2.jpg,apple,225.91,PI_703110_2.jpg,0,2514.625,6372.125,358.625,6576.375,zz
+PI_703110_3.jpg,apple,225.91,PI_703110_3.jpg,0,3576.375,3651.438,1516.531,3527.219,zz
+PI_703112_2.jpg,apple,225.91,PI_703112_2.jpg,0,4831.375,3068.312,2583.5,2973.5,zz
+PI_703112_5.jpg,apple,225.91,PI_703112_5.jpg,0,1971.25,4386,57.5,4816.438,zz
+PI_703112_7.jpg,apple,225.91,PI_703112_7.jpg,0,2385.25,5985.333,18.333,5993.167,zz
+PI_703113a_2.jpg,apple,225.91,PI_703113a_2.jpg,0,4794.125,2712.75,1156.75,3045.562,zz
+PI_703115_2.jpg,apple,225.91,PI_703115_2.jpg,0,3481.583,3484.5,1611.5,3641,zz
+PI_703115_3.jpg,apple,225.91,PI_703115_3.jpg,0,3215.562,3687.562,1884.469,3404.5,zz
+PI_703115_4.jpg,apple,225.91,PI_703115_4.jpg,0,3315.417,3536.958,1784.438,3759.125,zz
+PI_703115_7.jpg,apple,225.91,PI_703115_7.jpg,0,3184.562,3522.312,1912.531,3464.562,zz
+PI_703117a_0.jpg,apple,225.91,PI_703117a_0.jpg,0,5078.333,240.417,1288.625,651.5,zz
+PI_703117a_2.jpg,apple,225.91,PI_703117a_2.jpg,0,5010.562,2359.25,2481.5,2244.688,zz
+PI_703117a_3.jpg,apple,225.91,PI_703117a_3.jpg,0,4818.5,2870.25,1640.5,3316.875,zz
+PI_703117a_5.jpg,apple,225.91,PI_703117a_5.jpg,0,4758.417,4516.417,1895.583,4449.667,zz
+PI_703118_5.jpg,apple,225.91,PI_703118_5.jpg,0,4795.25,3301.5,2390.562,3255.125,zz
+PI_703123_2.jpg,apple,225.91,PI_703123_2.jpg,0,4211.667,2707.417,1995.438,2797.312,zz
+PI_703123_5.jpg,apple,225.91,PI_703123_5.jpg,0,2549.833,5340.333,116.625,5100.875,zz
+PI_703123a_7.jpg,apple,225.91,PI_703123a_7.jpg,0,4161.667,6607.833,2029.5,6554.75,zz
+PI_703124_1.jpg,apple,225.91,PI_703124_1.jpg,0,4839.333,1607.083,2398.562,1578.562,zz
+PI_703124_2.jpg,apple,225.91,PI_703124_2.jpg,0,3137.667,2599.667,677.562,2370,zz
+PI_703124a_1.jpg,apple,225.91,PI_703124a_1.jpg,0,4741.375,1868.5,2259.438,2157.75,zz
+PI_703126_0.jpg,apple,225.91,PI_703126_0.jpg,0,3592.625,546.75,1461.375,606,zz
+PI_703126_2.jpg,apple,225.91,PI_703126_2.jpg,0,3109.719,2036.5,1297.917,1911.5,zz
+PI_703126_5.jpg,apple,225.91,PI_703126_5.jpg,0,3895.333,3994.75,1504.5,4039.5,zz
+PI_703126_6.jpg,apple,225.91,PI_703126_6.jpg,0,2546.417,4932.5,347.542,4651.458,zz
+PI_703126_8.jpg,apple,225.91,PI_703126_8.jpg,0,4293.417,6092.333,2080.833,6207.167,zz
+PI_703126a_0.jpg,apple,225.91,PI_703126a_0.jpg,0,3510.5,755.5,1321.417,984.083,zz
+PI_703127_5.jpg,apple,225.91,PI_703127_5.jpg,0,2650.417,4639,594.583,4686.417,zz
+PI_703127_7.jpg,apple,225.91,PI_703127_7.jpg,0,2367.5,6073.417,431.5,6015.25,zz
+PI_703127a_1.jpg,apple,225.91,PI_703127a_1.jpg,0,4580.5,1534.25,2612.583,1405.667,zz
+PI_703127a_5.jpg,apple,225.91,PI_703127a_5.jpg,0,4636.833,5662.333,2130.562,5322.75,zz
+PI_703128_1.jpg,apple,225.91,PI_703128_1.jpg,0,4393.5,2338.667,2239.542,2504.042,zz
+PI_703128_4.jpg,apple,225.91,PI_703128_4.jpg,0,2699.375,5653.312,84.667,5125.833,zz
+PI_703128a_3.jpg,apple,225.91,PI_703128a_3.jpg,0,2806.75,5826.5,543.667,5430.333,zz
+PI_703129_0.jpg,apple,225.91,PI_703129_0.jpg,0,3839.438,706.438,1271.667,885.667,zz
+PI_703129_6.jpg,apple,225.91,PI_703129_6.jpg,0,4692.417,5759.917,2687.375,5786,zz
+PI_703129_7.jpg,apple,225.91,PI_703129_7.jpg,0,2807.583,6142.333,250.458,6027.5,zz
+PI_703129a_6.jpg,apple,225.91,PI_703129a_6.jpg,0,4596.375,6266.75,2155.625,6232.688,zz
+PI_703130_1.jpg,apple,225.91,PI_703130_1.jpg,0,2762.5,3308,499.5,2935.625,zz
+PI_703130_4.jpg,apple,225.91,PI_703130_4.jpg,0,4495.625,5375.5,1916.469,5432.062,zz
+PI_703130a_2.jpg,apple,225.91,PI_703130a_2.jpg,0,3164.5,2614.583,1119.625,2797.5,zz
+PI_703130a_4.jpg,apple,225.91,PI_703130a_4.jpg,0,4700.625,4573.875,2333.375,4632.5,zz
+PI_703130a_5.jpg,apple,225.91,PI_703130a_5.jpg,0,2650.562,5456.812,321.469,5334.5,zz
+PI_703131_1.jpg,apple,225.91,PI_703131_1.jpg,0,4506.5,3762.333,2526.406,4070.469,zz
+PI_703131a_0.jpg,apple,225.91,PI_703131a_0.jpg,0,3437.625,830.375,1155.5,1082,zz
+PI_703131a_1.jpg,apple,225.91,PI_703131a_1.jpg,0,4950.5,1761,2751.583,1800.5,zz
+PI_703131a_2.jpg,apple,225.91,PI_703131a_2.jpg,0,2903.25,2063.5,586.719,2323.531,zz
+PI_703131a_5.jpg,apple,225.91,PI_703131a_5.jpg,0,4636.438,5114.188,2172.5,5250.625,zz
+PI_703132_0.jpg,apple,225.91,PI_703132_0.jpg,0,2767.083,611.5,1168.542,688.5,zz
+PI_703132_1.jpg,apple,225.91,PI_703132_1.jpg,0,4703.5,934.188,2741.562,954.938,zz
+PI_703132_5.jpg,apple,225.91,PI_703132_5.jpg,0,1821.75,5431.5,189.5,4640.167,zz
+PI_703132a_0.jpg,apple,225.91,PI_703132a_0.jpg,0,4639.125,2511.438,2630.5,2063.25,zz
+PI_703146_3.jpg,apple,225.91,PI_703146_3.jpg,0,3472.667,3183.333,1480.625,3131.375,zz
+PI_703146_6.jpg,apple,225.91,PI_703146_6.jpg,0,4757.438,5555.688,2654.5,5435,zz
+PI_703146a_0.jpg,apple,225.91,PI_703146a_0.jpg,0,4515.583,707.25,2509.333,808.833,zz
+PI_703147_5.jpg,apple,225.91,PI_703147_5.jpg,0,3012.312,4677.375,813.875,4606.5,zz
+PI_703148_0.jpg,apple,225.91,PI_703148_0.jpg,0,2983.438,524.688,1279.531,1081.656,zz
+PI_703148_3.jpg,apple,225.91,PI_703148_3.jpg,0,1963.5,3332.875,554.5,3436.75,zz
+PI_703161_1.jpg,apple,225.91,PI_703161_1.jpg,0,3208.5,1903.167,578.562,1768.188,zz
+PI_703161_4.jpg,apple,225.91,PI_703161_4.jpg,0,5093.583,3749,2474.542,3890.792,zz
+PI_703161_5.jpg,apple,225.91,PI_703161_5.jpg,0,3023.583,4595.667,367.5,4837.312,zz
+PI_703161a_0.jpg,apple,225.91,PI_703161a_0.jpg,0,3236.469,1177.188,622.458,1690.583,zz
+PI_703163_2.jpg,apple,225.91,PI_703163_2.jpg,0,3397.5,2049.438,920.562,2178,zz
+PI_703163_3.jpg,apple,225.91,PI_703163_3.jpg,0,4899.375,2882.375,2564.583,2653.417,zz
+PI_703163a_1.jpg,apple,225.91,PI_703163a_1.jpg,0,3205.438,1947.25,1425.5,2160.333,zz
+PI_703165_0.jpg,apple,225.91,PI_703165_0.jpg,0,3871.417,427.417,1200.5,744.094,zz
+PI_703165a_4.jpg,apple,225.91,PI_703165a_4.jpg,0,4107.375,3984.438,699.5,4321.594,zz
+PI_703167_0.jpg,apple,225.91,PI_703167_0.jpg,0,2875.625,714.562,1288.562,608.188,zz
+PI_703167a_2.jpg,apple,225.91,PI_703167a_2.jpg,0,3618.5,3614.719,1302.531,3494.656,zz
+PI_703171_3.jpg,apple,225.91,PI_703171_3.jpg,0,3154.5,3411.167,1944.667,3569.333,zz
+PI_703171_4.jpg,apple,225.91,PI_703171_4.jpg,0,3260.458,3472.75,1847.5,3329.5,zz
+PI_703172_1.jpg,apple,225.91,PI_703172_1.jpg,0,5098.812,1255.062,2946.625,1354.125,zz
+PI_703172_4.jpg,apple,225.91,PI_703172_4.jpg,0,2857.667,3338,139.5,3278.042,zz
+PI_703172a_3.jpg,apple,225.91,PI_703172a_3.jpg,0,4430.438,4666.438,3028.833,4602,zz
+PI_703173_0.jpg,apple,225.91,PI_703173_0.jpg,0,3915.5,1010.5,1383.562,789.875,zz
+PI_703173_5.jpg,apple,225.91,PI_703173_5.jpg,0,4570.458,5488.375,2472.667,5345.167,zz
+PI_703173_6.jpg,apple,225.91,PI_703173_6.jpg,0,2647.5,5842.5,527.5,5878.25,zz
+PI_703173a_0.jpg,apple,225.91,PI_703173a_0.jpg,0,4138.5,1569.5,1517.562,1061.5,zz
+PI_703173a_6.jpg,apple,225.91,PI_703173a_6.jpg,0,2360.625,5749.25,246.417,5842.5,zz
+PI_703201_0.jpg,apple,225.91,PI_703201_0.jpg,0,3655.469,480.375,1143.5,1001.125,zz
+PI_703202a_1.jpg,apple,225.91,PI_703202a_1.jpg,0,5047.458,5185.458,2250.5,4905.719,zz
+PI_703204_3.jpg,apple,225.91,PI_703204_3.jpg,0,738.75,3625.5,771.125,2005.438,zz
+PI_703205_1.jpg,apple,225.91,PI_703205_1.jpg,0,1389.5,3503.125,4889.438,3734.062,zz
+PI_703205a_2.jpg,apple,225.91,PI_703205a_2.jpg,0,1702.5,3482.542,4847.417,3552.75,zz
+PI_703206_1.jpg,apple,225.91,PI_703206_1.jpg,0,823.333,1354.5,876.625,4203.5,zz
+PI_703206a_0.jpg,apple,225.91,PI_703206a_0.jpg,0,1868.5,1653.562,4780.562,1505.125,zz
+PI_703206a_1.jpg,apple,225.91,PI_703206a_1.jpg,0,1028.25,1169.5,1181.625,3657.375,zz
+PI_703207_2.jpg,apple,225.91,PI_703207_2.jpg,0,2415.375,2753.5,4827.583,3057.083,zz
+PI_703207_3.jpg,apple,225.91,PI_703207_3.jpg,0,1070.75,6196.469,1120,3512.5,zz
+PI_703207a_2.jpg,apple,225.91,PI_703207a_2.jpg,0,2298.333,2404.75,4872.438,2444.812,zz
+PI_703207a_3.jpg,apple,225.91,PI_703207a_3.jpg,0,2559.562,3797.688,4917.625,3635.25,zz
+PI_703207a_5.jpg,apple,225.91,PI_703207a_5.jpg,0,2313.5,5766.542,4888.5,5492.688,zz
+PI_703211_1.jpg,apple,225.91,PI_703211_1.jpg,0,3243.469,3159.5,629.5,3402.125,zz
+PI_703211a_0.jpg,apple,225.91,PI_703211a_0.jpg,0,3806.469,792.188,1486.5,968.75,zz
+PI_703211a_1.jpg,apple,225.91,PI_703211a_1.jpg,0,3542.469,2518.531,1041.5,2143.312,zz
+PI_703211a_2.jpg,apple,225.91,PI_703211a_2.jpg,0,4765.469,3333.781,2336.5,3789.219,zz
+PI_703211a_3.jpg,apple,225.91,PI_703211a_3.jpg,0,2288.469,6356.656,116.5,6149.969,zz
+PI_703212a_3.jpg,apple,225.91,PI_703212a_3.jpg,0,3254.469,4748.375,107.5,4825.375,zz
+PI_703213a_0.jpg,apple,225.91,PI_703213a_0.jpg,0,4231.469,1163.75,1427.5,832.406,zz
+PI_703213c_0.jpg,apple,225.91,PI_703213c_0.jpg,0,4931.469,2571.031,2263.5,2464.719,zz
+PI_703213c_1.jpg,apple,225.91,PI_703213c_1.jpg,0,3440.469,3833.25,646.5,3850.156,zz
+PI_703214a_0.jpg,apple,225.91,PI_703214a_0.jpg,0,4387.458,740.208,1316.5,914.125,zz
+PI_703218_1.jpg,apple,225.91,PI_703218_1.jpg,0,4341.438,2462.406,436.5,2356.75,zz
+PI_703218a_3.jpg,apple,225.91,PI_703218a_3.jpg,0,4901.438,4211.625,1486.5,4697.792,zz
+PI_703221a_1.jpg,apple,225.91,PI_703221a_1.jpg,0,3289.469,2182.156,723.5,2023.406,zz
+PI_703221b_0.jpg,apple,225.91,PI_703221b_0.jpg,0,4555.469,5551.594,1584.5,5140.938,zz
