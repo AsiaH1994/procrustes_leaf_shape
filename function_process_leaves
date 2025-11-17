@@ -1,0 +1,117 @@
+Updated function for processing leaves
+
+def process_leaf_data(mdata):
+    ######################
+    ### SET PARAMETERS ###
+    ######################
+
+    high_res_pts = 1000
+    res = 50  # Total pseudo-landmarks = 2 * res - 1
+
+    # Create empty array to store all leaves' cm-scaled pseudo-landmarks
+    cm_arr = np.zeros((len(mdata), (res * 2) - 1, 2))
+
+    # Process each leaf
+    for lf in range(len(mdata)):
+
+        ###############################
+        ### READ IN GRAYSCALE IMAGE ###
+        ###############################
+
+        curr_image = mdata["file"][lf]
+        print(lf, curr_image)
+
+        img = cv2.bitwise_not(cv2.cvtColor(cv2.imread(data_dir + curr_image),cv2.COLOR_BGR2GRAY))
+        contours, _ = cv2.findContours(img, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+        ##############################
+        ### SELECT LARGEST CONTOUR ###
+        ##############################
+
+        x_conts, y_conts, areas_conts = [], [], []
+
+        for c in contours:
+            x_vals = [pt[0][0] for pt in c]
+            y_vals = [pt[0][1] for pt in c]
+            area = (max(x_vals) - min(x_vals)) * (max(y_vals) - min(y_vals))
+            x_conts.append(x_vals)
+            y_conts.append(y_vals)
+            areas_conts.append(area)
+
+        area_inds = np.flip(np.argsort(areas_conts))
+        sorted_x_conts = np.array(x_conts, dtype=object)[area_inds]
+        sorted_y_conts = np.array(y_conts, dtype=object)[area_inds]
+
+        ################################################
+        ### INTERPOLATE HIGH RES NUMBER OF LANDMARKS ###
+        ################################################
+
+        high_res_x, high_res_y = interpolation(
+            sorted_x_conts[0], sorted_y_conts[0], high_res_pts
+        )
+
+        ###############################
+        ### FIND BASE AND TIP INDEX ###
+        ###############################
+
+        base_pt = np.array((mdata["base_x"][lf], mdata["base_y"][lf]))
+        tip_pt = np.array((mdata["tip_x"][lf], mdata["tip_y"][lf]))
+
+        base_dists = [
+            euclid_dist(base_pt[0], base_pt[1], high_res_x[pt], high_res_y[pt])
+            for pt in range(len(high_res_x))
+        ]
+        tip_dists = [
+            euclid_dist(tip_pt[0], tip_pt[1], high_res_x[pt], high_res_y[pt])
+            for pt in range(len(high_res_x))
+        ]
+
+        base_ind = np.argmin(base_dists)
+        tip_ind = np.argmin(tip_dists)
+
+        ################################
+        ### RESET BASE INDEX TO ZERO ###
+        ################################
+
+        high_res_x = np.concatenate((high_res_x[base_ind:], high_res_x[:base_ind]))
+        high_res_y = np.concatenate((high_res_y[base_ind:], high_res_y[:base_ind]))
+
+        tip_ind = tip_ind - base_ind
+        base_ind = 0
+
+        lf_contour = np.column_stack((high_res_x, high_res_y))
+
+        ##############################################################
+        ### INTERPOLATE EACH SIDE WITH DESIRED NUMBER OF LANDMARKS ###
+        ##############################################################
+
+        left_inter_x, left_inter_y = interpolation(
+            lf_contour[base_ind:tip_ind+1, 0], lf_contour[base_ind:tip_ind+1, 1], res
+        )
+        right_inter_x, right_inter_y = interpolation(
+            lf_contour[tip_ind:, 0], lf_contour[tip_ind:, 1], res
+        )
+
+        left_inter_x = np.delete(left_inter_x, -1)
+        left_inter_y = np.delete(left_inter_y, -1)
+
+        lf_pts_left = np.column_stack((left_inter_x, left_inter_y))
+        lf_pts_right = np.column_stack((right_inter_x, right_inter_y))
+        lf_pts = np.row_stack((lf_pts_left, lf_pts_right))
+
+        ##########################################################
+        ### ROTATE LEAVES UPWARD AND SCALE SIZE TO CENTIMETERS ###
+        ##########################################################
+
+        tip_point = lf_pts[res-1, :]
+        base_point = lf_pts[0, :]
+
+        ang = angle_between(tip_point, base_point, (base_point[0]+1, base_point[1]))
+
+        rot_x, rot_y = rotate_points(lf_pts[:, 0], lf_pts[:, 1], ang)
+        rot_pts = np.column_stack((rot_x, rot_y))
+
+        cm_lf = rot_pts / mdata["px_cm"][lf]
+        cm_arr[lf, :, :] = cm_lf
+
+    return cm_arr
