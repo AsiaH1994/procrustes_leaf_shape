@@ -1,3 +1,25 @@
+# Update 11/17/25 
+We've added code that turns the process of adding pseudo-landmarks to leaves and saving them as an array into a function. This function can be found in the "function_processed_leaves" file. 
+
+Example code: 
+#### 1. upload the csv for each dataset for which you want a mean shape (ex. species 1)
+ species1_df = pd.read_csv("species1.csv")
+ print("species1_df", len(species1_df))
+#check that the number of samples is correct
+
+#### 2. add image files using the original code 
+Nothing new here
+
+#### 3. Add pseudo-landmarks to shapes from species 1 only 
+species1_arr = process_leaf_data(species1_df)
+This code will match image files in the "file_names" list with the file names in the species1_df and return an array including procrustes aligned shapes from species 1 only. 
+
+#### 4. Make the mean shape from procrustes aligned shapes
+mean_species1 = gpa_mean(species1_arr, landmark_num, dim_num)
+In case it was not previously defined, lanmark_num = 50, dim_num = 2.
+
+#############################################################################################################################################################
+
 # Leaf shape analysis using Procrustes analysis and pseudo-landmarks to process any leaf shape
 This repisotory includes the necessary tools for assigning pseudo-landmarks to any leaf. Then, pseudo-landmarks are used to calculate a procrues distance by rotating, scaling, and aligning all leaves. 
 The dataset present in this repository includes leaves from eight different research groups and of various shapes. Using the leaf shape analysis jupyter notebook (GPA_leaf_shape_v1.ipynb), we combined each species dataset into one overall dataset and created a dataset morphospace that used PC's to describe the shape of all leaves present (Fig. 1). We then colored the PCA morphospace using shape descriptors (Fig. 2). Finally, we used LDA to predict differences in leaf shape using combinations of pseudo-landmarks (Fig. 3). Using previously published leaf shapes, we also show how to process and analyze continuous representations of leaf shapes (passiflora.ipynb) and to determing the underlying genetic architecture that controls and affects leaf shape (tomato_leaflet_genetics.ipynb). 
