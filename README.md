@@ -44,4 +44,23 @@ Figure 3. **Linear discriminant analysis of all leaves.** A. A confusion matrix 
 ## A call to action: building a morphospace of all leaf shapes
 In the study we performed to test and describe our leaf shape analysis, we have shown that examining leaf shape variation can be easy, cheap, and fast. Importantly, by using base and tip points that are common and homologous to all leaves and placing equidistantly spaced pseudo-landmarks on each side of the leaf, any leaf can compared in overall similarity to any other. Therefore, as we continue to study leaf shape as a wider plant science community, we would like to challenge any researchers that are interested in leaf shape to not only use the analyses and data presented in their study with these analyses techniques, but to combine your data with the leaf shapes shared here to create a continuously growing morphospace of all leaves. 
 
-Our goal is to continuously update the proc_arr array which contains the leaf information and Procrustes aligned pseudo-landmarks to create a PCA morphospace of all the worlds leaves. Therefore, if you use our leaf shape analysis to analyze any leaves, please send your proc_arr array (or leaf data in any other form) to **Asia Hightower (asiac313@gmail.com)**. After recieving leaf data, we will update the proc_arr array in this repository and repost an updated PCa morphospace that includes all leaves possible. The ultimate goal is that any future leaf shape research can feature this all leaves morphospace and each study can highlight the relationships between their leaves and all other leaves. 
+# How to submit leaf data (updated 11/17/25)
+Our goal is to continuously update the proc_arr array which contains the leaf information and Procrustes aligned pseudo-landmarks to create a PCA morphospace of all the worlds leaves. This array and the accompanying csv will only include the required shape data (tip and base coordinates, pixels per centimeter, file names) and will include optional genetic and environmental data as provided and with researcher premission. Therefore, if you use our leaf shape analysis to analyze any leaves, please share your data with us! We are happy to accept data in any format but the best data format is defined below.
+
+Q: How should I format my data for submission: 
+
+A: Data formats: 
+  
+  a. Best info - proc_arr array and the csv used in the analysis (including the tip and base coordinates and pixels per centimeters for each leaf shape)
+  
+  b. Fair info - single leaf image files as jpgs (black leaf image on white backgound) and csv used in analysis
+  
+  c. poor info - original colored image files (especially those with multiple leaves) and csv used in analysis
+
+Q: How can you submit your data: 
+
+A: Email - Asia Hightower at asiac313@gmail.com. Please include "submitting leaf shape data" in the subject line. 
+
+Q: What happens after submitting my data: 
+
+A: After recieving leaf data, we will update the proc_arr array in this repository and repost an updated PCA morphospace that includes all leaves possible. The ultimate goal is that any future leaf shape research can feature this all leaves morphospace and each study can highlight the relationships between their leaves and all other leaves. 
