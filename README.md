@@ -3,19 +3,27 @@ We've added code that turns the process of adding pseudo-landmarks to leaves and
 
 Example code: 
 #### 1. upload the csv for each dataset for which you want a mean shape (ex. species 1)
+ 
  species1_df = pd.read_csv("species1.csv")
+ 
  print("species1_df", len(species1_df))
-#check that the number of samples is correct
+
+check that the number of samples is correct
 
 #### 2. add image files using the original code 
+
 Nothing new here
 
 #### 3. Add pseudo-landmarks to shapes from species 1 only 
+
 species1_arr = process_leaf_data(species1_df)
+
 This code will match image files in the "file_names" list with the file names in the species1_df and return an array including procrustes aligned shapes from species 1 only. 
 
 #### 4. Make the mean shape from procrustes aligned shapes
+
 mean_species1 = gpa_mean(species1_arr, landmark_num, dim_num)
+
 In case it was not previously defined, lanmark_num = 50, dim_num = 2.
 
 #############################################################################################################################################################
